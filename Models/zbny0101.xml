@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>org.aericaps.ZBNY/zbny0101.ac</path>
+<effect>
+  <inherits-from>terminalZBNY</inherits-from>
+  <object-name>zbny0101.obj</object-name>
+</effect>
+</PropertyList>

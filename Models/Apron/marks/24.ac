@@ -1,0 +1,22 @@
+AC3Db
+MATERIAL "" rgb 1 1 1  amb 0.9 0.9 0.9  emis 0 0 0  spec 0.8 0.8 0.8  shi 0  trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "wavefront obj"
+texture "Apron_Number.png"
+crease 45.000000
+numvert 4
+2.25 0 -3.5
+-2.25 0 -3.5
+2.25 0 3.5
+-2.25 0 3.5
+numsurf 1
+SURF 0x30
+mat 0
+refs 4
+3 0.48 0.8018
+2 0.6004 0.8018
+0 0.6006 1.0003
+1 0.4799 1.0003
+kids 0

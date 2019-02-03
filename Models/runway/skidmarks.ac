@@ -1,0 +1,83 @@
+AC3Db
+MATERIAL "" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0 0 0  shi 128  trans 0
+OBJECT world
+kids 1
+OBJECT group
+name "skidmarks.obj"
+kids 1
+OBJECT group
+name "Default LOD"
+kids 1
+OBJECT poly
+name "POLY_OS=0 HARD= BLEND=yes"
+data 95
+poly_os=0.000000
+blend=-1.000000
+hard_surf=
+deck=0
+mod_lit=0
+wall=0
+draw_disable=0
+manip_type=0
+texture skidmarks.png
+crease 45.000000
+numvert 9
+-20 1.311e-05 300
+-20 -1.311e-05 -300
+-20 0 0
+0 1.311e-05 300
+20 1.311e-05 300
+0 -1.311e-05 -300
+0 0 0
+20 0 0
+20 -1.311e-05 -300
+numsurf 8
+SURF 0x10
+mat 0
+refs 3
+6 0.5 0.5
+2 0.919879 0.5
+0 0.91988 0.9999
+SURF 0x10
+mat 0
+refs 3
+0 0.91988 0.9999
+3 0.5 0.9999
+6 0.5 0.5
+SURF 0x10
+mat 0
+refs 3
+5 0.5 9.996e-05
+1 0.919879 9.966e-05
+2 0.919879 0.5
+SURF 0x10
+mat 0
+refs 3
+2 0.919879 0.5
+6 0.5 0.5
+5 0.5 9.996e-05
+SURF 0x10
+mat 0
+refs 3
+7 0.0801204 0.5
+6 0.5 0.5
+3 0.5 0.9999
+SURF 0x10
+mat 0
+refs 3
+3 0.5 0.9999
+4 0.0801208 0.9999
+7 0.0801204 0.5
+SURF 0x10
+mat 0
+refs 3
+8 0.0801201 0.00010052
+5 0.5 9.996e-05
+6 0.5 0.5
+SURF 0x10
+mat 0
+refs 3
+6 0.5 0.5
+7 0.0801204 0.5
+8 0.0801201 0.00010052
+kids 0

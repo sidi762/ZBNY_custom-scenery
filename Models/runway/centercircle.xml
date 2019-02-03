@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PropertyList>
+ <path>centercircle20m.ac</path>
+
+ <animation>
+   <type>noshadow</type>
+   <object-name>circle</object-name>
+ </animation>
+
+ <animation>
+   <object-name>circle</object-name>
+   <enable-hot type="bool">false</enable-hot>
+ </animation>
+</PropertyList>
