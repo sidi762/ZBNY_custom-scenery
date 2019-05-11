@@ -1,0 +1,51 @@
+RuScenery
+
+Library of USSR and CIS airfields objects.
+Библиотека аэродромных объектов СССР, СНГ.
+http://ruscenery.x-air.ru/
+
+Авторы модели самолёта Ан-12 и текстур, 
+с которых была выполнена первичная конвертация в объекты RuScenery.
+
+
+
+3D - модель  				
+автор                 			- SBAI
+адаптация для RuScenery			- Iron (www.x-plane.su/forum/)
+
+
+
+paint-KIT                               
+автор 					- Paint kit: V.Storozhko (ALFER), A.Sklyar (Sanovich)
+                                          (www.avsim.su/files.phtml?fileid=27875)
+
+
+
+текстуры
+
+Файл         Авиакомпания              Борт        Автор     URL
+                                                  
+an-12-0.png  Аэрофлот СССР             СССР-12965  Sanovich  (www.avsim.su/files.phtml?fileid=27718)
+an-12-1.png  НПО "Космос"              RA-12957    БТ        (www.avsim.su/files.phtml?fileid=8301)
+an-12-2.png  НАПО им. Чкалова          RA-12915    makc-sim  (www.avsim.su/files.phtml?fileid=8129)
+an-12-3.png  Antonov Design Bureau     UR-21510    makc-sim  (www.avsim.su/files.phtml?fileid=8195)
+an-12-4.png  Кавказские минводы        RA-12494    БТ        (www.avsim.su/files.phtml?fileid=8179)
+an-12-5.png  Атран                     RA-93912    makc-sim  (www.avsim.su/files.phtml?fileid=8195)
+an-12-6.png  Авиаль НВ                 RA-11339    makc-sim  (www.avsim.su/files.phtml?fileid=8195)
+an-12-7.png  SAT                       RA-11376    makc-sim  (www.avsim.su/f/fs2004-ai-samoleti-dlya-trafika-48/ai-an-12-sat-sakhalinskie-aviatrassi-obnovlenie-2008--12647.html)
+an-12-8.png  ЛИИ им. Громова           RA-12162    makc-sim  (www.avsim.su/files.phtml?fileid=8195)
+an-12-9.png                            RA-11364    makc-sim  (www.avsim.su/f/fs2004-ai-samoleti-dlya-trafika-48/ai-an-12-sat-sakhalinskie-aviatrassi-obnovlenie-2008--12647.html)
+an-12-a.png  ВВС РФ                    26          Builder   (www.avsim.su/f/fs2004-ai-samoleti-dlya-trafika-48/skj-an-12-vvs-blue-26-9023.html)
+an-12-b.png  ВВС РФ                    81          Sanovich  (www.avsim.su/files.phtml?fileid=27718)
+an-12-c.png  ВВС РФ                    72          Sanovich  (www.avsim.su/files.phtml?fileid=27718)
+an-12-d.png  ВВС РФ                    08          Sanovich  (www.avsim.su/files.phtml?fileid=27718)
+an-12-e.png  Аэрофлот СССР (красный)   СССР-12959  Sanovich  (www.avsim.su/files.phtml?fileid=27718)
+an-12-f.png  Аэрофлот СССР (полярный)  СССР-04366  Sanovich  (www.avsim.su/files.phtml?fileid=27718)
+an-12-g.png  Lord of War               9L-LEC      hop       (www.avsim.su/f/fs2004-ai-samoleti-dlya-trafika-48/an-12-lord-of-war-12717.html)
+
+адаптация всех текстур для RuScenery   - Iron (www.x-plane.su/forum/)
+
+
+На исходные объекты и текстуры действует лицензия:
+Freeware - Бесплатная версия.
+За подробностями коммерческого использования обращайтесь к разработчикам.

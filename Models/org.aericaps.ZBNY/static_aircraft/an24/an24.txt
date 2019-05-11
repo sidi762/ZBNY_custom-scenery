@@ -1,0 +1,52 @@
+RuScenery
+
+Library of USSR and CIS airfields objects.
+Библиотека аэродромных объектов СССР, СНГ.
+http://ruscenery.x-air.ru/
+
+Авторы модели самолёта Ан-24 и текстур, 
+с которых была выполнена первичная конвертация в объекты RuScenery.
+
+
+
+3D - модель  				
+автор                 			- Sergey 'SKJ' Carr, Сергей Буневич (sib2217)
+конвертация в x-plane			- X-AiR team (www.x-air.ru)
+адаптация для RuScenery			- Iron (www.x-plane.su/forum/)
+
+
+
+paint-KIT                               
+автор 					- Nikolay 'INS' Samsonov / CIS Traffic Team
+                                          (library.avsim.net/download.php?DLID=88915)
+
+
+
+текстуры
+
+Файл         Авиакомпания                  Борт        Автор                URL
+
+an-24-0.png  Аэрофлот (СССР)               СССР-46267  Sanovich             (www.avsim.su/files.phtml?fileid=27320)
+an-24-1.png  Аэрофлот (СССР)               СССР-47362  Sanovich             (www.avsim.su/files.phtml?fileid=27336)
+an-24-2.png  Аэрофлот (СССР)               СССР-46353  Sanovich             (www.avsim.su/files.phtml?fileid=27320)
+an-24-3.png  Полярная авиация (СССР)       СССР-46211  DIV                  (www.avsim.su/files.phtml?fileid=26862)
+an-24-4.png  Аэрофлот (СССР)               СССР-46280  DIV                  (www.avsim.su/files.phtml?fileid=26834)
+an-24-5.png  Чебоксарское авиапредприятие  RA-46499    Rocawear             (www.avsim.su/files.phtml?fileid=20977)
+an-24-6.png  Аэрофлот (Россия)             RA-47198    Комков Александр     (www.avsim.su/files.phtml?fileid=19429)
+an-24-7.png  Полярные авиалинии            RA-46333    Thomas Gierse        (www.avsim.su/files.phtml?fileid=16638)
+an-24-8.png  Авиалинии Мордовии            RA-46505    Alexander Kuzmin     (www.avsim.su/files.phtml?fileid=23819)
+an-24-9.png  Авиалинии Мордовии            RA-08824    Alexander Kuzmin     (www.avsim.su/files.phtml?fileid=23819)
+an-24-a.png  ЦСКБ Прогресс                 RA-26191    Alexander Kuzmin     (www.avsim.su/files.phtml?fileid=24291)
+an-24-b.png  Летные проверки и системы     RA-46395    Alexander Kuzmin     (www.avsim.su/files.phtml?fileid=25246)
+an-24-c.png  ЮтЭйр                         RA-13344    Nikman               (www.avsim.su/files.phtml?fileid=27216)                                                   
+an-24-d.png  AIR-URGA                      UR-ELN      makc-sim@ya.ru       (www.avsim.su/files.phtml?fileid=17887)
+an-24-e.png  Якутия                        RA-46690    Саша                 (www.x-plane.su/forum/)
+an-24-f.png  ТомскАвиа                     RA-47355    Yaroslav Pankratiev  (www.trafficsystem.ru)
+
+
+адаптация всех текстур для RuScenery   - Iron (www.x-plane.su/forum/)
+
+
+На исходные объекты и текстуры действует лицензия:
+Freeware - Бесплатная версия.
+За подробностями коммерческого использования обращайтесь к разработчикам.
