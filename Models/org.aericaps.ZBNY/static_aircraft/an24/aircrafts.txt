@@ -1,0 +1,86 @@
+RuScenery
+
+Library of USSR and CIS airfields objects.
+Библиотека аэродромных объектов СССР, СНГ.
+http://ruscenery.x-air.ru/
+
+Авторы моделей самолётов и текстур, 
+с которых была выполнена первичная конвертация в объекты RuScenery.
+
+
+OBJ		Автор модели		URL						                        COPYRIGHT
+
+a-50.obj	Christian Bothe, Iron	Переделан из объекта Il-76.obj						PAR
+an-8-1.obj      Pedro van Leeuwen                                                                               Ok
+an-8-2.obj      Pedro van Leeuwen                                                                               Ok
+an-8-3.obj      Pedro van Leeuwen                                                                               Ok
+an-10.obj	Yury Pilnikov		http://www.avsim.su/f/x-plane-originalnie-samoleti-95/an-10a-12265.html AV
+an-22.obj       Datum000                http://forums.x-plane.org/index.php?autocom=downloads&showfile=7099     XP
+an-28.obj       Markus Schneider	http://forums.x-plane.org/index.php?autocom=downloads&showfile=5615     XP
+an-30.obj       Yury Pilnikov		http://www.avsim.su/files.phtml?fileid=18247                            AV
+an-32.obj       Yury Pilnikov           http://www.avsim.su/files.phtml?fileid=17097				AV
+an-225.obj      ghun1                   http://forums.x-plane.org/index.php?autocom=downloads&showfile=2101     XP
+il-28.obj	Jacques Brault		http://forums.x-plane.org/index.php?autocom=downloads&showfile=4189     XP
+il-62-1.obj     riviere                 http://forums.x-plane.org/index.php?autocom=downloads&showfile=2208     XP
+il-62-2.obj     riviere                 http://forums.x-plane.org/index.php?autocom=downloads&showfile=2208     XP
+il-76.obj       Christian Bothe		http://www.avsim.su/files.phtml?fileid=19129				PAR	
+il-86-1.obj     fedarr                  http://www.avsim.su/f/x-plane-originalnie-samoleti-95/il-86-13033.html  AV
+il-86-2.obj     fedarr                  http://www.avsim.su/f/x-plane-originalnie-samoleti-95/il-86-13033.html  AV
+il-86-3.obj     fedarr                  http://www.avsim.su/f/x-plane-originalnie-samoleti-95/il-86-13033.html  AV
+il-86-4.obj     FOMAERO			http://www.avsim.su/files.phtml?fileid=15662                            AV
+il-96-1.obj    Jose Juan Gamez Kindelan http://forums.x-plane.org/index.php?autocom=downloads&showfile=2121     XP                  
+il-96-2.obj    Jose Juan Gamez Kindelan http://forums.x-plane.org/index.php?autocom=downloads&showfile=6564     XP
+il-96-3.obj     riviere			http://forums.x-plane.org/index.php?autocom=downloads&showfile=2088     XP
+il-96-4.obj     riviere                 http://forums.x-plane.org/index.php?autocom=downloads&showfile=2086     XP
+ka-50.obj	Criminy			http://forums.x-plane.org/index.php?autocom=downloads&showfile=1231     XP
+mi-8-1.obj      active			http://forums.x-plane.org/index.php?autocom=downloads&showfile=3730     XP
+mi-8-2.obj	active			http://forums.x-plane.org/index.php?autocom=downloads&showfile=3730     XP
+mi-8-3.obj	active			http://forums.x-plane.org/index.php?autocom=downloads&showfile=3730     XP
+mi-8-4.obj	active			http://forums.x-plane.org/index.php?autocom=downloads&showfile=3670     XP
+mi-8-5.obj	active			http://forums.x-plane.org/index.php?autocom=downloads&showfile=3670     XP
+mig-15-1.obj 	Jacques Brault		http://forums.x-plane.org/index.php?autocom=downloads&showfile=5458     XP
+mig-15-2.obj    Barry Leger             http://www.xplanefreeware.net/barry/X-Plane 8.0/MiG-15 V761.zip         NC
+mig-17.obj      Jacques Brault          http://forums.x-plane.org/index.php?autocom=downloads&showfile=1901     XP
+mig-19.obj      Jacques Brault          http://forums.x-plane.org/index.php?autocom=downloads&showfile=1859     XP
+mig-21.obj 	Barry Leger		http://www.xplanefreeware.net/barry/X-Plane 8.0/MiG-21 811c.zip         NC
+mig-23.obj      Barry Leger		http://www.xplanefreeware.net/barry/X-Plane 8.0/MiG-23 Flogger 830.zip  NC
+mig-25-1.obj    Barry Leger             http://www.xplanefreeware.net/barry/X-Plane 8.0/MiG-25A 802.zip         NC
+mig-25-2.obj	SuperFighter		http://forums.x-plane.org/index.php?autocom=downloads&showfile=2679     XP
+mig-27.obj 	Barry Leger		http://www.xplanefreeware.net/barry/X-Plane 8.0/MiG-27 Flogger 830.zip  NC
+mig-29.obj 	Barry Leger		http://www.xplanefreeware.net/barry/X-Plane 8.0/MiG-29OVT 802.zip       NC
+mig-29-sw.obj   Barry Leger		http://www.xplanefreeware.net/barry/X-Plane 8.0/MiG-29C 802.zip         NC
+mig-31.obj  	Barry Leger		http://www.xplanefreeware.net/barry/X-Plane 8.0/MiG-31M 820.zip         NC
+mig-33.obj 	Barry Leger		http://www.xplanefreeware.net/barry/X-Plane 8.0/MiG-33 802.zip          NC
+mig-AT.obj	Barry Leger		http://www.xplanefreeware.net/barry/X-Plane 8.0/MiG-AT 811c.zip         NC
+su-15.obj	Jacques Brault		http://forums.x-plane.org/index.php?autocom=downloads&showfile=5331     XP
+su-22.obj	SuperFighter 		http://forums.x-plane.org/index.php?autocom=downloads&showfile=1186     XP
+su-24.obj	Barry Leger		http://www.xplanefreeware.net/barry/X-Plane 8.0/Su-24 830.zip	        NC
+su-25.obj	Barry Leger		http://www.xplanefreeware.net/barry/X-Plane 8.0/Su-25 820.zip           NC
+su-27-1.obj	Barry Leger		http://www.xplanefreeware.net/barry/X-Plane 8.0/Su-27PD.zip             NC
+su-27-2.obj	Barry Leger		http://www.xplanefreeware.net/barry/X-Plane 8.0/Su-27 P-42.zip          NC
+su-27-rk.obj	Barry Leger		http://www.xplanefreeware.net/barry/X-Plane 8.0/Su-27RN.zip             NC
+su-29.obj       Guest                   http://forums.x-plane.org/index.php?autocom=downloads&showfile=556      XP
+su-34.obj	Barry Leger		http://www.xplanefreeware.net/barry/X-Plane 8.0/Su-34.zip               NC
+su-37.obj	Barry Leger		http://www.xplanefreeware.net/barry/X-Plane 8.0/Su-37.zip               NC
+su-39.obj	Barry Leger		http://www.xplanefreeware.net/barry/X-Plane 8.0/Su-39 820.zip           NC
+su-80.obj       riviere			http://forums.x-plane.org/index.php?autocom=downloads&showfile=1773     XP
+tu-16.obj       Jacques Brault          http://forums.x-plane.org/index.php?autocom=downloads&showfile=5278     XP
+tu-22.obj	SuperFighter		http://forums.x-plane.org/index.php?autocom=downloads&showfile=985      XP
+tu-95.obj	Jacques Brault		http://forums.x-plane.org/index.php?autocom=downloads&showfile=4828     XP
+tu-204.obj      riviere                 http://forums.x-plane.org/index.php?autocom=downloads&showfile=1589     XP
+tu-414.obj	Ruslan Baimetov		http://www.avsim.su/files.phtml?fileid=16556                            AV
+yak-50.obj      dad                   	http://forums.x-plane.org/index.php?autocom=downloads&showfile=1381     XP
+yak-52.obj      dad                     http://forums.x-plane.org/index.php?autocom=downloads&showfile=1381     XP
+yak-54-1.obj    DeeandDee               http://forums.x-plane.org/index.php?autocom=downloads&showfile=5498     XP
+yak-54-2.obj	DeeandDee		http://forums.x-plane.org/index.php?autocom=downloads&showfile=5498     XP
+yak-130.obj	I Cole			http://forums.x-plane.org/index.php?autocom=downloads&showfile=5721     XP
+
+
+
+Ok 	- Разрешен для некоммерческой конвертации;
+AV 	- Стандартная лицензия AVSim. Freeware - Бесплатная версия, распространение не ограничено;
+NC	- Не разрешена коммерческая конвертация;
+PAR	- Требуется разрешение автора;
+XP      - Страндартная лицензия X-plane.org
+
+За подробностями коммерческого использования обращайтесь к разработчикам.
