@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <ramp>
+    <latitude-deg type="string">39.79049745</latitude-deg>
+    <longitude-deg type="string">116.38999307</longitude-deg>
+    <altitude-m type="string">42.6363</altitude-m>
+    <heading-deg type="double">267.8</heading-deg>
+  </ramp>
+  <ramp n="1">
+    <latitude-deg type="string">39.79008166</latitude-deg>
+    <longitude-deg type="string">116.39004623</longitude-deg>
+    <altitude-m type="string">42.6368</altitude-m>
+    <heading-deg type="double">268.5</heading-deg>
+  </ramp>
+  <ramp n="2">
+    <latitude-deg type="string">39.78966599</latitude-deg>
+    <longitude-deg type="string">116.39008933</longitude-deg>
+    <altitude-m type="string">42.6147</altitude-m>
+    <heading-deg type="double">267.6</heading-deg>
+  </ramp>
+</PropertyList>

@@ -1,0 +1,10 @@
+Installation:
+ - Copy FGDATA/AI, FGDATA/Airports and FGDATA/Models into $FGDATA
+ - Move Scenery to where you keep your custom scenery
+ - set the custom scenery directory as the top option in FG Scenery.
+
+For more information on the ramp marshalls, check out the wiki page - http://wiki.flightgear.org/Ramp_Marshall
+
+Night Lighting requires rembrandt to be enabled.
+
+Also see AUTHOR, COPYING and THANKS file.
