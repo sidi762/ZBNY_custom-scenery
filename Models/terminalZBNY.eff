@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PropertyList>
-        <name>terminal</name>
+        <name>terminalZBNY</name>
         <inherits-from>/Effects/model-combined-deferred</inherits-from>
         <parameters>
                 <!-- Light Map -->
