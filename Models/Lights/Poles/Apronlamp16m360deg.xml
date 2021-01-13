@@ -77,78 +77,6 @@
       </and>
 </condition>
 </animation>
-
-<!-- Compositor Light -->
-<light>
-  <name>LightSource-compositor</name>
-  <type>spot</type>
-  <position>
-       	<x-m> 0.000</x-m>
-        <y-m> 0.000</y-m>
-    	<z-m>22.000</z-m>
-  </position>
-  <direction>
-        <x>0</x>
-        <y>0</y>
-        <z>-1</z>
-  </direction>
-  <ambient>
-        <r>0.9</r>
-        <g>0.7</g>
-        <b>0.5</b>
-        <a>1.0</a>
-  </ambient>
-  <diffuse>
-        <r>0.7</r>
-        <g>0.7</g>
-        <b>0.4</b>
-        <a>1.0</a>
-  </diffuse>
-  <specular>
-        <r>0.9</r>
-        <g>0.9</g>
-        <b>0.6</b>
-        <a>1.0</a>
-  </specular>
-  <attenuation>
-        <c>1.0</c>
-        <l>0.00002</l>
-        <q>0.000000000146</q>
-  </attenuation>
-  <spot-exponent>2</spot-exponent>
-  <spot-cutoff>89</spot-cutoff>
-  <range-m>100</range-m>
-  <dim-factor>
-  <property>/sim/time/sun-angle-rad</property>
-  <interpolation>
-          <entry><ind>0</ind><dep>0</dep></entry>
-          <entry><ind>1.49</ind><dep>0</dep></entry>
-          <entry><ind>1.52</ind><dep>1</dep></entry>
-          <entry><ind>3.14</ind><dep>1</dep></entry>
-  </interpolation>
-  </dim-factor>
-</light>
-
-<animation>
-<type>select</type>
-<object-name>LightSource-compositor</object-name>
-<condition>
-      <and>
-        <greater-than>
-          <property>/sim/time/sun-angle-rad</property>
-          <value>1.48</value>
-        </greater-than>
-        <not>
-          <property>/sim/rendering/rembrandt/enabled</property>
-        </not>
-        <greater-than>
-          <property>/sim/rendering/shaders/lights</property>
-          <value>0.0</value>
-        </greater-than>
-      </and>
-</condition>
-</animation>
-
 <!--  night light area  -->
 <animation>
 <type>material</type>
@@ -179,7 +107,6 @@
       </not>
 </condition>
 </animation>
-
 <!--  night redlight  -->
 <animation>
 <type>material</type>
@@ -196,7 +123,6 @@
 	<blue>1.0</blue>
 </emission>
 </animation>
-
 <!--  night floodlight  -->
 <animation>
 <type>material</type>
@@ -213,7 +139,6 @@
 	<blue>0.9</blue>
 </emission>
 </animation>
-
 <!--  night emission  -->
 <animation>
 <type>material</type>
@@ -230,7 +155,6 @@
 	<blue>0.2</blue>
 </emission>
 </animation>
-
 <!--  enable-hot  -->
 <animation>
  	<object-name>lightvolume</object-name>
