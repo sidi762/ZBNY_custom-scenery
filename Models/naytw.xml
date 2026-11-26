@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <PropertyList>
-<path>org.aericaps.ZBNY/naytw.ac</path>
+<path>naytw.osgb</path>
 <effect>
   <inherits-from>naytw</inherits-from>
   <object-name>naytw.obj</object-name>
