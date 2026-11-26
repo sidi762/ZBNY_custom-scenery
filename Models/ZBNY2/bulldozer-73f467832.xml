@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PropertyList>
+  <animation>
+    <type>select</type>
+    <object-name>Lamp2</object-name>
+    <condition>
+      <greater-than>
+        <property>/sim/time/sun-angle-rad</property>
+        <value>1.48</value>
+      </greater-than>
+    </condition>
+  </animation>
+  <path>bulldozer-73f467832.osgb</path>
+</PropertyList>

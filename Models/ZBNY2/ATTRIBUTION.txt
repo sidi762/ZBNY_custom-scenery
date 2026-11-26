@@ -1,0 +1,11 @@
+ZBNY 2.0 · FlightGear 模型署名
+
+原场景：Star Atlas – ZBNY Beijing Nanyuan v2
+原机场模型与设计：首航苍穹 Aericaps / Star Atlas 及源包各素材作者
+原作者网站：http://www.aericaps.org/
+FGPRC 1.0：FGPRC-0762、FGPRC-6521。原机坪灯来自 Omega 的新加坡地景。
+
+新增移植依据项目方提供的原作者 CC BY 授权。源包所收录的第三方素材保留各自的署名与许可，包括 RuScenery、FAIB 和 Laminar Research 等来源。aericaps_collection/Ground_Textures/escape_arrow.obj 保留原署名 © 2017 Cami De Bellis。
+原有 FGPRC 地景的作者和许可见根目录 AUTHOR、COPYING、THANKS，以及 Models/org.aericaps.ZBNY/LICENSING。
+
+本次修改包括转换网格与贴图、适配材质与灯点、静态化 X-Plane 专用动画和转换历史场景摆放。模型索引.tsv 保留源文件名、对应的 FlightGear XML 入口、夜纹理、法线纹理以及缺失资源。场景资源.tsv 记录原场景已使用的资源及摆放核对结果。

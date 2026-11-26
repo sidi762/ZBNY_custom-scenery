@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PropertyList>
+  <effect>
+    <inherits-from>Effects/model-combined</inherits-from>
+    <object-name>Mesh0</object-name>
+    <object-name>Mesh1</object-name>
+    <parameters>
+      <lightmap-enabled type="int">1</lightmap-enabled>
+      <lightmap-factor type="float" n="0">
+        <use>/environment/lightmap-factor</use>
+      </lightmap-factor>
+      <texture n="3">
+        <image>Textures/trains_LIT-8ae464d69968.png</image>
+        <wrap-s>repeat</wrap-s>
+        <wrap-t>repeat</wrap-t>
+      </texture>
+    </parameters>
+  </effect>
+  <path>F_containercar_b_2_csx_hnj_20-06-50b5a9d69.osgb</path>
+</PropertyList>

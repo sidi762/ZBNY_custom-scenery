@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PropertyList>
+  <animation>
+    <type>select</type>
+    <object-name>Lamp4</object-name>
+    <object-name>Lamp5</object-name>
+    <object-name>Lamp6</object-name>
+    <condition>
+      <greater-than>
+        <property>/sim/time/sun-angle-rad</property>
+        <value>1.48</value>
+      </greater-than>
+    </condition>
+  </animation>
+  <path>CRJ2_DAL_static-289ad0c8e.osgb</path>
+</PropertyList>

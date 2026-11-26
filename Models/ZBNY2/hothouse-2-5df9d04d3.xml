@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PropertyList>
+  <effect>
+    <inherits-from>Effects/model-combined</inherits-from>
+    <object-name>Mesh0</object-name>
+    <parameters>
+      <lightmap-enabled type="int">1</lightmap-enabled>
+      <lightmap-factor type="float" n="0">
+        <use>/environment/lightmap-factor</use>
+      </lightmap-factor>
+      <texture n="3">
+        <image>Textures/hothouses_lit-ffd327688440.png</image>
+        <wrap-s>repeat</wrap-s>
+        <wrap-t>repeat</wrap-t>
+      </texture>
+    </parameters>
+  </effect>
+  <path>hothouse-2-5df9d04d3.osgb</path>
+</PropertyList>

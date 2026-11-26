@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PropertyList>
+  <effect>
+    <inherits-from>Effects/model-combined</inherits-from>
+    <object-name>Mesh0</object-name>
+    <parameters>
+      <normalmap-enabled type="int">1</normalmap-enabled>
+      <normalmap-tiling type="float">1</normalmap-tiling>
+      <texture n="2">
+        <image>Textures/clutter_industrial1_NML-fa6ea3222aab.png</image>
+        <wrap-s>repeat</wrap-s>
+        <wrap-t>repeat</wrap-t>
+      </texture>
+    </parameters>
+  </effect>
+  <path>indClut_mix_11x4_03-d9f6033c8.osgb</path>
+</PropertyList>

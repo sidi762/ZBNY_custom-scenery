@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PropertyList>
+  <animation>
+    <type>select</type>
+    <object-name>Lamp1</object-name>
+    <condition>
+      <greater-than>
+        <property>/sim/time/sun-angle-rad</property>
+        <value>1.48</value>
+      </greater-than>
+    </condition>
+  </animation>
+  <path>Luz_Foco_Halog_Ch_Alt_10-B-a0b0292c2.osgb</path>
+</PropertyList>

@@ -1,0 +1,1072 @@
+X-Plane 源路径	移植状态	FlightGear 模型	网格三角面	夜间贴图	法线贴图	使用静态姿态	缺少的源贴图
+1086733154/733_4017/B733_GCA.obj	场景中使用	B733_GCA-3a1f6242e.xml	5845	0	0	0	—
+1086733154/733_4018/B733_GCA.obj	场景中使用	B733_GCA-36f113125.xml	5845	0	0	0	—
+1086733154/733_4051N/B733_GCA.obj	场景中使用	B733_GCA-799564273.xml	5845	0	0	0	—
+1086733154/733_4052N/B733_GCA.obj	场景中使用	B733_GCA-1d5cbcd76.xml	5845	0	0	0	—
+1086733154/733_4053N/B733_GCA.obj	场景中使用	B733_GCA-cff06c5a3.xml	5845	0	0	0	—
+1086733154/CRJ2_4005/CRJ2_DAL_static.obj	源包未摆放的备用模型	CRJ2_DAL_static-82e6b0a17.xml	6210	0	0	0	—
+510newpay/DR/EETN_ApronDetails_Zestaw1-EETN_LightMast.obj	场景中使用	EETN_ApronDetails_Zestaw1-EETN_LightMast-3dd154184.xml	191	1	0	0	—
+510newpay/DR/EETN_PrivateHangars-EETN_Private_H1.obj	场景中使用	EETN_PrivateHangars-EETN_Private_H1-93e42b71e.xml	17	1	0	0	—
+510newpay/DR/EETN_Static_S340-EETN_PushTug.obj	场景中使用	EETN_Static_S340-EETN_PushTug-6dfd3db37.xml	20	1	1	0	—
+510newpay/Hedge_1_8.0x2.5.obj	场景中使用	Hedge_1_8-0x2-5-f6debb321.xml	288	0	0	0	—
+510newpay/Hedge_1_Corner.obj	场景中使用	Hedge_1_Corner-12550995a.xml	432	0	0	0	—
+510newpay/Trees/shrub_1.obj	场景中使用	shrub_1-ab32613c5.xml	24	0	0	0	—
+510newpay/Trees/shrub_2.obj	场景中使用	shrub_2-5a20c63c0.xml	24	0	0	0	—
+510newpay/Trees/shrub_3.obj	场景中使用	shrub_3-f8ec0dc2e.xml	24	0	0	0	—
+Copied/Stripes/4_Arrows.obj	源包未摆放的备用模型	4_Arrows-c1f665a95.xml	24	0	0	0	—
+Copied/Stripes/Aiming_Point.obj	场景中使用	Aiming_Point-6d084c121.xml	2	0	0	0	—
+Copied/Stripes/Arrow.obj	源包未摆放的备用模型	Arrow-ce787b642.xml	2	0	0	0	—
+Copied/Stripes/Distance_1.obj	场景中使用	Distance_1-bbf6468b1.xml	2	0	0	0	—
+Copied/Stripes/Distance_2.obj	源包未摆放的备用模型	Distance_2-0b58c34e2.xml	4	0	0	0	—
+Copied/Stripes/Distance_3.obj	源包未摆放的备用模型	Distance_3-c050e6ece.xml	6	0	0	0	—
+Copied/Stripes/Treshold.obj	源包未摆放的备用模型	Treshold-d79f99530.xml	36	0	0	0	—
+Copied/skidmarks.obj	场景中使用	skidmarks-eef82d1a4.xml	8	0	0	0	—
+Correction/B733_GCA.obj	场景中使用	B733_GCA-49c9b9a4d.xml	5845	0	0	0	—
+Correction/CRJ2_DAL_static.obj	场景中使用	CRJ2_DAL_static-05b0753ad.xml	6210	0	0	0	—
+Correction/jiaotongbiaozipai01(1).obj	场景中使用	jiaotongbiaozipai01-1-52df2176f.xml	2110	0	0	0	—
+DGSs-Marshaller/Marshaller.obj	场景中使用	Marshaller-78136ab97.xml	13590	1	0	1	—
+DGSs-Marshaller/Standalone/StoppingPoint.obj	场景中使用	StoppingPoint-e540d0407.xml	70	0	0	1	—
+Random_Stuff/RE_VOR/RE_VOR/VOR_wcw.obj	场景中使用	VOR_wcw-814bc7336.xml	1730	0	0	0	—
+Random_Stuff/SecurityCameras.obj	场景中使用	SecurityCameras-ea48584e3.xml	7492	0	0	1	—
+Random_Stuff/Tool_Chest_Open.obj	场景中使用	Tool_Chest_Open-8bb3caf6a.xml	408	0	0	0	TEXTURE_LIT Tool_Chest_Open_LIT.png
+Random_Stuff/Work_Platform.obj	场景中使用	Work_Platform-e62db21d7.xml	827	0	0	0	TEXTURE_LIT Work_Platform_LIT.png
+Random_Stuff/axapowerfinish.obj	场景中使用	axapowerfinish-eb2200e22.xml	36036	0	0	0	TEXTURE_LIT axapower_LIT.png
+Signs/13/13.obj	场景中使用	13-533d6aefa.xml	6448	1	0	0	—
+Signs/15/15.obj	场景中使用	15-4bca7c604.xml	6448	1	0	0	—
+Signs/16/16.obj	场景中使用	16-5283efa8e.xml	6448	1	0	0	—
+Signs/17/17.obj	场景中使用	17-7194667d5.xml	6448	1	0	0	—
+Signs/18/18.obj	场景中使用	18-e5d43ecf2.xml	6448	1	0	0	—
+Signs/19/19.obj	场景中使用	19-697375749.xml	6448	1	0	0	—
+Signs/20/20.obj	场景中使用	20-2305c07dc.xml	6448	1	0	0	—
+Signs/jiaotongbiaozipai(1).obj	源包未摆放的备用模型	jiaotongbiaozipai-1-bd4de4797.xml	2110	0	0	0	—
+Signs/jiaotongbiaozipai.obj	场景中使用	jiaotongbiaozipai-be117f686.xml	2110	0	0	0	—
+Signs/jiaotongbiaozipai01(1).obj	源包未摆放的备用模型	jiaotongbiaozipai01-1-259342df6.xml	2110	0	0	0	—
+Signs/jiaotongbiaozipai01.obj	场景中使用	jiaotongbiaozipai01-85bc5f405.xml	2110	0	0	0	—
+Signs/jiaotongbiaozipai02(1).obj	源包未摆放的备用模型	jiaotongbiaozipai02-1-0f34532bd.xml	2110	0	0	0	—
+Signs/jiaotongbiaozipai02.obj	场景中使用	jiaotongbiaozipai02-c244df182.xml	2110	0	0	0	—
+Signs/jiaotongbiaozipai03.obj	场景中使用	jiaotongbiaozipai03-5db7c7bd8.xml	1630	0	0	0	—
+ZSNBobj/Lavatory-ZSNB_AP_Vehicles.obj	场景中使用	Lavatory-ZSNB_AP_Vehicles-ddef945fe.xml	231	0	0	0	—
+ZSNBobj/Stairs-ZSNB_AP_Vehicles.obj	场景中使用	Stairs-ZSNB_AP_Vehicles-9d8a40119.xml	285	0	0	0	—
+aericaps_collection/Building/Belga_KPVG_1.obj	场景中使用	Belga_KPVG_1-ccfb92c8c.xml	2174	0	0	0	TEXTURE_LIT Belga_KPVG_1_LIT.png
+aericaps_collection/Building/Belga_KPVG_18.obj	场景中使用	Belga_KPVG_18-d416f2223.xml	1765	1	0	0	—
+aericaps_collection/Building/Belga_KPVG_2.obj	场景中使用	Belga_KPVG_2-3fbbf7515.xml	1280	0	0	0	TEXTURE_LIT Belga_KPVG_2_LIT.png
+aericaps_collection/Building/Belga_KPVG_21.obj	场景中使用	Belga_KPVG_21-9cea98df0.xml	2794	1	0	0	—
+aericaps_collection/Building/Belga_KPVG_6.obj	场景中使用	Belga_KPVG_6-adf7bf0b4.xml	2280	1	0	0	—
+aericaps_collection/Building/Belga_KPVG_CHRHD2.obj	场景中使用	Belga_KPVG_CHRHD2-05bca769d.xml	142	1	0	0	—
+aericaps_collection/Building/Belga_KPVG_CHRHD3.obj	场景中使用	Belga_KPVG_CHRHD3-3693805bf.xml	191	1	0	0	—
+aericaps_collection/Building/Bodega_01.obj	场景中使用	Bodega_01-686bb3c92.xml	10	0	0	0	—
+aericaps_collection/Building/Bodega_02.obj	场景中使用	Bodega_02-7f7973038.xml	10	0	0	0	—
+aericaps_collection/Building/Canchas_Tenis.obj	场景中使用	Canchas_Tenis-face787e3.xml	2	0	0	0	—
+aericaps_collection/Building/Edif_04.obj	场景中使用	Edif_04-ec606eb0b.xml	28	1	0	0	—
+aericaps_collection/Building/Edificio_Chico.obj	场景中使用	Edificio_Chico-adf248ef4.xml	10	1	0	0	—
+aericaps_collection/Building/Edificio_Re-Chico.obj	场景中使用	Edificio_Re-Chico-5090fa245.xml	10	1	0	0	—
+aericaps_collection/Building/Est_Tech.obj	场景中使用	Est_Tech-9b83bd540.xml	856	0	0	0	—
+aericaps_collection/Building/Est_Tech_Corto.obj	场景中使用	Est_Tech_Corto-938cd7f4c.xml	628	1	0	0	—
+aericaps_collection/Building/Estac_01.obj	场景中使用	Estac_01-a36a15209.xml	22	0	0	0	—
+aericaps_collection/Building/Hangar_09.obj	场景中使用	Hangar_09-1cb13a200.xml	16	0	0	0	—
+aericaps_collection/Building/Hangar_10.obj	场景中使用	Hangar_10-24b5a1c93.xml	22	0	0	0	—
+aericaps_collection/Building/Hangar_15.obj	场景中使用	Hangar_15-fbc9b434d.xml	16	0	0	0	—
+aericaps_collection/Building/Hangar_16.obj	场景中使用	Hangar_16-f7f304ce3.xml	16	0	0	0	—
+aericaps_collection/Building/Helip_P_D_I_Drapped.obj	场景中使用	Helip_P_D_I_Drapped-278a55a58.xml	2	0	0	0	—
+aericaps_collection/Building/Hertz.obj	场景中使用	Hertz-5890d519d.xml	366	1	0	0	—
+aericaps_collection/Building/Hospital_RobertoDelRio.obj	场景中使用	Hospital_RobertoDelRio-2cf6a9d54.xml	186	0	0	0	—
+aericaps_collection/Building/Hospital_SanJose-2.obj	场景中使用	Hospital_SanJose-2-54ab2b005.xml	50	0	0	0	—
+aericaps_collection/Building/Malla_Tenis.obj	场景中使用	Malla_Tenis-70489aa32.xml	10	0	0	0	—
+aericaps_collection/Building/Porteria_01.obj	场景中使用	Porteria_01-a1502c782.xml	22	0	0	0	—
+aericaps_collection/Building/Shed_Old.obj	场景中使用	Shed_Old-9bbb82da5.xml	76	0	0	0	TEXTURE_LIT Shed_old_LIT.png
+aericaps_collection/Building/Torre_Tajamar_Md.obj	场景中使用	Torre_Tajamar_Md-cbdb404b9.xml	20	1	0	0	—
+aericaps_collection/Building/Torre_Tajamar_ch01.obj	场景中使用	Torre_Tajamar_ch01-a6ed067ec.xml	20	1	0	0	—
+aericaps_collection/Building/apt_anemometer_wh.obj	场景中使用	apt_anemometer_wh-c280b0a79.xml	835	0	0	0	—
+aericaps_collection/Building/apt_midd-mar_antena.obj	场景中使用	apt_midd-mar_antena-b686230f1.xml	258	0	0	0	—
+aericaps_collection/Building/block3.obj	场景中使用	block3-fde85671c.xml	42	0	0	0	—
+aericaps_collection/Building/box-d-02.obj	场景中使用	box-d-02-f9b40de07.xml	22	0	0	0	—
+aericaps_collection/Building/building-2.obj	场景中使用	building-2-99ac101fb.xml	66	1	0	0	—
+aericaps_collection/Building/building-5.obj	场景中使用	building-5-00f85931a.xml	44	1	0	0	—
+aericaps_collection/Building/building-6.obj	场景中使用	building-6-9d5ffea7a.xml	60	1	0	0	—
+aericaps_collection/Building/building-7.obj	场景中使用	building-7-25220361c.xml	58	1	0	0	—
+aericaps_collection/Building/building-8.obj	场景中使用	building-8-9b22a531e.xml	32	0	0	0	TEXTURE_LIT boiler_lit.png
+aericaps_collection/Building/farm.obj	场景中使用	farm-e93e99a65.xml	36	1	0	0	—
+aericaps_collection/Building/firebrigade.obj	场景中使用	firebrigade-40be0a01c.xml	745	1	0	0	—
+aericaps_collection/Building/garage1.obj	场景中使用	garage1-c7cf2f053.xml	12	0	0	0	TEXTURE_LIT garage1_lit.png
+aericaps_collection/Building/granite.obj	场景中使用	granite-5327e5e2e.xml	470	0	0	0	—
+aericaps_collection/Building/hothouse-1.obj	场景中使用	hothouse-1-8f162738d.xml	30	1	0	0	—
+aericaps_collection/Building/hothouse-2.obj	场景中使用	hothouse-2-5df9d04d3.xml	30	1	0	0	—
+aericaps_collection/Building/hothouse-3.obj	场景中使用	hothouse-3-67e497a5f.xml	30	1	0	0	—
+aericaps_collection/Building/hothouse-4.obj	场景中使用	hothouse-4-165fda720.xml	22	1	0	0	—
+aericaps_collection/Building/house-01.obj	源包未摆放的备用模型	house-01-83364c061.xml	42	1	0	0	—
+aericaps_collection/Building/house-02.obj	源包未摆放的备用模型	house-02-32e2d4ca5.xml	62	1	0	0	—
+aericaps_collection/Building/house-03.obj	场景中使用	house-03-451756b80.xml	82	1	0	0	—
+aericaps_collection/Building/house-04.obj	未入库：源日间贴图缺失		62	0	0	0	TEXTURE panel2.png, TEXTURE_LIT panel2_lit.png
+aericaps_collection/Building/house-05.obj	未入库：源日间贴图缺失		82	0	0	0	TEXTURE panel2.png, TEXTURE_LIT panel2_lit.png
+aericaps_collection/Building/house-06.obj	源包未摆放的备用模型	house-06-ec647efe6.xml	62	0	0	0	TEXTURE_LIT panel3_lit.png
+aericaps_collection/Building/house-07.obj	场景中使用	house-07-5d437da0c.xml	82	0	0	0	TEXTURE_LIT panel3_lit.png
+aericaps_collection/Building/house-08.obj	未入库：源日间贴图缺失		26	0	0	0	TEXTURE panel4.png, TEXTURE_LIT panel4_lit.png
+aericaps_collection/Building/house-09.obj	未入库：源日间贴图缺失		26	0	0	0	TEXTURE panel4.png, TEXTURE_LIT panel4_lit.png
+aericaps_collection/Building/house-10.obj	场景中使用	house-10-3738aa344.xml	42	1	0	0	—
+aericaps_collection/Building/house-11.obj	场景中使用	house-11-a7db25b0c.xml	22	1	0	0	—
+aericaps_collection/Building/house-12.obj	场景中使用	house-12-6df1d3576.xml	26	1	0	0	—
+aericaps_collection/Building/house-13.obj	源包未摆放的备用模型	house-13-d064edafb.xml	26	1	0	0	—
+aericaps_collection/Building/house-14.obj	源包未摆放的备用模型	house-14-53c491e51.xml	26	1	0	0	—
+aericaps_collection/Building/house-15.obj	未入库：源日间贴图缺失		32	0	0	0	TEXTURE panel7.png, TEXTURE_LIT panel7_lit.png
+aericaps_collection/Building/house-16.obj	未入库：源日间贴图缺失		32	0	0	0	TEXTURE panel7.png, TEXTURE_LIT panel7_lit.png
+aericaps_collection/Building/house-17.obj	未入库：源日间贴图缺失		112	0	0	0	TEXTURE panel7.png, TEXTURE_LIT panel7_lit.png
+aericaps_collection/Building/house-18.obj	场景中使用	house-18-9f526279a.xml	32	1	0	0	—
+aericaps_collection/Building/house-19.obj	源包未摆放的备用模型	house-19-0c2b06229.xml	138	1	0	0	—
+aericaps_collection/Building/house-20.obj	源包未摆放的备用模型	house-20-2aaffef60.xml	30	1	0	0	—
+aericaps_collection/Building/house-21.obj	源包未摆放的备用模型	house-21-af05f8731.xml	136	1	0	0	—
+aericaps_collection/Building/house-22.obj	源包未摆放的备用模型	house-22-11d465d1b.xml	34	1	0	0	—
+aericaps_collection/Building/house-23.obj	源包未摆放的备用模型	house-23-c74b98289.xml	22	1	0	0	—
+aericaps_collection/Building/house-27.obj	未入库：源日间贴图缺失		714	0	0	0	TEXTURE house-26.png, TEXTURE_LIT house-26_lit.png
+aericaps_collection/Building/house-28.obj	源包未摆放的备用模型	house-28-67de42d7e.xml	80	0	0	0	TEXTURE_LIT house-28_lit.png
+aericaps_collection/Building/house-29.obj	未入库：源日间贴图缺失		122	0	0	0	TEXTURE house-26.png, TEXTURE_LIT house-26_lit.png
+aericaps_collection/Building/house-30.obj	未入库：源日间贴图缺失		38	0	0	0	TEXTURE house-26.png, TEXTURE_LIT house-26_lit.png
+aericaps_collection/Building/house-31.obj	未入库：源日间贴图缺失		76	0	0	0	TEXTURE house-26.png, TEXTURE_LIT house-26_lit.png
+aericaps_collection/Building/house-32.obj	未入库：源日间贴图缺失		136	0	0	0	TEXTURE house-26.png, TEXTURE_LIT house-26_lit.png
+aericaps_collection/Building/house-33.obj	未入库：源日间贴图缺失		288	0	0	0	TEXTURE house-26.png, TEXTURE_LIT house-26_lit.png
+aericaps_collection/Building/house-34.obj	未入库：源日间贴图缺失		52	0	0	0	TEXTURE house-26.png, TEXTURE_LIT house-26_lit.png
+aericaps_collection/Building/house-35.obj	未入库：源日间贴图缺失		82	0	0	0	TEXTURE house-26.png, TEXTURE_LIT house-26_lit.png
+aericaps_collection/Building/house-36.obj	未入库：源日间贴图缺失		20	0	0	0	TEXTURE house-26.png, TEXTURE_LIT house-26_lit.png
+aericaps_collection/Building/house-37.obj	未入库：源日间贴图缺失		36	0	0	0	TEXTURE house-26.png, TEXTURE_LIT house-26_lit.png
+aericaps_collection/Building/house-38.obj	未入库：源日间贴图缺失		130	0	0	0	TEXTURE house-26.png, TEXTURE_LIT house-26_lit.png
+aericaps_collection/Building/house-39.obj	未入库：源日间贴图缺失		48	0	0	0	TEXTURE house-26.png, TEXTURE_LIT house-26_lit.png
+aericaps_collection/Building/house-40.obj	未入库：源日间贴图缺失		110	0	0	0	TEXTURE house-26.png, TEXTURE_LIT house-26_lit.png
+aericaps_collection/Building/house-41.obj	未入库：源日间贴图缺失		30	0	0	0	TEXTURE house-26.png, TEXTURE_LIT house-26_lit.png
+aericaps_collection/Building/house-42.obj	未入库：源日间贴图缺失		62	0	0	0	TEXTURE house-26.png, TEXTURE_LIT house-26_lit.png
+aericaps_collection/Building/house-43.obj	未入库：源日间贴图缺失		40	0	0	0	TEXTURE house-26.png, TEXTURE_LIT house-26_lit.png
+aericaps_collection/Building/house-44.obj	未入库：源日间贴图缺失		36	0	0	0	TEXTURE house-26.png, TEXTURE_LIT house-26_lit.png
+aericaps_collection/Building/house-45.obj	未入库：源日间贴图缺失		122	0	0	0	TEXTURE house-26.png, TEXTURE_LIT house-26_lit.png
+aericaps_collection/Building/house-46.obj	源包未摆放的备用模型	house-46-e718ce4b3.xml	88	0	0	0	TEXTURE_LIT house-28_lit.png
+aericaps_collection/Building/house-47.obj	未入库：源日间贴图缺失		40	0	0	0	TEXTURE house-26.png, TEXTURE_LIT house-26_lit.png
+aericaps_collection/Building/house-48.obj	未入库：源日间贴图缺失		272	0	0	0	TEXTURE house-26.png, TEXTURE_LIT house-26_lit.png
+aericaps_collection/Building/house-49.obj	源包未摆放的备用模型	house-49-dad3aa94f.xml	20	1	0	0	—
+aericaps_collection/Building/house-50.obj	源包未摆放的备用模型	house-50-1872de0f0.xml	74	1	0	0	—
+aericaps_collection/Building/house-51.obj	源包未摆放的备用模型	house-51-111e8ffd0.xml	24	1	0	0	—
+aericaps_collection/Building/house-52.obj	源包未摆放的备用模型	house-52-0b2c3c3ae.xml	28	0	0	0	—
+aericaps_collection/Building/house-53.obj	场景中使用	house-53-b5de7981a.xml	38	0	0	0	—
+aericaps_collection/Building/house-54.obj	场景中使用	house-54-60d58478d.xml	10	0	0	0	—
+aericaps_collection/Building/house-55.obj	场景中使用	house-55-30413f313.xml	28	0	0	0	—
+aericaps_collection/Building/house-56.obj	场景中使用	house-56-a40bdbaff.xml	10	1	0	0	—
+aericaps_collection/Building/house-57.obj	场景中使用	house-57-d6d059bab.xml	10	1	0	0	—
+aericaps_collection/Building/house-58.obj	源包未摆放的备用模型	house-58-6bf6ddd8a.xml	96	0	0	0	TEXTURE_LIT house-28_lit.png
+aericaps_collection/Building/house-59.obj	场景中使用	house-59-8bcc516cf.xml	52	0	0	0	TEXTURE_LIT house-28_lit.png
+aericaps_collection/Building/house-60.obj	场景中使用	house-60-130f3b813.xml	36	0	0	0	TEXTURE_LIT house-28_lit.png
+aericaps_collection/Building/house-61.obj	源包未摆放的备用模型	house-61-69d4fc7b8.xml	20	0	0	0	TEXTURE_LIT house-28_lit.png
+aericaps_collection/Building/house-unicon.obj	源包未摆放的备用模型	house-unicon-68f95e60a.xml	150	1	0	0	—
+aericaps_collection/Building/house1.obj	源包未摆放的备用模型	house1-37999d8b2.xml	76	0	0	0	—
+aericaps_collection/Building/house10.obj	源包未摆放的备用模型	house10-28db6067a.xml	62	0	0	0	—
+aericaps_collection/Building/house11.obj	场景中使用	house11-ab25e4f43.xml	102	0	0	0	—
+aericaps_collection/Building/house12.obj	源包未摆放的备用模型	house12-18f440bbb.xml	30	0	0	0	—
+aericaps_collection/Building/house13.obj	源包未摆放的备用模型	house13-35414f8b3.xml	38	0	0	0	—
+aericaps_collection/Building/house14.obj	源包未摆放的备用模型	house14-62e888db7.xml	53	0	0	0	—
+aericaps_collection/Building/house2.obj	源包未摆放的备用模型	house2-8d67366eb.xml	92	0	0	0	—
+aericaps_collection/Building/house3.obj	源包未摆放的备用模型	house3-69e2b1f92.xml	46	0	0	0	—
+aericaps_collection/Building/house4.obj	源包未摆放的备用模型	house4-45d450b2a.xml	104	0	0	0	—
+aericaps_collection/Building/house5.obj	源包未摆放的备用模型	house5-55672ba02.xml	136	0	0	0	—
+aericaps_collection/Building/house6.obj	源包未摆放的备用模型	house6-b94100c7b.xml	97	0	0	0	—
+aericaps_collection/Building/house7.obj	源包未摆放的备用模型	house7-4268ab9b1.xml	73	0	0	0	—
+aericaps_collection/Building/house8.obj	源包未摆放的备用模型	house8-44892ace0.xml	86	0	0	0	—
+aericaps_collection/Building/house9.obj	场景中使用	house9-9f0b846b1.xml	62	0	0	0	—
+aericaps_collection/Building/outback_dunny.obj	场景中使用	outback_dunny-2ef24f868.xml	116	0	0	0	TEXTURE_LIT outback_dunny_LIT.png
+aericaps_collection/Building/school.obj	场景中使用	school-e60d958aa.xml	224	0	0	0	—
+aericaps_collection/Building/securecontrol.obj	场景中使用	securecontrol-e09e64449.xml	152	1	0	0	—
+aericaps_collection/Building/shed-d-03.obj	场景中使用	shed-d-03-b9359913d.xml	54	0	0	0	—
+aericaps_collection/Building/shed-d-04.obj	场景中使用	shed-d-04-1b89a8581.xml	22	0	0	0	—
+aericaps_collection/Building/snnaerobl.obj	场景中使用	snnaerobl-71e9f9472.xml	1109	0	0	0	—
+aericaps_collection/Building/snnaeroblA.obj	场景中使用	snnaeroblA-ef6e71ad2.xml	944	0	0	0	TEXTURE_LIT snnaerobl_LIT.png
+aericaps_collection/Building/store-02.obj	场景中使用	store-02-a1deadc46.xml	18	0	0	0	—
+aericaps_collection/Building/transf2.obj	场景中使用	transf2-0fef1fc44.xml	10	0	0	0	—
+aericaps_collection/Building/transf3.obj	场景中使用	transf3-343dd3abd.xml	10	0	0	0	—
+aericaps_collection/Building/transf4.obj	场景中使用	transf4-504a7d3cd.xml	36	0	0	0	—
+aericaps_collection/Building/transf5.obj	源包未摆放的备用模型	transf5-e9c95cb5b.xml	38	1	0	0	—
+aericaps_collection/CUSTOM_DRAP/CedaPaso.obj	场景中使用	CedaPaso-12a6f5263.xml	2	0	0	0	—
+aericaps_collection/CUSTOM_DRAP/Decal_curva.obj	场景中使用	Decal_curva-fcc9326e0.xml	2	0	0	0	—
+aericaps_collection/CUSTOM_DRAP/Flecha_Blanca.obj	场景中使用	Flecha_Blanca-67f67f05e.xml	2	0	0	0	—
+aericaps_collection/Decoration/Alumb_Estac - copia.obj	未入库：源日间贴图缺失		152	0	0	0	TEXTURE Letreros_y_otros.png
+aericaps_collection/Decoration/Alumb_Estac.obj	源包未摆放的备用模型	Alumb_Estac-0ddeae780.xml	152	0	0	0	—
+aericaps_collection/Decoration/Antena_01.obj	源包未摆放的备用模型	Antena_01-3f1cf67da.xml	32	0	0	0	—
+aericaps_collection/Decoration/Antena_02.obj	源包未摆放的备用模型	Antena_02-b67ae7628.xml	12	0	0	0	—
+aericaps_collection/Decoration/Arco_Futbol.obj	场景中使用	Arco_Futbol-2bee42d23.xml	100	1	0	0	—
+aericaps_collection/Decoration/BarrierRed.obj	场景中使用	BarrierRed-a07727104.xml	268	0	0	0	—
+aericaps_collection/Decoration/BarrierWhite.obj	场景中使用	BarrierWhite-05dd39460.xml	268	0	0	0	—
+aericaps_collection/Decoration/Caseta_01.obj	场景中使用	Caseta_01-c2e681776.xml	48	0	0	0	—
+aericaps_collection/Decoration/China_Large_Flag.obj	源包未摆放的备用模型	China_Large_Flag-a18f5b912.xml	756	0	0	1	—
+aericaps_collection/Decoration/China_Small_Flag.obj	源包未摆放的备用模型	China_Small_Flag-c8538c997.xml	500	0	0	1	—
+aericaps_collection/Decoration/China_Stand_Flag.obj	场景中使用	China_Stand_Flag-9f0c89f12.xml	392	0	0	1	—
+aericaps_collection/Decoration/Comb_Carabiner_01.obj	场景中使用	Comb_Carabiner_01-a08b2a5c6.xml	1462	0	0	0	—
+aericaps_collection/Decoration/Comb_Carabiner_02.obj	场景中使用	Comb_Carabiner_02-8ec2c5992.xml	516	0	0	0	—
+aericaps_collection/Decoration/Cono_solo.obj	场景中使用	Cono_solo-7a88940f9.xml	96	0	0	0	—
+aericaps_collection/Decoration/Conos_cadena.obj	场景中使用	Conos_cadena-9aee263ee.xml	364	0	0	0	—
+aericaps_collection/Decoration/Conos_cadena_02.obj	场景中使用	Conos_cadena_02-443fcaf7c.xml	616	0	0	0	—
+aericaps_collection/Decoration/ContA_1.obj	源包未摆放的备用模型	ContA_1-1a5709b82.xml	12	0	0	0	TEXTURE_LIT ContA_LIT.png
+aericaps_collection/Decoration/ContA_2.obj	源包未摆放的备用模型	ContA_2-a43bc529c.xml	12	0	0	0	TEXTURE_LIT ContA_LIT.png
+aericaps_collection/Decoration/ContA_2x2.obj	源包未摆放的备用模型	ContA_2x2-1132aabe6.xml	48	0	0	0	TEXTURE_LIT ContA_LIT.png
+aericaps_collection/Decoration/ContA_3.obj	源包未摆放的备用模型	ContA_3-3bca644a1.xml	12	0	0	0	TEXTURE_LIT ContA_LIT.png
+aericaps_collection/Decoration/ContA_4.obj	源包未摆放的备用模型	ContA_4-2940f8e94.xml	12	0	0	0	TEXTURE_LIT ContA_LIT.png
+aericaps_collection/Decoration/ContA_4x1.obj	源包未摆放的备用模型	ContA_4x1-a823e9f4d.xml	48	0	0	0	TEXTURE_LIT ContA_LIT.png
+aericaps_collection/Decoration/ContB_1.obj	源包未摆放的备用模型	ContB_1-fa850efbe.xml	12	0	0	0	TEXTURE_LIT ContB_LIT.png
+aericaps_collection/Decoration/ContB_2.obj	源包未摆放的备用模型	ContB_2-04ecb9270.xml	12	0	0	0	TEXTURE_LIT ContB_LIT.png
+aericaps_collection/Decoration/ContB_2x2.obj	源包未摆放的备用模型	ContB_2x2-9d0ab202d.xml	48	0	0	0	TEXTURE_LIT ContB_LIT.png
+aericaps_collection/Decoration/ContB_3.obj	场景中使用	ContB_3-0b38938a1.xml	12	0	0	0	TEXTURE_LIT ContB_LIT.png
+aericaps_collection/Decoration/ContB_4.obj	源包未摆放的备用模型	ContB_4-6327b26db.xml	12	0	0	0	TEXTURE_LIT ContB_LIT.png
+aericaps_collection/Decoration/ContB_4x1.obj	源包未摆放的备用模型	ContB_4x1-75bb03f8e.xml	48	0	0	0	TEXTURE_LIT ContB_LIT.png
+aericaps_collection/Decoration/ContC_1.obj	源包未摆放的备用模型	ContC_1-7e85e59bf.xml	12	0	0	0	TEXTURE_LIT ContC_LIT.png
+aericaps_collection/Decoration/ContC_2.obj	源包未摆放的备用模型	ContC_2-04bddf052.xml	12	0	0	0	TEXTURE_LIT ContC_LIT.png
+aericaps_collection/Decoration/ContC_2x2.obj	源包未摆放的备用模型	ContC_2x2-155106cbd.xml	48	0	0	0	TEXTURE_LIT ContC_LIT.png
+aericaps_collection/Decoration/ContC_3.obj	源包未摆放的备用模型	ContC_3-514bd4298.xml	12	0	0	0	TEXTURE_LIT ContC_LIT.png
+aericaps_collection/Decoration/ContC_4.obj	源包未摆放的备用模型	ContC_4-bb2be2d98.xml	12	0	0	0	TEXTURE_LIT ContC_LIT.png
+aericaps_collection/Decoration/ContC_4x1.obj	源包未摆放的备用模型	ContC_4x1-f8bea6769.xml	46	0	0	0	TEXTURE_LIT ContC_LIT.png
+aericaps_collection/Decoration/Container1.obj	源包未摆放的备用模型	Container1-53e1a8e6f.xml	10	0	0	0	—
+aericaps_collection/Decoration/DGAC_01_Luces.obj	源包未摆放的备用模型	DGAC_01_Luces-7eb4504b0.xml	460	1	0	0	—
+aericaps_collection/Decoration/Dirtpiles.obj	源包未摆放的备用模型	Dirtpiles-221dabc4e.xml	448	0	0	0	—
+aericaps_collection/Decoration/Escalerilla_01.obj	场景中使用	Escalerilla_01-05137a4b6.xml	240	0	0	0	—
+aericaps_collection/Decoration/Extin_Grand_01.obj	场景中使用	Extin_Grand_01-16e3af7ed.xml	602	0	0	0	—
+aericaps_collection/Decoration/Extin_Med_01.obj	场景中使用	Extin_Med_01-2ef2edc2a.xml	136	0	0	0	—
+aericaps_collection/Decoration/Farol_01.obj	源包未摆放的备用模型	Farol_01-a15c22404.xml	92	1	0	0	—
+aericaps_collection/Decoration/Farol_02.obj	源包未摆放的备用模型	Farol_02-740384e63.xml	106	1	0	0	—
+aericaps_collection/Decoration/Farol_bola_doble.obj	源包未摆放的备用模型	Farol_bola_doble-ed84cb716.xml	628	1	0	0	—
+aericaps_collection/Decoration/Htas_Hangar.obj	源包未摆放的备用模型	Htas_Hangar-8ffe2e124.xml	4	0	0	0	—
+aericaps_collection/Decoration/Htas_Hangar_02.obj	源包未摆放的备用模型	Htas_Hangar_02-ae1bcdf73.xml	2	0	0	0	—
+aericaps_collection/Decoration/Letrero_01.obj	源包未摆放的备用模型	Letrero_01-c078fef20.xml	18	0	0	0	—
+aericaps_collection/Decoration/Letrero_02.obj	源包未摆放的备用模型	Letrero_02-bdb55abfe.xml	22	0	0	0	—
+aericaps_collection/Decoration/Letrero_03.obj	源包未摆放的备用模型	Letrero_03-d1600e729.xml	14	0	0	0	—
+aericaps_collection/Decoration/Letrero_04.obj	源包未摆放的备用模型	Letrero_04-e7609daf3.xml	18	0	0	0	—
+aericaps_collection/Decoration/Letrero_05.obj	源包未摆放的备用模型	Letrero_05-15f38a63e.xml	14	0	0	0	—
+aericaps_collection/Decoration/Letrero_06.obj	源包未摆放的备用模型	Letrero_06-73fe62cf7.xml	14	0	0	0	—
+aericaps_collection/Decoration/Letrero_07.obj	源包未摆放的备用模型	Letrero_07-dc68a4a8b.xml	24	0	0	0	—
+aericaps_collection/Decoration/Letrero_08.obj	源包未摆放的备用模型	Letrero_08-aa85b383f.xml	14	0	0	0	—
+aericaps_collection/Decoration/Letrero_09.obj	源包未摆放的备用模型	Letrero_09-4778178f1.xml	14	0	0	0	—
+aericaps_collection/Decoration/Letrero_10.obj	源包未摆放的备用模型	Letrero_10-7c95eeded.xml	14	0	0	0	—
+aericaps_collection/Decoration/Luz_Calle_Ambar.obj	源包未摆放的备用模型	Luz_Calle_Ambar-b431e860f.xml	86	1	0	0	—
+aericaps_collection/Decoration/Luz_Entradar_Alt_10.obj	源包未摆放的备用模型	Luz_Entradar_Alt_10-9f4ae99f5.xml	28	1	0	0	—
+aericaps_collection/Decoration/Luz_Estac_01.obj	源包未摆放的备用模型	Luz_Estac_01-bfbce1928.xml	142	1	0	0	—
+aericaps_collection/Decoration/Luz_Estac_Comercial.obj	场景中使用	Luz_Estac_Comercial-c3a6ccd75.xml	194	1	0	0	—
+aericaps_collection/Decoration/Luz_Foco_Halog_01_Alt_10.obj	源包未摆放的备用模型	Luz_Foco_Halog_01_Alt_10-af872be45.xml	30	0	0	0	—
+aericaps_collection/Decoration/Luz_Foco_Halog_Ch_Alt_10-B..obj	源包未摆放的备用模型	Luz_Foco_Halog_Ch_Alt_10-B-a0b0292c2.xml	36	0	0	0	—
+aericaps_collection/Decoration/Luz_Foco_Halog_Ch_Alt_10-C.obj	源包未摆放的备用模型	Luz_Foco_Halog_Ch_Alt_10-C-784168ba4.xml	36	0	0	0	—
+aericaps_collection/Decoration/Luz_Foco_Halog_Ch_Alt_10.obj	复用相同资源	Luz_Foco_Halog_Ch_Alt_10-C-784168ba4.xml	36	0	0	0	—
+aericaps_collection/Decoration/Luz_Foco_Hangar_largo_Alt_18.obj	源包未摆放的备用模型	Luz_Foco_Hangar_largo_Alt_18-a75805423.xml	190	1	0	0	—
+aericaps_collection/Decoration/Luz_Foco_Hangar_largo_Alt_22.obj	源包未摆放的备用模型	Luz_Foco_Hangar_largo_Alt_22-d35c80200.xml	190	1	0	0	—
+aericaps_collection/Decoration/Luz_Halog_Hangar_Alt_07.obj	源包未摆放的备用模型	Luz_Halog_Hangar_Alt_07-7da74990b.xml	75	1	0	0	—
+aericaps_collection/Decoration/Luz_Halog_Hangar_Alt_08.obj	源包未摆放的备用模型	Luz_Halog_Hangar_Alt_08-54c63e1ca.xml	75	1	0	0	—
+aericaps_collection/Decoration/Luz_Halog_Hangar_Alt_09.obj	源包未摆放的备用模型	Luz_Halog_Hangar_Alt_09-c84892578.xml	79	1	0	0	—
+aericaps_collection/Decoration/Luz_Halog_Hangar_Alt_10.obj	源包未摆放的备用模型	Luz_Halog_Hangar_Alt_10-43be1dc60.xml	79	1	0	0	—
+aericaps_collection/Decoration/Luz_Halog_Hangar_Alt_11.obj	源包未摆放的备用模型	Luz_Halog_Hangar_Alt_11-5fac4c593.xml	75	1	0	0	—
+aericaps_collection/Decoration/Luz_Halog_Hangar_Alt_12.obj	源包未摆放的备用模型	Luz_Halog_Hangar_Alt_12-dba4b119c.xml	75	1	0	0	—
+aericaps_collection/Decoration/Luz_Halog_Hangar_Alt_14.obj	源包未摆放的备用模型	Luz_Halog_Hangar_Alt_14-bc9d2895c.xml	75	1	0	0	—
+aericaps_collection/Decoration/Luz_Halog_Hangar_Alt_16.obj	源包未摆放的备用模型	Luz_Halog_Hangar_Alt_16-1a0f3aa16.xml	75	1	0	0	—
+aericaps_collection/Decoration/Luz_Halog_Maq.obj	场景中使用	Luz_Halog_Maq-459244a01.xml	110	1	0	0	—
+aericaps_collection/Decoration/Luz_Halog_Potente_Alt_08.obj	源包未摆放的备用模型	Luz_Halog_Potente_Alt_08-d49c0a81b.xml	40	1	0	0	—
+aericaps_collection/Decoration/Luz_Halog_Potente_Alt_14.obj	源包未摆放的备用模型	Luz_Halog_Potente_Alt_14-684d4f1f4.xml	40	1	0	0	—
+aericaps_collection/Decoration/Luz_Halog_tenis.obj	源包未摆放的备用模型	Luz_Halog_tenis-4d2e5c34c.xml	150	1	0	0	—
+aericaps_collection/Decoration/Luz_Jardin_01.obj	源包未摆放的备用模型	Luz_Jardin_01-c564c544c.xml	92	0	0	0	—
+aericaps_collection/Decoration/Porton_BcoEst.obj	源包未摆放的备用模型	Porton_BcoEst-a0e9f2a60.xml	14	0	0	0	—
+aericaps_collection/Decoration/Poste_01.obj	源包未摆放的备用模型	Poste_01-c5d40a01a.xml	14	0	0	0	—
+aericaps_collection/Decoration/Poste_02.obj	源包未摆放的备用模型	Poste_02-bb15c0a79.xml	14	0	0	0	—
+aericaps_collection/Decoration/Poste_03-B.obj	场景中使用	Poste_03-B-4f8c8433e.xml	34	0	0	0	—
+aericaps_collection/Decoration/Poste_03.obj	源包未摆放的备用模型	Poste_03-7647457c7.xml	34	0	0	0	—
+aericaps_collection/Decoration/Senal_A_A.obj	源包未摆放的备用模型	Senal_A_A-2cd4e8842.xml	44	0	0	0	—
+aericaps_collection/Decoration/Senal_A_NO.obj	源包未摆放的备用模型	Senal_A_NO-4006d4cee.xml	44	0	0	0	—
+aericaps_collection/Decoration/Senal_B_B.obj	源包未摆放的备用模型	Senal_B_B-165dd8bbc.xml	44	0	0	0	—
+aericaps_collection/Decoration/Senal_B_N.obj	源包未摆放的备用模型	Senal_B_N-da7bcf218.xml	44	0	0	0	—
+aericaps_collection/Decoration/Senal_C_C.obj	源包未摆放的备用模型	Senal_C_C-2203e770e.xml	44	0	0	0	—
+aericaps_collection/Decoration/Senal_C_NO.obj	源包未摆放的备用模型	Senal_C_NO-a833bce6b.xml	44	0	0	0	—
+aericaps_collection/Decoration/Senal_D_D.obj	源包未摆放的备用模型	Senal_D_D-9a9c9a1ac.xml	44	0	0	0	—
+aericaps_collection/Decoration/Senal_D_NO.obj	源包未摆放的备用模型	Senal_D_NO-8a9e8c286.xml	44	0	0	0	—
+aericaps_collection/Decoration/Senal_E_E.obj	源包未摆放的备用模型	Senal_E_E-4ec7e0112.xml	44	0	0	0	—
+aericaps_collection/Decoration/Senal_E_NO.obj	源包未摆放的备用模型	Senal_E_NO-526c2a4e9.xml	44	0	0	0	—
+aericaps_collection/Decoration/Senal_F_F.obj	源包未摆放的备用模型	Senal_F_F-97ab561cc.xml	44	0	0	0	—
+aericaps_collection/Decoration/Senal_F_NO.obj	源包未摆放的备用模型	Senal_F_NO-82eebd3dc.xml	44	0	0	0	—
+aericaps_collection/Decoration/Senal_G_NO.obj	源包未摆放的备用模型	Senal_G_NO-a04334204.xml	44	0	0	0	—
+aericaps_collection/Decoration/Senal_K_K.obj	源包未摆放的备用模型	Senal_K_K-c00acb058.xml	44	0	0	0	—
+aericaps_collection/Decoration/Senal_K_NO.obj	源包未摆放的备用模型	Senal_K_NO-6aef592bd.xml	44	0	0	0	—
+aericaps_collection/Decoration/Senal_W_NO.obj	源包未摆放的备用模型	Senal_W_NO-96a3d873b.xml	44	0	0	0	—
+aericaps_collection/Decoration/Silla_01.obj	源包未摆放的备用模型	Silla_01-f2f92a161.xml	112	0	0	0	—
+aericaps_collection/Decoration/Surtidor_01.obj	场景中使用	Surtidor_01-142b0f93b.xml	912	0	0	0	—
+aericaps_collection/Decoration/Surtidor_02.obj	场景中使用	Surtidor_02-980dc2a85.xml	980	0	0	0	—
+aericaps_collection/Decoration/Surtidor_03.obj	源包未摆放的备用模型	Surtidor_03-a11ccfd42.xml	1545	0	0	0	—
+aericaps_collection/Decoration/Surtidor_04.obj	源包未摆放的备用模型	Surtidor_04-cc616d156.xml	1571	0	0	0	—
+aericaps_collection/Decoration/Surtidor_05.obj	源包未摆放的备用模型	Surtidor_05-f665f3b4a.xml	162	0	0	0	—
+aericaps_collection/Decoration/Tapa_Comb_01.obj	场景中使用	Tapa_Comb_01-cc85fa9a6.xml	28	0	0	0	—
+aericaps_collection/Decoration/Tapa_Comb_02.obj	场景中使用	Tapa_Comb_02-31cc7f183.xml	28	0	0	0	—
+aericaps_collection/Decoration/Tapa_Comb_03.obj	场景中使用	Tapa_Comb_03-e508474b0.xml	28	0	0	0	—
+aericaps_collection/Decoration/Valdes.obj	场景中使用	Valdes-0e013cc3b.xml	485	0	0	0	—
+aericaps_collection/Decoration/WINDSOCK-con-LUZ.obj	源包未摆放的备用模型	WINDSOCK-con-LUZ-b3bb62644.xml	1940	1	0	1	—
+aericaps_collection/Decoration/anthen1.obj	源包未摆放的备用模型	anthen1-a731daaec.xml	119	0	0	0	—
+aericaps_collection/Decoration/anthen2.obj	场景中使用	anthen2-c1c39b214.xml	396	0	0	0	—
+aericaps_collection/Decoration/anthen3.obj	源包未摆放的备用模型	anthen3-a0bec36aa.xml	646	0	0	0	—
+aericaps_collection/Decoration/apt_MET_station-small.obj	场景中使用	apt_MET_station-small-9f45bbbb4.xml	334	0	0	0	—
+aericaps_collection/Decoration/apt_concrete_pot-01.obj	场景中使用	apt_concrete_pot-01-eb9992064.xml	54	0	0	0	—
+aericaps_collection/Decoration/apt_deflectors_B_14x2m.obj	源包未摆放的备用模型	apt_deflectors_B_14x2m-6e6690fc4.xml	662	0	0	0	—
+aericaps_collection/Decoration/apt_el_cabinet_big.obj	场景中使用	apt_el_cabinet_big-ebfb7c031.xml	34	0	0	0	—
+aericaps_collection/Decoration/chinaflag_01.obj	场景中使用	chinaflag_01-2edc18f79.xml	196	0	0	1	—
+aericaps_collection/Decoration/concrete-bloks0.obj	场景中使用	concrete-bloks0-8fc2c6d2c.xml	70	0	0	0	—
+aericaps_collection/Decoration/concrete-bloks1.obj	源包未摆放的备用模型	concrete-bloks1-9a4771855.xml	58	0	0	0	—
+aericaps_collection/Decoration/concrete-bloks2.obj	场景中使用	concrete-bloks2-9663461dd.xml	58	0	0	0	—
+aericaps_collection/Decoration/concrete-bloks3.obj	源包未摆放的备用模型	concrete-bloks3-665a37bfd.xml	70	0	0	0	—
+aericaps_collection/Decoration/concrete-bloks4.obj	场景中使用	concrete-bloks4-990d832e6.xml	68	0	0	0	TEXTURE_LIT concrete-bloks_LIT.png
+aericaps_collection/Decoration/concrete-bloks5.obj	源包未摆放的备用模型	concrete-bloks5-8096d8919.xml	70	0	0	0	—
+aericaps_collection/Decoration/concrete-bloks6.obj	源包未摆放的备用模型	concrete-bloks6-e252aef81.xml	70	0	0	0	—
+aericaps_collection/Decoration/container20teuRed.obj	源包未摆放的备用模型	container20teuRed-a3130aafa.xml	10	0	0	0	TEXTURE_LIT containerRed_LIT.png
+aericaps_collection/Decoration/container_20_blue_general.obj	源包未摆放的备用模型	container_20_blue_general-ad53905fb.xml	10	0	0	0	—
+aericaps_collection/Decoration/container_20_blue_general2.obj	源包未摆放的备用模型	container_20_blue_general2-cd9f8d91d.xml	10	0	0	0	—
+aericaps_collection/Decoration/container_20_brown_general.obj	源包未摆放的备用模型	container_20_brown_general-3046a535b.xml	10	0	0	0	—
+aericaps_collection/Decoration/container_20_green_DonFang.obj	源包未摆放的备用模型	container_20_green_DonFang-4bcdc61db.xml	10	0	0	0	—
+aericaps_collection/Decoration/container_20_orange_general.obj	源包未摆放的备用模型	container_20_orange_general-90597f09c.xml	10	0	0	0	—
+aericaps_collection/Decoration/container_20_palegreen_general.obj	源包未摆放的备用模型	container_20_palegreen_general-fae9e6de3.xml	10	0	0	0	—
+aericaps_collection/Decoration/container_20_white_general.obj	源包未摆放的备用模型	container_20_white_general-69613748e.xml	10	0	0	0	—
+aericaps_collection/Decoration/container_20_white_general2.obj	源包未摆放的备用模型	container_20_white_general2-725b949c0.xml	10	0	0	0	—
+aericaps_collection/Decoration/container_20_yellow_general.obj	源包未摆放的备用模型	container_20_yellow_general-9c26baa62.xml	10	0	0	0	—
+aericaps_collection/Decoration/container_40_brown_general3.obj	源包未摆放的备用模型	container_40_brown_general3-00bd0e373.xml	20	0	0	0	—
+aericaps_collection/Decoration/container_40_green_ChinaShipping.obj	场景中使用	container_40_green_ChinaShipping-16bafad86.xml	20	0	0	0	—
+aericaps_collection/Decoration/container_40_white_general.obj	场景中使用	container_40_white_general-401797b95.xml	20	0	0	0	—
+aericaps_collection/Decoration/container_40_white_general2.obj	源包未摆放的备用模型	container_40_white_general2-37d3bfef3.xml	20	0	0	0	—
+aericaps_collection/Decoration/skip_big.obj	源包未摆放的备用模型	skip_big-8cf3bf938.xml	46	0	0	0	TEXTURE_LIT skip_blue_LIT.png
+aericaps_collection/FAIB-Domestic_Airline/China_United_B737/B737_CUA.obj	场景中使用	B737_CUA-8f4daf845.xml	5827	0	0	0	—
+aericaps_collection/FAIB-Domestic_Airline/China_United_B738/B738_CUA.obj	场景中使用	B738_CUA-60862bab0.xml	5649	0	0	0	—
+aericaps_collection/Ground_Textures/R-Sing_20.obj	源包未摆放的备用模型	R-Sing_20-633dc58f5.xml	2	0	0	0	—
+aericaps_collection/Ground_Textures/R-Sing_30.obj	场景中使用	R-Sing_30-f5cfd4732.xml	2	0	0	0	—
+aericaps_collection/Ground_Textures/R-Sing_5.obj	源包未摆放的备用模型	R-Sing_5-faacc4a11.xml	2	0	0	0	—
+aericaps_collection/Ground_Textures/R-Sing_F.obj	场景中使用	R-Sing_F-75e432ca5.xml	3	0	0	0	—
+aericaps_collection/Ground_Textures/R-Sing_FR.obj	场景中使用	R-Sing_FR-53cc70205.xml	3	0	0	0	—
+aericaps_collection/Ground_Textures/R-Sing_L.obj	场景中使用	R-Sing_L-a01ea64f3.xml	3	0	0	0	—
+aericaps_collection/Ground_Textures/R-Sing_LR.obj	场景中使用	R-Sing_LR-733e35ae4.xml	3	0	0	0	—
+aericaps_collection/Ground_Textures/R-Sing_R.obj	场景中使用	R-Sing_R-a37d46f43.xml	3	0	0	0	—
+aericaps_collection/Ground_Textures/R-Sing_STOP.obj	场景中使用	R-Sing_STOP-72c37d5ce.xml	3	0	0	0	—
+aericaps_collection/Ground_Textures/arrow.obj	场景中使用	arrow-a24a21cc4.xml	2	0	0	0	—
+aericaps_collection/Ground_Textures/cross.obj	场景中使用	cross-cc8fc81a2.xml	2	0	0	0	—
+aericaps_collection/Ground_Textures/escape_arrow.obj	场景中使用	escape_arrow-766a52584.xml	8	0	0	0	—
+aericaps_collection/Ground_Textures/mancha_04.obj	场景中使用	mancha_04-cbecc4214.xml	2	0	0	0	—
+aericaps_collection/Ground_Textures/mancha_05.obj	场景中使用	mancha_05-da3f0cb4e.xml	2	0	0	0	—
+aericaps_collection/Ground_Textures/mancha_06.obj	场景中使用	mancha_06-0b83bf1d3.xml	2	0	0	0	—
+aericaps_collection/Ground_Textures/mancha_08.obj	场景中使用	mancha_08-fcc2627d0.xml	2	0	0	0	—
+aericaps_collection/Ground_Textures/spill1.obj	场景中使用	spill1-0f0d9fc1c.xml	4	0	0	0	—
+aericaps_collection/MISC/Belga_Bike.obj	场景中使用	Belga_Bike-6aace168b.xml	1919	1	0	0	—
+aericaps_collection/MISC/Belga_Dirt2.obj	场景中使用	Belga_Dirt2-56d7e55c1.xml	436	0	0	0	TEXTURE_LIT Belga_Dirt1_LIT.png
+aericaps_collection/MISC/Belga_crates_arr.obj	场景中使用	Belga_crates_arr-24b63dfdf.xml	14066	0	0	0	TEXTURE_LIT Belga_junk1_LIT.png
+aericaps_collection/MISC/Belga_pwrPole5.obj	场景中使用	Belga_pwrPole5-a59975336.xml	999	0	0	0	—
+aericaps_collection/MISC/Belga_pwrPoleLight4.obj	场景中使用	Belga_pwrPoleLight4-295bdbc60.xml	1217	0	0	0	TEXTURE_LIT Belga_PwrPole_LIT.png
+aericaps_collection/Street/Traffic_Sign/G_16_20.obj	场景中使用	G_16_20-a29388f33.xml	35	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/H_1a_20.obj	场景中使用	H_1a_20-522018688.xml	44	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_01_20.obj	源包未摆放的备用模型	V_01_20-06ff3882c.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_02_20.obj	源包未摆放的备用模型	V_02_20-a88754956.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_03a_20.obj	源包未摆放的备用模型	V_03a_20-687069091.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_03b_20.obj	源包未摆放的备用模型	V_03b_20-76e214e49.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_03c_20.obj	源包未摆放的备用模型	V_03c_20-64fc3737e.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_04a_20.obj	源包未摆放的备用模型	V_04a_20-139fb2eca.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_04b_20.obj	源包未摆放的备用模型	V_04b_20-bf7d69684.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_04c_20.obj	源包未摆放的备用模型	V_04c_20-8171402f5.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_04d_20.obj	源包未摆放的备用模型	V_04d_20-52f310242.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_05_20.obj	源包未摆放的备用模型	V_05_20-dac8392b9.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_06a_20.obj	源包未摆放的备用模型	V_06a_20-5370fa62c.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_06b_20.obj	源包未摆放的备用模型	V_06b_20-5fec9bd8d.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_06c_20.obj	源包未摆放的备用模型	V_06c_20-a333540ce.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_06d_20.obj	源包未摆放的备用模型	V_06d_20-1f8536cfb.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_07a1_20.obj	源包未摆放的备用模型	V_07a1_20-0699e73d7.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_07a2_20.obj	源包未摆放的备用模型	V_07a2_20-623a6150b.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_07a3_20.obj	源包未摆放的备用模型	V_07a3_20-63f748aed.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_07b_20.obj	源包未摆放的备用模型	V_07b_20-04667a6e4.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_07c_20.obj	源包未摆放的备用模型	V_07c_20-7cedc5e7c.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_07e_20.obj	源包未摆放的备用模型	V_07e_20-a7f4ccb4f.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_07f_20.obj	源包未摆放的备用模型	V_07f_20-e2a14129b.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_08a_20.obj	源包未摆放的备用模型	V_08a_20-905f6f3a2.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_08b_20.obj	源包未摆放的备用模型	V_08b_20-0e3724565.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_08c_20.obj	源包未摆放的备用模型	V_08c_20-9dedc7a2c.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_09a_20.obj	源包未摆放的备用模型	V_09a_20-8bc7056c8.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_09b_20.obj	源包未摆放的备用模型	V_09b_20-d3568265c.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_09c_20.obj	源包未摆放的备用模型	V_09c_20-6d90d1a91.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_09d_20.obj	源包未摆放的备用模型	V_09d_20-fa893f0f9.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_10a_20.obj	源包未摆放的备用模型	V_10a_20-246e75222.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_10b_20.obj	源包未摆放的备用模型	V_10b_20-e83f65ea1.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_11_20.obj	源包未摆放的备用模型	V_11_20-4f3ad480a.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_11a_20.obj	源包未摆放的备用模型	V_11a_20-8ec073115.xml	44	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_11b_20.obj	源包未摆放的备用模型	V_11b_20-ebc47001c.xml	44	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_12_20.obj	源包未摆放的备用模型	V_12_20-731e66510.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_13a_20.obj	源包未摆放的备用模型	V_13a_20-bcf210a62.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_13b_20.obj	源包未摆放的备用模型	V_13b_20-9e95c4140.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_13c1_20.obj	源包未摆放的备用模型	V_13c1_20-4941ea8c7.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_13c2_20.obj	源包未摆放的备用模型	V_13c2_20-ea7b8a379.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_13d_20.obj	源包未摆放的备用模型	V_13d_20-ad716e053.xml	44	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_13e_20.obj	源包未摆放的备用模型	V_13e_20-7c46e42af.xml	44	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_14_20.obj	源包未摆放的备用模型	V_14_20-ecd1a2016.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_14a_20.obj	源包未摆放的备用模型	V_14a_20-8eb8e9930.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_14b_20.obj	源包未摆放的备用模型	V_14b_20-728b26f28.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_15_04.obj	源包未摆放的备用模型	V_15_04-8f6846dfd.xml	224	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_15_20.obj	源包未摆放的备用模型	V_15_20-1db24f494.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_15a_04.obj	源包未摆放的备用模型	V_15a_04-1ff7af4bb.xml	224	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_15a_20.obj	源包未摆放的备用模型	V_15a_20-34f6052c2.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_15b_20.obj	源包未摆放的备用模型	V_15b_20-9476e4b27.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_15c_20.obj	源包未摆放的备用模型	V_15c_20-2e9377949.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_15d_20.obj	源包未摆放的备用模型	V_15d_20-be970de24.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_15e_20.obj	源包未摆放的备用模型	V_15e_20-6b50acbf1.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_15f_20.obj	源包未摆放的备用模型	V_15f_20-3f4f2276d.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_15g_20.obj	源包未摆放的备用模型	V_15g_20-ad16e777f.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_15h_04.obj	源包未摆放的备用模型	V_15h_04-78e5d067b.xml	224	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_15h_20.obj	源包未摆放的备用模型	V_15h_20-601992944.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_15i_04.obj	源包未摆放的备用模型	V_15i_04-cbba54109.xml	224	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_15i_20.obj	源包未摆放的备用模型	V_15i_20-4f6c43ffd.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_16_20.obj	源包未摆放的备用模型	V_16_20-655d5b586.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_16a_20.obj	源包未摆放的备用模型	V_16a_20-ab13e673b.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_17_20.obj	源包未摆放的备用模型	V_17_20-3edb5f9a4.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_17aa_20.obj	源包未摆放的备用模型	V_17aa_20-11745af74.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_17ab_20.obj	源包未摆放的备用模型	V_17ab_20-ebbd15bb8.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_17ac_20.obj	源包未摆放的备用模型	V_17ac_20-248cf2373.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_17ad_20.obj	源包未摆放的备用模型	V_17ad_20-ec8d35eb9.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_17ae_20.obj	源包未摆放的备用模型	V_17ae_20-7d17410da.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_17b_20.obj	源包未摆放的备用模型	V_17b_20-ca5a5cbf6.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_17c_20.obj	源包未摆放的备用模型	V_17c_20-0528e79f5.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_18_20.obj	源包未摆放的备用模型	V_18_20-e9da3ac07.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_19_20.obj	源包未摆放的备用模型	V_19_20-c38fd1d95.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_19a_20.obj	源包未摆放的备用模型	V_19a_20-9c48040b0.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_21_20.obj	源包未摆放的备用模型	V_21_20-379c5a9ca.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_22_20.obj	源包未摆放的备用模型	V_22_20-c6098cac1.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_22a_20.obj	源包未摆放的备用模型	V_22a_20-22a19494d.xml	204	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_23_20.obj	源包未摆放的备用模型	V_23_20-a577df5f4.xml	35	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_24_20.obj	源包未摆放的备用模型	V_24_20-83a5c2e33.xml	76	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_25a_20.obj	源包未摆放的备用模型	V_25a_20-db90bce9c.xml	44	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/V_25b_20.obj	源包未摆放的备用模型	V_25b_20-32bb295b3.xml	44	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/Z_a_20.obj	源包未摆放的备用模型	Z_a_20-deeb99b78.xml	22	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/Z_a_20_N.obj	源包未摆放的备用模型	Z_a_20_N-d3d5c1af0.xml	22	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/Z_b_20.obj	源包未摆放的备用模型	Z_b_20-da85593d7.xml	22	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/Z_b_20_N.obj	源包未摆放的备用模型	Z_b_20_N-5b6c148f3.xml	22	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/Z_c_20.obj	源包未摆放的备用模型	Z_c_20-95ebed36b.xml	22	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/Z_d_20.obj	源包未摆放的备用模型	Z_d_20-a39a64c3b.xml	22	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/Z_e_20.obj	源包未摆放的备用模型	Z_e_20-f3e6ecaf8.xml	22	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/Z_f_20.obj	源包未摆放的备用模型	Z_f_20-e0bb9af45.xml	22	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/Z_g_20.obj	源包未摆放的备用模型	Z_g_20-0b9b1c5a8.xml	22	0	0	0	TEXTURE_LIT Traffic_Signs_LIT.png
+aericaps_collection/Street/Traffic_Sign/tr_sign_40km.obj	源包未摆放的备用模型	tr_sign_40km-7d2026e60.xml	204	0	0	0	—
+aericaps_collection/Street/Traffic_Sign/tr_sign_big.obj	源包未摆放的备用模型	tr_sign_big-945a8a698.xml	742	0	0	0	—
+aericaps_collection/Street/Traffic_Sign/tr_sign_direction.obj	源包未摆放的备用模型	tr_sign_direction-9bc6ca34b.xml	372	0	0	0	—
+aericaps_collection/Street/Traffic_Sign/tr_sign_lanes.obj	场景中使用	tr_sign_lanes-6ac8974a5.xml	122	0	0	0	—
+aericaps_collection/Street/Traffic_Sign/tr_sign_leftup.obj	源包未摆放的备用模型	tr_sign_leftup-d50d195a7.xml	204	0	0	0	—
+aericaps_collection/Street/Traffic_Sign/tr_sign_noentry.obj	场景中使用	tr_sign_noentry-3bacd7b50.xml	204	0	0	0	—
+aericaps_collection/Street/Traffic_Sign/tr_sign_noparking.obj	源包未摆放的备用模型	tr_sign_noparking-b7e6df664.xml	204	0	0	0	—
+aericaps_collection/Street/Traffic_Sign/tr_sign_noparking_plus.obj	场景中使用	tr_sign_noparking_plus-450ae54b4.xml	294	0	0	0	—
+aericaps_collection/Street/Traffic_Sign/tr_sign_nopriroad.obj	源包未摆放的备用模型	tr_sign_nopriroad-44a60b83d.xml	118	0	0	0	—
+aericaps_collection/Street/Traffic_Sign/tr_sign_nopriroad_plus.obj	源包未摆放的备用模型	tr_sign_nopriroad_plus-5f251b889.xml	206	0	0	0	—
+aericaps_collection/Street/Traffic_Sign/tr_sign_parkinghouse_plus-01.obj	源包未摆放的备用模型	tr_sign_parkinghouse_plus-01-766d5b380.xml	210	0	0	0	—
+aericaps_collection/Street/Traffic_Sign/tr_sign_parkinghouse_plus-02.obj	源包未摆放的备用模型	tr_sign_parkinghouse_plus-02-5345f4b6e.xml	210	0	0	0	—
+aericaps_collection/Street/Traffic_Sign/tr_sign_parkinghouse_plus-03.obj	源包未摆放的备用模型	tr_sign_parkinghouse_plus-03-6dc099b11.xml	290	0	0	0	—
+aericaps_collection/Street/Traffic_Sign/tr_sign_pedcross.obj	场景中使用	tr_sign_pedcross-aeab78743.xml	122	0	0	0	—
+aericaps_collection/Street/Traffic_Sign/tr_sign_priroad_plus-01.obj	源包未摆放的备用模型	tr_sign_priroad_plus-01-c12863ac1.xml	210	0	0	0	—
+aericaps_collection/Street/Traffic_Sign/tr_sign_priroad_plus-02.obj	源包未摆放的备用模型	tr_sign_priroad_plus-02-8d792f3f7.xml	210	0	0	0	—
+aericaps_collection/Street/Traffic_Sign/tr_sign_stop.obj	源包未摆放的备用模型	tr_sign_stop-90d637adb.xml	280	0	0	0	—
+aericaps_collection/Street/Traffic_Sign/tr_sign_trlights.obj	源包未摆放的备用模型	tr_sign_trlights-1537e1435.xml	118	0	0	0	—
+aericaps_collection/Street/street_lamp_double-11m.obj	源包未摆放的备用模型	street_lamp_double-11m-905aa3968.xml	580	0	0	0	—
+aericaps_collection/Street/street_lamp_double-12m.obj	场景中使用	street_lamp_double-12m-16f7ae002.xml	724	0	0	0	—
+aericaps_collection/Street/street_lamp_single-11m.obj	源包未摆放的备用模型	street_lamp_single-11m-af1ce5045.xml	350	0	0	0	—
+aericaps_collection/Street/street_lamp_single-12m.obj	源包未摆放的备用模型	street_lamp_single-12m-3f64ff429.xml	451	0	0	0	—
+aericaps_collection/fence/barrier_cement10m.obj	源包未摆放的备用模型	barrier_cement10m-40b2638d0.xml	38	0	0	0	—
+aericaps_collection/fence/barrier_cement150m.obj	源包未摆放的备用模型	barrier_cement150m-21ea746a9.xml	538	0	0	0	—
+aericaps_collection/fence/barrier_cement16m.obj	场景中使用	barrier_cement16m-6af8d9a07.xml	66	0	0	0	—
+aericaps_collection/objects_2/01c470fd4acc8c15b9d5b08cc27ba3a7-BusSmall.obj	场景中使用	01c470fd4acc8c15b9d5b08cc27ba3a7-BusSmall-d29a69844.xml	284	0	0	0	TEXTURE_LIT BusSmall_LIT.dds
+aericaps_collection/objects_2/0acdbf524fc01cc3f55b858dd99b694b-BusSmall.obj	场景中使用	0acdbf524fc01cc3f55b858dd99b694b-BusSmall-75d11369e.xml	284	0	0	0	—
+aericaps_collection/objects_2/113ee7064e724ce40ffd5791f29f68a8-CARS_GroundService2.obj	场景中使用	113ee7064e724ce40ffd5791f29f68a8-CARS_GroundService2-f9ddb3dca.xml	280	0	0	0	TEXTURE_LIT CARS_GroundService2_LIT.dds
+aericaps_collection/objects_2/147068a14eb7af7354e39b8b23c3b191-cone.obj	场景中使用	147068a14eb7af7354e39b8b23c3b191-cone-813c677c4.xml	407	0	0	0	—
+aericaps_collection/objects_2/1ef8aad34983fd72f15c05a72c80857b-uuee_buildings_20_d.obj	场景中使用	1ef8aad34983fd72f15c05a72c80857b-uuee_buildings_20_d-ec6249255.xml	289	0	0	0	—
+aericaps_collection/objects_2/2156a3e048fc21de4eff558a1e57b44d-CARS_GroundService2.obj	源包未摆放的备用模型	2156a3e048fc21de4eff558a1e57b44d-CARS_GroundService2-79c8231b7.xml	28	0	0	0	TEXTURE_LIT CARS_GroundService2_LIT.png
+aericaps_collection/objects_2/23cbe57344ffe026918697a99a18b709-CARS_GroundService1.obj	场景中使用	23cbe57344ffe026918697a99a18b709-CARS_GroundService1-709565c0a.xml	138	0	0	0	TEXTURE_LIT CARS_GroundService1_LIT.png
+aericaps_collection/objects_2/353e767b410ccf8d8fdf20a1bdcdbe6d-CARS_GroundService1.obj	场景中使用	353e767b410ccf8d8fdf20a1bdcdbe6d-CARS_GroundService1-80196b236.xml	136	0	0	0	TEXTURE_LIT CARS_GroundService1_LIT.png
+aericaps_collection/objects_2/5b4a3f674550f9675cf361bdc4a071af-CARS_GroundService1.obj	场景中使用	5b4a3f674550f9675cf361bdc4a071af-CARS_GroundService1-86d2a1dab.xml	28	0	0	0	TEXTURE_LIT CARS_GroundService1_LIT.png
+aericaps_collection/objects_2/85e2d8ae43315d8c1699fab3b5f2a666-Bags.obj	场景中使用	85e2d8ae43315d8c1699fab3b5f2a666-Bags-db58471b4.xml	3208	0	0	0	—
+aericaps_collection/objects_2/99f6d482463217dcbfb07683d89bca3b-CARS_GroundService1.obj	场景中使用	99f6d482463217dcbfb07683d89bca3b-CARS_GroundService1-5714cf044.xml	146	0	0	0	TEXTURE_LIT CARS_GroundService1_LIT.png
+aericaps_collection/objects_2/aebe5fb34ac0f9474244afb147a07d61-Bags.obj	场景中使用	aebe5fb34ac0f9474244afb147a07d61-Bags-c022c9756.xml	22368	0	0	0	—
+aericaps_collection/objects_2/af63885a49fb8d945d0401b5e0142609-CARS_GroundService1.obj	源包未摆放的备用模型	af63885a49fb8d945d0401b5e0142609-CARS_GroundService1-ef2ce37d6.xml	308	0	0	0	TEXTURE_LIT CARS_GroundService1_LIT.png
+aericaps_collection/objects_2/bb2db63d4977eb9958f7e093009d1f52-SBP16_01.obj	场景中使用	bb2db63d4977eb9958f7e093009d1f52-SBP16_01-58575f2a9.xml	4322	0	0	0	—
+aericaps_collection/objects_2/bea50d1443c72440aa0a60a27a5e38ef-SBP19_01.obj	场景中使用	bea50d1443c72440aa0a60a27a5e38ef-SBP19_01-1da89c728.xml	4220	0	0	0	—
+aericaps_collection/objects_2/d11f9f914599e5e943f6be8208a8fb93-CARS_GroundService2.obj	场景中使用	d11f9f914599e5e943f6be8208a8fb93-CARS_GroundService2-5c974876b.xml	142	0	0	0	TEXTURE_LIT CARS_GroundService2_LIT.dds
+aericaps_collection/objects_2/e4a22bd24e620760f650819fe9a83bfa-Bags.obj	场景中使用	e4a22bd24e620760f650819fe9a83bfa-Bags-cb888b6fd.xml	3898	0	0	0	—
+aericaps_collection/objects_2/f31b2b6c42637f9a0eb9a4848f6c7d5c-People_Other.obj	场景中使用	f31b2b6c42637f9a0eb9a4848f6c7d5c-People_Other-054919ac8.xml	3904	0	0	0	—
+aericaps_collection/objects_2/fd42709a4edfadcfb57bf483506dca3a-Bags.obj	场景中使用	fd42709a4edfadcfb57bf483506dca3a-Bags-a041999e3.xml	14076	0	0	0	—
+aericaps_collection/objects_2/fe1db87a4b537e6a486040be99817a8e-CARS_GroundService1.obj	场景中使用	fe1db87a4b537e6a486040be99817a8e-CARS_GroundService1-bac2ebfba.xml	82	0	0	0	TEXTURE_LIT CARS_GroundService1_LIT.png
+aericaps_collection/other/aerial.obj	场景中使用	aerial-8c4bdfed3.xml	3542	0	0	0	—
+aericaps_collection/other/barrel.obj	场景中使用	barrel-d3cf7f2a9.xml	2076	0	0	0	—
+aericaps_collection/other/barrier.obj	场景中使用	barrier-2e4637095.xml	168	0	0	0	TEXTURE_NORMAL barrier_nm_spec.png
+aericaps_collection/other/bin.obj	场景中使用	bin-bdec1d671.xml	178	0	0	0	—
+aericaps_collection/other/cone.obj	场景中使用	cone-531be401b.xml	292	0	0	0	—
+aericaps_collection/other/crowd_barrier.obj	场景中使用	crowd_barrier-a567a3d6a.xml	780	0	0	0	—
+aericaps_collection/other/junk.obj	场景中使用	junk-3fe80cf6c.xml	1616	0	0	0	—
+aericaps_collection/other/ndb.obj	场景中使用	ndb-6e131ac51.xml	548	0	0	0	—
+aericaps_collection/other/no_stopping.obj	场景中使用	no_stopping-450b28be8.xml	170	0	0	0	—
+aericaps_collection/other/no_walking.obj	场景中使用	no_walking-c2771124d.xml	170	0	0	0	—
+aericaps_collection/other/parking.obj	场景中使用	parking-6fd22abf9.xml	118	0	0	0	TEXTURE_NORMAL parking_nor_nm_spec.png
+aericaps_collection/other/post1.obj	场景中使用	post1-25d2d42c7.xml	46	0	0	0	—
+aericaps_collection/other/post2.obj	场景中使用	post2-2de88955b.xml	46	0	0	0	—
+aericaps_collection/other/trailer.obj	场景中使用	trailer-feb95ac36.xml	2266	0	0	0	—
+aericaps_collection/other/weather.obj	场景中使用	weather-6e353d4d9.xml	2668	0	1	0	—
+aericaps_collection/other/wpost.obj	场景中使用	wpost-9028acf3c.xml	194	0	0	0	TEXTURE_NORMAL wpost_nrm_nm_spec.png
+aericaps_collection/ruscenery/aircrafts/yak-52.obj	已有模型保留		5310	0	0	0	TEXTURE_LIT yak-52_lit.png
+aericaps_collection/ruscenery/buildings/meteomarker-A.obj	场景中使用	meteomarker-A-b7521b360.xml	181	0	0	0	—
+aericaps_collection/ruscenery/buildings/meteomarker1.obj	场景中使用	meteomarker1-729248acf.xml	22	0	0	0	—
+aericaps_collection/ruscenery/buildings/meteomarker2.obj	场景中使用	meteomarker2-7ae28f2e6.xml	22	0	0	0	—
+aericaps_collection/ruscenery/buildings/meteomarker3.obj	场景中使用	meteomarker3-144941d3a.xml	42	0	0	0	—
+aericaps_collection/ruscenery/buildings/meteosensor1.obj	场景中使用	meteosensor1-71e492109.xml	166	1	0	0	—
+aericaps_collection/ruscenery/buildings/spot.obj	场景中使用	spot-517eb4dfe.xml	2	0	0	0	—
+aericaps_collection/ruscenery/buildings/z-ga-konus2.obj	场景中使用	z-ga-konus2-fc39d1657.xml	20	0	0	0	—
+aericaps_collection/ruscenery/buildings/z-ga-uglovoy2-old.obj	场景中使用	z-ga-uglovoy2-old-a1ec2a74b.xml	30	0	0	0	—
+aericaps_collection/ruscenery/buildings/z-ga-white-old.obj	场景中使用	z-ga-white-old-eb29046d1.xml	10	0	0	0	TEXTURE_LIT z-ga-znaki-old_lit.png
+aericaps_collection/ruscenery/forest/abies-20.obj	源包未摆放的备用模型	abies-20-3fe8e29be.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/abies-25.obj	源包未摆放的备用模型	abies-25-7591d0a85.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/abies-30.obj	源包未摆放的备用模型	abies-30-3161069ed.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/acer-30.obj	源包未摆放的备用模型	acer-30-627eff933.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/betula-10.obj	源包未摆放的备用模型	betula-10-6248fff3a.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/betula-12.obj	场景中使用	betula-12-4258615b5.xml	18	0	0	0	—
+aericaps_collection/ruscenery/forest/betula-35.obj	复用相同资源	betula-10-6248fff3a.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/betula-40.obj	源包未摆放的备用模型	betula-40-23ed19f58.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/birch1-14.obj	源包未摆放的备用模型	birch1-14-13b4f4bb3.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/birch1-17.obj	源包未摆放的备用模型	birch1-17-14a997ee2.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/birch1-20.obj	源包未摆放的备用模型	birch1-20-3a899d0df.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/birch2-09.obj	源包未摆放的备用模型	birch2-09-c75d792fe.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/birch2-11.obj	源包未摆放的备用模型	birch2-11-f878f2b0d.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/birch2-13.obj	源包未摆放的备用模型	birch2-13-de247de91.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/birch3-07.obj	源包未摆放的备用模型	birch3-07-b332e4c28.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/birch3-11.obj	源包未摆放的备用模型	birch3-11-3c496da0b.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/birch3-14.obj	源包未摆放的备用模型	birch3-14-ad08577e7.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/birch4-18.obj	源包未摆放的备用模型	birch4-18-91b2f6545.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/birch4-19.obj	源包未摆放的备用模型	birch4-19-38962340c.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/birch4-21.obj	源包未摆放的备用模型	birch4-21-9689b2396.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/bush1.obj	源包未摆放的备用模型	bush1-c6d63062a.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/bush2.obj	源包未摆放的备用模型	bush2-d22c5370a.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/bush3.obj	源包未摆放的备用模型	bush3-a42f3cfeb.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/cedrus-30.obj	源包未摆放的备用模型	cedrus-30-130ba8ec6.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/cedrus-35.obj	源包未摆放的备用模型	cedrus-35-89bea8889.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/cedrus-40.obj	源包未摆放的备用模型	cedrus-40-c38a7c502.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/cypress1-16.obj	源包未摆放的备用模型	cypress1-16-27237b213.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/cypress1-18.obj	源包未摆放的备用模型	cypress1-18-d3451fdd2.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/cypress1-20.obj	源包未摆放的备用模型	cypress1-20-0aa03b2ec.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/cypress2-14.obj	源包未摆放的备用模型	cypress2-14-9f1dc5e33.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/cypress2-17.obj	源包未摆放的备用模型	cypress2-17-61d047aae.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/cypress2-19.obj	源包未摆放的备用模型	cypress2-19-01f8e659d.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/fraxinus-20.obj	源包未摆放的备用模型	fraxinus-20-463a52f12.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/fraxinus-25.obj	源包未摆放的备用模型	fraxinus-25-af9811c5a.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/fraxinus-30.obj	源包未摆放的备用模型	fraxinus-30-99d4359f7.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/fraxinus-35.obj	源包未摆放的备用模型	fraxinus-35-76984d26e.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/grass.obj	场景中使用	grass-fa1704d58.xml	10	0	0	0	—
+aericaps_collection/ruscenery/forest/hi-acer-10.obj	场景中使用	hi-acer-10-12ed275fc.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/hi-acer-15.obj	场景中使用	hi-acer-15-d180677c3.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/hi-acer-20.obj	场景中使用	hi-acer-20-ee059a9f6.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/hi-acer.obj	场景中使用	hi-acer-7afb5728a.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/hi-alnus-10.obj	源包未摆放的备用模型	hi-alnus-10-c882634e2.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/hi-alnus-15.obj	源包未摆放的备用模型	hi-alnus-15-bb36a1463.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/hi-alnus-20.obj	源包未摆放的备用模型	hi-alnus-20-1aa4b432c.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/hi-pinus-25.obj	场景中使用	hi-pinus-25-bb6a52b23.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/hi-tree.obj	场景中使用	hi-tree-b201478ab.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/larix-20.obj	源包未摆放的备用模型	larix-20-7d67c6820.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/larix-25.obj	源包未摆放的备用模型	larix-25-f4afdf822.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/larix-30.obj	源包未摆放的备用模型	larix-30-6f15a8f12.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/larix-35.obj	源包未摆放的备用模型	larix-35-0a55331e7.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/oak1-07.obj	源包未摆放的备用模型	oak1-07-5e89ac6d7.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/oak1-09.obj	源包未摆放的备用模型	oak1-09-1df381b5c.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/oak1-17.obj	源包未摆放的备用模型	oak1-17-db548d2eb.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/picea-06.obj	源包未摆放的备用模型	picea-06-7afc9ef75.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/picea-08.obj	源包未摆放的备用模型	picea-08-624d89886.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/picea-10.obj	源包未摆放的备用模型	picea-10-f4ffbbd94.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/pine1-13.obj	源包未摆放的备用模型	pine1-13-9efdc13a3.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/pine1-15.obj	源包未摆放的备用模型	pine1-15-eca69b356.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/pine1-18.obj	源包未摆放的备用模型	pine1-18-8ff0f7460.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/pine2-19.obj	源包未摆放的备用模型	pine2-19-3a3a14e82.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/pine2-22.obj	源包未摆放的备用模型	pine2-22-08d928bfc.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/pine2-25.obj	源包未摆放的备用模型	pine2-25-882d09d3c.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/pinus-30.obj	源包未摆放的备用模型	pinus-30-af53f2790.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/pinus-35.obj	源包未摆放的备用模型	pinus-35-7e4d3df1f.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/poplar1-05.obj	源包未摆放的备用模型	poplar1-05-26ad8baff.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/poplar1-07.obj	源包未摆放的备用模型	poplar1-07-a6bf7fecc.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/poplar1-10.obj	源包未摆放的备用模型	poplar1-10-ef4845332.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/poplar1-14.obj	源包未摆放的备用模型	poplar1-14-6872bc5f8.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/poplar1-18.obj	源包未摆放的备用模型	poplar1-18-dd63608a1.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/poplar1-22.obj	源包未摆放的备用模型	poplar1-22-546461459.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/quercus-15.obj	源包未摆放的备用模型	quercus-15-49fa25fe4.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/quercus-20.obj	源包未摆放的备用模型	quercus-20-ad95a435b.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/spruce1-09.obj	源包未摆放的备用模型	spruce1-09-537984e38.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/spruce1-12.obj	源包未摆放的备用模型	spruce1-12-618a5d8c3.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/spruce1-15.obj	源包未摆放的备用模型	spruce1-15-a0b5dc567.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/spruce2-10.obj	源包未摆放的备用模型	spruce2-10-61d406ddc.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/spruce2-16.obj	源包未摆放的备用模型	spruce2-16-651fda686.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/spruce2-19.obj	源包未摆放的备用模型	spruce2-19-45174fa69.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/spruce3-06.obj	源包未摆放的备用模型	spruce3-06-ed2f3c309.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/spruce3-08.obj	源包未摆放的备用模型	spruce3-08-26a995395.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/spruce3-11.obj	源包未摆放的备用模型	spruce3-11-03697e836.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/thuya1-07.obj	源包未摆放的备用模型	thuya1-07-19818e29c.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/thuya1-08.obj	源包未摆放的备用模型	thuya1-08-8aade8043.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/thuya1-10.obj	源包未摆放的备用模型	thuya1-10-dcb8972c8.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/tila-15.obj	源包未摆放的备用模型	tila-15-f4045117e.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/tila-20.obj	源包未摆放的备用模型	tila-20-a6621767c.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/tila-25.obj	源包未摆放的备用模型	tila-25-64ad75ea5.xml	24	0	0	0	—
+aericaps_collection/ruscenery/forest/tree1-13.obj	源包未摆放的备用模型	tree1-13-77afb2929.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/tree1-17.obj	源包未摆放的备用模型	tree1-17-71b2cb992.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/tree1-20.obj	源包未摆放的备用模型	tree1-20-391a47b16.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/tree2-09.obj	源包未摆放的备用模型	tree2-09-d4c7533fe.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/tree2-12.obj	源包未摆放的备用模型	tree2-12-944c2c15d.xml	8	0	0	0	—
+aericaps_collection/ruscenery/forest/tree2-14.obj	源包未摆放的备用模型	tree2-14-0952db3bc.xml	8	0	0	0	—
+aericaps_collection/ruscenery/houses/building-3.obj	场景中使用	building-3-9a150fea1.xml	44	1	0	0	—
+aericaps_collection/ruscenery/houses/building-4.obj	场景中使用	building-4-6e7301f36.xml	44	1	0	0	—
+aericaps_collection/ruscenery/houses/building-5.obj	源包未摆放的备用模型	building-5-318cbb3eb.xml	44	1	0	0	—
+aericaps_collection/ruscenery/houses/building-6.obj	场景中使用	building-6-c0f336b80.xml	60	1	0	0	—
+aericaps_collection/ruscenery/houses/store-01.obj	场景中使用	store-01-0fe121c6c.xml	18	0	0	0	—
+aericaps_collection/ruscenery/houses/transf1.obj	场景中使用	transf1-5bdbe58d5.xml	10	0	0	0	—
+aericaps_collection/ruscenery/tech/bagcarts.obj	源包未摆放的备用模型	bagcarts-ce10c6d60.xml	60	1	0	0	—
+aericaps_collection/ruscenery/tech/bulldozer.obj	场景中使用	bulldozer-73f467832.xml	5831	0	0	0	—
+aericaps_collection/ruscenery/tech/ep006-2.obj	源包未摆放的备用模型	ep006-2-bce683c19.xml	754	1	0	0	—
+aericaps_collection/ruscenery/tech/firetruck-1.obj	源包未摆放的备用模型	firetruck-1-71ab1299d.xml	562	1	0	0	—
+aericaps_collection/ruscenery/tech/gaz-mil.obj	源包未摆放的备用模型	gaz-mil-0448a1573.xml	697	1	0	0	—
+aericaps_collection/ruscenery/tech/gaz69.obj	源包未摆放的备用模型	gaz69-67c9c84e4.xml	1412	1	0	0	—
+aericaps_collection/ruscenery/tech/gazel-1.obj	场景中使用	gazel-1-adb44718f.xml	343	0	0	0	—
+aericaps_collection/ruscenery/tech/gazel-2.obj	场景中使用	gazel-2-320f942a6.xml	343	0	0	0	—
+aericaps_collection/ruscenery/tech/gazel2705-new.obj	源包未摆放的备用模型	gazel2705-new-484cb33d9.xml	279	1	0	0	—
+aericaps_collection/ruscenery/tech/gazel2705-old-2.obj	源包未摆放的备用模型	gazel2705-old-2-1c745a7de.xml	296	1	0	0	—
+aericaps_collection/ruscenery/tech/gazel2705-old.obj	场景中使用	gazel2705-old-f9ea2e44c.xml	296	1	0	0	—
+aericaps_collection/ruscenery/tech/gazel3221-new.obj	场景中使用	gazel3221-new-f449cbbed.xml	275	1	0	0	—
+aericaps_collection/ruscenery/tech/gazel3221-old-2.obj	源包未摆放的备用模型	gazel3221-old-2-02924007d.xml	292	1	0	0	—
+aericaps_collection/ruscenery/tech/gazel3221-old.obj	源包未摆放的备用模型	gazel3221-old-ca779f578.xml	292	1	0	0	—
+aericaps_collection/ruscenery/tech/kamaz-mil-2.obj	源包未摆放的备用模型	kamaz-mil-2-f7804d832.xml	577	1	0	0	—
+aericaps_collection/ruscenery/tech/kamaz-mil.obj	场景中使用	kamaz-mil-fca7ae3f2.xml	597	1	0	0	—
+aericaps_collection/ruscenery/tech/kraz-mil.obj	源包未摆放的备用模型	kraz-mil-da92b2aab.xml	860	1	0	0	—
+aericaps_collection/ruscenery/tech/uaz-mil.obj	复用相同资源	uaz-ac45d271a.xml	415	1	0	0	—
+aericaps_collection/ruscenery/tech/uaz.obj	场景中使用	uaz-ac45d271a.xml	415	1	0	0	—
+aericaps_collection/ruscenery/tech/uaz450.obj	源包未摆放的备用模型	uaz450-ddcee7ecb.xml	464	0	0	0	—
+aericaps_collection/ruscenery/tech/uaz452-followme.obj	源包未摆放的备用模型	uaz452-followme-881da07b5.xml	586	1	0	0	—
+aericaps_collection/ruscenery/tech/uaz452.obj	源包未摆放的备用模型	uaz452-5d978b644.xml	550	0	0	0	—
+aericaps_collection/ruscenery/tech/ural-mil-2.obj	源包未摆放的备用模型	ural-mil-2-a0dfff05e.xml	793	1	0	0	—
+aericaps_collection/ruscenery/tech/ural-mil.obj	源包未摆放的备用模型	ural-mil-68063f059.xml	919	1	0	0	—
+aericaps_collection/ruscenery/tech/zil-mil-2.obj	源包未摆放的备用模型	zil-mil-2-73f0f8820.xml	596	1	0	0	—
+aericaps_collection/ruscenery/tech/zil-mil.obj	源包未摆放的备用模型	zil-mil-5eb3f4135.xml	657	1	0	0	—
+aericaps_collection/ruscenery/tech/zil131_d.obj	源包未摆放的备用模型	zil131_d-290aa9d92.xml	686	1	0	0	—
+aericaps_collection/update1-1/Marcas_piso/mancha_A_2.obj	场景中使用	mancha_A_2-73fe74994.xml	4	0	0	0	—
+aericaps_collection/update1-1/Marcas_piso/mancha_F_2.obj	场景中使用	mancha_F_2-0525652b3.xml	4	0	0	0	—
+aericaps_collection/update1-1/Marcas_piso/mancha_H_2.obj	场景中使用	mancha_H_2-f8ed00a4e.xml	4	0	0	0	—
+aericaps_collection/update1-1/Marcas_piso/mancha_O_2.obj	场景中使用	mancha_O_2-1ab1ed442.xml	4	0	0	0	—
+aericaps_collection/update1-1/llanta_30_1.obj	场景中使用	llanta_30_1-bd057ad48.xml	34	0	0	0	—
+aericaps_collection/update1-1/llanta_30_2.obj	源包未摆放的备用模型	llanta_30_2-c44bed36c.xml	34	0	0	0	—
+aericaps_collection/update1-1/llanta_45_1.obj	场景中使用	llanta_45_1-44d55bbf2.xml	34	0	0	0	—
+aericaps_collection/update1-1/llanta_45_2.obj	场景中使用	llanta_45_2-2195f6dc1.xml	34	0	0	0	—
+aericaps_collection/update1-1/llantas_90_1.obj	源包未摆放的备用模型	llantas_90_1-32b7daae0.xml	72	0	0	0	—
+aericaps_collection/update1-1/llantas_90_2.obj	源包未摆放的备用模型	llantas_90_2-5b24dff6f.xml	72	0	0	0	—
+aericaps_collection/update1-1/llantas_conjunto.obj	源包未摆放的备用模型	llantas_conjunto-b0548d9e4.xml	592	0	0	0	—
+aericaps_collection/update1-1/parqueo2_a.obj	场景中使用	parqueo2_a-551878176.xml	60	0	0	0	—
+aericaps_collection/vegetation/CercoVivo_01.obj	场景中使用	CercoVivo_01-731ad5650.xml	6	0	0	0	—
+aericaps_collection/vegetation/CercoVivo_02.obj	场景中使用	CercoVivo_02-4ad6bec30.xml	8	0	0	0	—
+aericaps_collection/vegetation/CercoVivo_04.obj	场景中使用	CercoVivo_04-7399e20d2.xml	6	0	0	0	—
+aericaps_collection/vegetation/Planta_02.obj	源包未摆放的备用模型	Planta_02-62fdce595.xml	722	0	0	0	—
+aericaps_collection/vegetation/Remate_Pino.obj	场景中使用	Remate_Pino-a870e98cb.xml	2	0	0	0	—
+aericaps_collection/vegetation/planta_01.obj	场景中使用	planta_01-5bad7aaa8.xml	440	0	0	0	—
+aericaps_collection/vegetation/tree1.obj	源包未摆放的备用模型	tree1-653d757fb.xml	4	0	0	0	—
+aericaps_collection/vegetation/tree10m_1.obj	源包未摆放的备用模型	tree10m_1-07ebbc2c0.xml	8	0	0	0	—
+aericaps_collection/vegetation/tree11m_1.obj	源包未摆放的备用模型	tree11m_1-8f2e7e41d.xml	8	0	0	0	—
+aericaps_collection/vegetation/tree12m_1.obj	场景中使用	tree12m_1-9cc69ab8f.xml	8	0	0	0	—
+aericaps_collection/vegetation/tree13m_1.obj	源包未摆放的备用模型	tree13m_1-ccd543728.xml	8	0	0	0	—
+aericaps_collection/vegetation/tree14.obj	场景中使用	tree14-b797a70c7.xml	16	0	0	0	—
+aericaps_collection/vegetation/tree14m_1.obj	源包未摆放的备用模型	tree14m_1-5daae93cb.xml	8	0	0	0	—
+aericaps_collection/vegetation/tree15m_1.obj	源包未摆放的备用模型	tree15m_1-fe3c17724.xml	8	0	0	0	—
+aericaps_collection/vegetation/tree16m_1.obj	源包未摆放的备用模型	tree16m_1-7cf3e62fe.xml	8	0	0	0	—
+aericaps_collection/vegetation/tree17m_1.obj	源包未摆放的备用模型	tree17m_1-8dfebf5ce.xml	8	0	0	0	—
+aericaps_collection/vegetation/tree18m_1.obj	源包未摆放的备用模型	tree18m_1-7e9a6e666.xml	8	0	0	0	—
+aericaps_collection/vegetation/tree19m_1.obj	源包未摆放的备用模型	tree19m_1-4cb62fbfd.xml	8	0	0	0	—
+aericaps_collection/vegetation/tree1m_1.obj	源包未摆放的备用模型	tree1m_1-0a1823717.xml	8	0	0	0	—
+aericaps_collection/vegetation/tree2.obj	源包未摆放的备用模型	tree2-5b40b2c7d.xml	4	0	0	0	—
+aericaps_collection/vegetation/tree20m_1.obj	源包未摆放的备用模型	tree20m_1-1e4a19ced.xml	8	0	0	0	—
+aericaps_collection/vegetation/tree21m_1.obj	源包未摆放的备用模型	tree21m_1-224c0ffde.xml	8	0	0	0	—
+aericaps_collection/vegetation/tree22m_1.obj	源包未摆放的备用模型	tree22m_1-ab361a736.xml	8	0	0	0	—
+aericaps_collection/vegetation/tree2m_1.obj	场景中使用	tree2m_1-ce1da3cd0.xml	8	0	0	0	—
+aericaps_collection/vegetation/tree3m_1.obj	场景中使用	tree3m_1-1c8290684.xml	8	0	0	0	—
+aericaps_collection/vegetation/tree4m_1.obj	场景中使用	tree4m_1-70b41102f.xml	8	0	0	0	—
+aericaps_collection/vegetation/tree5m_1.obj	场景中使用	tree5m_1-93c37fe09.xml	8	0	0	0	—
+aericaps_collection/vegetation/tree6m_1.obj	场景中使用	tree6m_1-5e6803bc6.xml	8	0	0	0	—
+aericaps_collection/vegetation/tree7m_1.obj	场景中使用	tree7m_1-1ed080a64.xml	8	0	0	0	—
+aericaps_collection/vegetation/tree8m_1.obj	场景中使用	tree8m_1-98abb532f.xml	8	0	0	0	—
+defaultobj/1000 roads/objects/lights/StrLgtTrad1.obj	场景中使用	StrLgtTrad1-029f1b6b6.xml	56	1	0	0	—
+defaultobj/1000 roads/objects/misc/TrunkingV5.obj	场景中使用	TrunkingV5-8740c822b.xml	16	0	0	0	—
+defaultobj/1000 roads/objects/trains/F_boxcar_b_13.33.obj	场景中使用	F_boxcar_b_13-33-e1199eda6.xml	238	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_boxcar_r_13.33.obj	场景中使用	F_boxcar_r_13-33-eda5f7ce3.xml	236	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_boxcar_y_13.33.obj	源包未摆放的备用模型	F_boxcar_y_13-33-48b4c17e1.xml	236	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_centerbeamcar_y_ac3d1_17.33.obj	源包未摆放的备用模型	F_centerbeamcar_y_ac3d1_17-33-d77512f89.xml	370	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_centerbeamcar_y_ac3d2_17.33.obj	源包未摆放的备用模型	F_centerbeamcar_y_ac3d2_17-33-52d3bbcd4.xml	368	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_centerbeamcar_y_apple1_17.33.obj	源包未摆放的备用模型	F_centerbeamcar_y_apple1_17-33-6edabc556.xml	378	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_centerbeamcar_y_apple2_17.33.obj	源包未摆放的备用模型	F_centerbeamcar_y_apple2_17-33-6f430c93e.xml	376	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_centerbeamcar_y_empty_17.33.obj	源包未摆放的备用模型	F_centerbeamcar_y_empty_17-33-d148b61fc.xml	338	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_centerbeamcar_y_xp1_17.33.obj	源包未摆放的备用模型	F_centerbeamcar_y_xp1_17-33-0749f7991.xml	376	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_centerbeamcar_y_xp2_17.33.obj	源包未摆放的备用模型	F_centerbeamcar_y_xp2_17-33-ad3851891.xml	370	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_apl_20.06.obj	源包未摆放的备用模型	F_containercar_b_1_apl_20-06-1e3ee9886.xml	460	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_chi_20.06.obj	场景中使用	F_containercar_b_1_chi_20-06-e7ba752ce.xml	460	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_cma_20.06.obj	源包未摆放的备用模型	F_containercar_b_1_cma_20-06-1ac06141e.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_coo_r_20.06.obj	源包未摆放的备用模型	F_containercar_b_1_coo_r_20-06-62baf8371.xml	412	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_cpt_20.06.obj	源包未摆放的备用模型	F_containercar_b_1_cpt_20-06-addb2749c.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_csx_20.06.obj	源包未摆放的备用模型	F_containercar_b_1_csx_20-06-451f09585.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_evg_20.06.obj	源包未摆放的备用模型	F_containercar_b_1_evg_20-06-20ef8b369.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_hnj_20.06.obj	源包未摆放的备用模型	F_containercar_b_1_hnj_20-06-e397692b7.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_hpl_20.06.obj	源包未摆放的备用模型	F_containercar_b_1_hpl_20-06-9b1e44f06.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_hyd_20.06.obj	源包未摆放的备用模型	F_containercar_b_1_hyd_20-06-022a4a35c.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_kln_20.06.obj	源包未摆放的备用模型	F_containercar_b_1_kln_20-06-3a9d9405a.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_mrk_r_20.06.obj	源包未摆放的备用模型	F_containercar_b_1_mrk_r_20-06-57a343121.xml	416	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_mrs_20.06.obj	源包未摆放的备用模型	F_containercar_b_1_mrs_20-06-cfffe350e.xml	408	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_msc_20.06.obj	源包未摆放的备用模型	F_containercar_b_1_msc_20-06-710e4f69e.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_nyk_20.06.obj	源包未摆放的备用模型	F_containercar_b_1_nyk_20-06-662f340e9.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_nyk_r_20.06.obj	源包未摆放的备用模型	F_containercar_b_1_nyk_r_20-06-8beb9a436.xml	412	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_p&o_20.06.obj	源包未摆放的备用模型	F_containercar_b_1_p-o_20-06-8580c83da.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_pon_20.06.obj	源包未摆放的备用模型	F_containercar_b_1_pon_20-06-888bfc7f9.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_sea_20.06.obj	源包未摆放的备用模型	F_containercar_b_1_sea_20-06-e4c8b7331.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_tri_20.06.obj	源包未摆放的备用模型	F_containercar_b_1_tri_20-06-e0423c7cb.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_1_ymg_20.06.obj	源包未摆放的备用模型	F_containercar_b_1_ymg_20-06-653172a57.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_2_apl_msc_20.06.obj	源包未摆放的备用模型	F_containercar_b_2_apl_msc_20-06-9f390a50b.xml	368	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_2_chi_tri_20.06.obj	源包未摆放的备用模型	F_containercar_b_2_chi_tri_20-06-9c3413654.xml	338	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_2_cma_hnj_20.06.obj	源包未摆放的备用模型	F_containercar_b_2_cma_hnj_20-06-4b7c43712.xml	338	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_2_cma_mrk_r_20.06.obj	源包未摆放的备用模型	F_containercar_b_2_cma_mrk_r_20-06-c536b5d52.xml	380	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_2_cos_nyk_20.06.obj	源包未摆放的备用模型	F_containercar_b_2_cos_nyk_20-06-8473d9588.xml	338	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_2_csx_hnj_20.06.obj	源包未摆放的备用模型	F_containercar_b_2_csx_hnj_20-06-50b5a9d69.xml	368	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_2_evg_sea_20.06.obj	源包未摆放的备用模型	F_containercar_b_2_evg_sea_20-06-22076ff6d.xml	338	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_2_hyd_csx_20.06.obj	源包未摆放的备用模型	F_containercar_b_2_hyd_csx_20-06-74dc9014e.xml	376	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_2_kln_pon_20.06.obj	源包未摆放的备用模型	F_containercar_b_2_kln_pon_20-06-6c33cb409.xml	368	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_2_kln_ymg_20.06.obj	源包未摆放的备用模型	F_containercar_b_2_kln_ymg_20-06-9d9c03b78.xml	338	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_2_mrk_cpt_20.06.obj	源包未摆放的备用模型	F_containercar_b_2_mrk_cpt_20-06-1bd38bc3c.xml	342	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_2_mrk_r_csx_r_20.06.obj	源包未摆放的备用模型	F_containercar_b_2_mrk_r_csx_r_20-06-2d72679c0.xml	358	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_2_msc_mrs_20.06.obj	源包未摆放的备用模型	F_containercar_b_2_msc_mrs_20-06-45f82da6f.xml	342	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_2_nyk_ymg_r_20.06.obj	源包未摆放的备用模型	F_containercar_b_2_nyk_ymg_r_20-06-41d18c71e.xml	368	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_2_p&o_hpl_20.06.obj	源包未摆放的备用模型	F_containercar_b_2_p-o_hpl_20-06-904f9fd0a.xml	338	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_2_sea_msc_r_20.06.obj	源包未摆放的备用模型	F_containercar_b_2_sea_msc_r_20-06-d1d49f187.xml	368	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_2_tri_wal_r_20.06.obj	源包未摆放的备用模型	F_containercar_b_2_tri_wal_r_20-06-71921becf.xml	346	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_2_yud_dan_20.06.obj	源包未摆放的备用模型	F_containercar_b_2_yud_dan_20-06-678b9366b.xml	338	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_3_chi_apl_cos_20.06.obj	场景中使用	F_containercar_b_3_chi_apl_cos_20-06-51d546bd5.xml	348	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_3_cpt_kln_apl_20.06.obj	源包未摆放的备用模型	F_containercar_b_3_cpt_kln_apl_20-06-8584b6b6a.xml	348	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_3_evg_cma_dhl_20.06.obj	源包未摆放的备用模型	F_containercar_b_3_evg_cma_dhl_20-06-74649fb48.xml	348	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_3_hjn_pon_hyd_20.06.obj	源包未摆放的备用模型	F_containercar_b_3_hjn_pon_hyd_20-06-9c36823fd.xml	348	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_3_hpl_msc_mrs_20.06.obj	源包未摆放的备用模型	F_containercar_b_3_hpl_msc_mrs_20-06-799a65bdb.xml	344	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_3_mrs_hpl_nyk_20.06.obj	源包未摆放的备用模型	F_containercar_b_3_mrs_hpl_nyk_20-06-672870dfe.xml	360	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_3_p&o_msc_mrk_20.06.obj	源包未摆放的备用模型	F_containercar_b_3_p-o_msc_mrk_20-06-07b94e358.xml	352	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_3_tri_evg_msc_20.06.obj	源包未摆放的备用模型	F_containercar_b_3_tri_evg_msc_20-06-681edd3bb.xml	356	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_3_ymg_sea_csx_20.06.obj	源包未摆放的备用模型	F_containercar_b_3_ymg_sea_csx_20-06-f2d100917.xml	356	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_b_empty_20.06.obj	源包未摆放的备用模型	F_containercar_b_empty_20-06-5888a8963.xml	400	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_apl_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_apl_23-88-b2d76317f.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_chi_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_chi_23-88-4eadb24c1.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_cma_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_cma_23-88-cb15b1118.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_coo_r_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_coo_r_23-88-b47e93c31.xml	400	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_cos_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_cos_23-88-09d5eb542.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_cos_r_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_cos_r_23-88-3fb6dd124.xml	400	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_cpt_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_cpt_23-88-3837f30b6.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_csx_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_csx_23-88-2b6441d1f.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_csx_r_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_csx_r_23-88-17f82f56d.xml	400	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_csxw_r_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_csxw_r_23-88-e9b33abe4.xml	400	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_dan_r_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_dan_r_23-88-ea95d6181.xml	400	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_evg_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_evg_23-88-8707d09a5.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_hnj_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_hnj_23-88-67132df59.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_hpl_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_hpl_23-88-24440af71.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_hpl_r_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_hpl_r_23-88-a69a88f9e.xml	400	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_hud_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_hud_23-88-68b97b190.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_kln_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_kln_23-88-2416a739c.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_mrk_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_mrk_23-88-ab1afe449.xml	396	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_mrs_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_mrs_23-88-0eed8dcee.xml	396	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_mrs_r_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_mrs_r_23-88-4c120c029.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_msc_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_msc_23-88-b1118f222.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_mscw_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_mscw_23-88-e72b1d23e.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_nyk_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_nyk_23-88-11e11b1ed.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_nyk_r_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_nyk_r_23-88-ce0240da7.xml	400	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_p&o_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_p-o_23-88-2eb8895eb.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_pol_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_pol_23-88-5b057db55.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_pon_r_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_pon_r_23-88-804fae0c1.xml	400	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_sea_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_sea_23-88-145742982.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_seab_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_seab_23-88-f40beeb1f.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_tri_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_tri_23-88-804ff0825.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_trib_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_trib_23-88-38502cde1.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_wal_r_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_wal_r_23-88-7afb2bc91.xml	400	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_ymg_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_ymg_23-88-a5faa43f5.xml	392	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_1_ymg_r_23.88.obj	源包未摆放的备用模型	F_containercar_y_1_ymg_r_23-88-a49a3b8f2.xml	400	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_apl_mrs_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_apl_mrs_23-88-fbd744db9.xml	408	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_chi_cpt_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_chi_cpt_23-88-5289f1b7f.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_cma_wal_r_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_cma_wal_r_23-88-cceb6c999.xml	412	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_coo_r_csx_r_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_coo_r_csx_r_23-88-7fdeb4927.xml	420	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_cos_evg_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_cos_evg_23-88-606dec49b.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_cpt_hyd_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_cpt_hyd_23-88-f59821142.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_csx_dhl_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_csx_dhl_23-88-e401bb051.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_evg_mrk_r_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_evg_mrk_r_23-88-8eacfc38b.xml	416	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_hnj_cma_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_hnj_cma_23-88-27d45de10.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_hyd_kln_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_hyd_kln_23-88-4ce466400.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_kln_hpl_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_kln_hpl_23-88-3615c9ad7.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_mrk_cpt_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_mrk_cpt_23-88-4e9f80ba8.xml	408	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_mrs_r_pon_r_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_mrs_r_pon_r_23-88-8d0892ab3.xml	424	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_msc_mrk_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_msc_mrk_23-88-d8e2b5c9a.xml	408	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_nyk_msc_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_nyk_msc_23-88-72e2d7e14.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_nyk_r_msc_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_nyk_r_msc_23-88-921b6c2af.xml	412	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_p&o_mrs_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_p-o_mrs_23-88-127d8c85a.xml	408	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_pon_msc_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_pon_msc_23-88-c6af0dce8.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_sea_apl_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_sea_apl_23-88-90381c52e.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_sea_hpl_r_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_sea_hpl_r_23-88-d8cd1d6a0.xml	412	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_tri_dan_r_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_tri_dan_r_23-88-f1145f900.xml	412	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_2_ymg_p&o_23.88.obj	源包未摆放的备用模型	F_containercar_y_2_ymg_p-o_23-88-47ab28aa1.xml	404	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_containercar_y_empty_23.88.obj	源包未摆放的备用模型	F_containercar_y_empty_23-88-f3651e14d.xml	378	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_diesel_locomotive_head_22.92.obj	源包未摆放的备用模型	F_diesel_locomotive_head_22-92-93e676dff.xml	2139	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_diesel_locomotive_tail_22.92.obj	源包未摆放的备用模型	F_diesel_locomotive_tail_22-92-a167b5762.xml	2139	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_b_crates_1_13.33.obj	源包未摆放的备用模型	F_flatcar_b_crates_1_13-33-00aac0163.xml	508	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_b_crates_2_13.33.obj	源包未摆放的备用模型	F_flatcar_b_crates_2_13-33-df3911831.xml	498	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_b_empty_1_13.33.obj	源包未摆放的备用模型	F_flatcar_b_empty_1_13-33-072ba04e5.xml	222	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_b_empty_2_13.33.obj	源包未摆放的备用模型	F_flatcar_b_empty_2_13-33-b3e6f7300.xml	442	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_b_trunks_1_13.33.obj	源包未摆放的备用模型	F_flatcar_b_trunks_1_13-33-6be9201bd.xml	464	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_b_trunks_2_13.33.obj	源包未摆放的备用模型	F_flatcar_b_trunks_2_13-33-79bf48ee7.xml	440	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_b_trunks_3_13.33.obj	源包未摆放的备用模型	F_flatcar_b_trunks_3_13-33-ec9ba2010.xml	934	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_b_empty_1_17.33.obj	源包未摆放的备用模型	F_flatcar_long_b_empty_1_17-33-67ead2dad.xml	198	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_b_empty_2_17.33.obj	源包未摆放的备用模型	F_flatcar_long_b_empty_2_17-33-60aedaee8.xml	278	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_b_steelsheets_1_17.33.obj	源包未摆放的备用模型	F_flatcar_long_b_steelsheets_1_17-33-8e839950b.xml	380	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_b_steelsheets_2_17.33.obj	源包未摆放的备用模型	F_flatcar_long_b_steelsheets_2_17-33-23d3335ad.xml	530	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_b_steelsheets_3_17.33.obj	源包未摆放的备用模型	F_flatcar_long_b_steelsheets_3_17-33-bbce48f66.xml	512	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_r_aluminiumpipes_1_17.33.obj	源包未摆放的备用模型	F_flatcar_long_r_aluminiumpipes_1_17-33-40fa2c381.xml	482	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_r_aluminiumpipes_2_17.33.obj	源包未摆放的备用模型	F_flatcar_long_r_aluminiumpipes_2_17-33-7c6929a4f.xml	426	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_r_empty_1_17.33.obj	源包未摆放的备用模型	F_flatcar_long_r_empty_1_17-33-75a620051.xml	198	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_r_empty_2_17.33.obj	源包未摆放的备用模型	F_flatcar_long_r_empty_2_17-33-8b98993a8.xml	258	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_r_ironpipes_1_17.33.obj	源包未摆放的备用模型	F_flatcar_long_r_ironpipes_1_17-33-32538b533.xml	558	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_r_ironpipes_2_17.33.obj	源包未摆放的备用模型	F_flatcar_long_r_ironpipes_2_17-33-da9ccdd30.xml	594	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_r_ironpipes_3_17.33.obj	源包未摆放的备用模型	F_flatcar_long_r_ironpipes_3_17-33-373a16622.xml	754	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_r_steelpipes_1_17.33.obj	源包未摆放的备用模型	F_flatcar_long_r_steelpipes_1_17-33-226dae7cd.xml	770	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_r_steelpipes_2_17.33.obj	源包未摆放的备用模型	F_flatcar_long_r_steelpipes_2_17-33-665c0423f.xml	914	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_r_steelpipes_3_17.33.obj	源包未摆放的备用模型	F_flatcar_long_r_steelpipes_3_17-33-c8985e441.xml	1170	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_y_cablecoil_17.33.obj	源包未摆放的备用模型	F_flatcar_long_y_cablecoil_17-33-965bcaeb1.xml	1942	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_y_cablecoil_b_17.33.obj	源包未摆放的备用模型	F_flatcar_long_y_cablecoil_b_17-33-9e76bb74c.xml	1746	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_y_cablecoil_c_17.33.obj	源包未摆放的备用模型	F_flatcar_long_y_cablecoil_c_17-33-39ae6efb3.xml	1746	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_y_cablecoil_w_17.33.obj	源包未摆放的备用模型	F_flatcar_long_y_cablecoil_w_17-33-b772dfcf6.xml	1746	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_y_empty_1_17.33.obj	场景中使用	F_flatcar_long_y_empty_1_17-33-4edf36b76.xml	206	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_y_empty_2_17.33.obj	源包未摆放的备用模型	F_flatcar_long_y_empty_2_17-33-324d9bc08.xml	266	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_y_ironbeam_1_17.33.obj	源包未摆放的备用模型	F_flatcar_long_y_ironbeam_1_17-33-0d6cc49fa.xml	448	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_y_ironbeam_2_17.33.obj	源包未摆放的备用模型	F_flatcar_long_y_ironbeam_2_17-33-b4a3ed079.xml	566	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_y_ironcoil_17.33.obj	源包未摆放的备用模型	F_flatcar_long_y_ironcoil_17-33-4d07ab486.xml	656	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_long_y_steelcoil_17.33.obj	源包未摆放的备用模型	F_flatcar_long_y_steelcoil_17-33-0fb2de06e.xml	656	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_r_empty_1_13.33.obj	源包未摆放的备用模型	F_flatcar_r_empty_1_13-33-7c6761a43.xml	222	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_r_empty_2_13.33.obj	源包未摆放的备用模型	F_flatcar_r_empty_2_13-33-bf66ea07a.xml	442	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_r_woodpack_1_13.33.obj	源包未摆放的备用模型	F_flatcar_r_woodpack_1_13-33-3c3952e79.xml	442	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_r_woodpack_2_13.33.obj	源包未摆放的备用模型	F_flatcar_r_woodpack_2_13-33-1002a41d4.xml	442	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_r_woodpack_3_13.33.obj	源包未摆放的备用模型	F_flatcar_r_woodpack_3_13-33-c91330764.xml	426	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_r_woodpack_4_13.33.obj	源包未摆放的备用模型	F_flatcar_r_woodpack_4_13-33-1874d5a6b.xml	426	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_flatcar_r_woodpack_5_13.33.obj	源包未摆放的备用模型	F_flatcar_r_woodpack_5_13-33-94811c1c0.xml	426	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_gondola_b_coal_13.33.obj	源包未摆放的备用模型	F_gondola_b_coal_13-33-24a636c9d.xml	244	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_gondola_b_dirt_13.33.obj	源包未摆放的备用模型	F_gondola_b_dirt_13-33-edebc02be.xml	248	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_gondola_b_empty_13.33.obj	源包未摆放的备用模型	F_gondola_b_empty_13-33-ce73bf175.xml	238	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_gondola_b_metals_13.33.obj	源包未摆放的备用模型	F_gondola_b_metals_13-33-ac67ce7e6.xml	244	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_gondola_g_empty_13.33.obj	源包未摆放的备用模型	F_gondola_g_empty_13-33-63737c2de.xml	238	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_gondola_g_metals_13.33.obj	源包未摆放的备用模型	F_gondola_g_metals_13-33-70894da9e.xml	244	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_gondola_r_coal_13.33.obj	源包未摆放的备用模型	F_gondola_r_coal_13-33-c3ecab5fa.xml	244	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_gondola_r_empty_13.33.obj	源包未摆放的备用模型	F_gondola_r_empty_13-33-8499522ba.xml	238	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_hopper_b_17.33.obj	源包未摆放的备用模型	F_hopper_b_17-33-c0d0d33dd.xml	460	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_hopper_g_13.33.obj	源包未摆放的备用模型	F_hopper_g_13-33-25e012401.xml	320	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_tanker2_13.33.obj	源包未摆放的备用模型	F_tanker2_13-33-9c289f10a.xml	680	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_tanker_13.33.obj	源包未摆放的备用模型	F_tanker_13-33-3de6fdd75.xml	680	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_truckloadercar_coop_17.33.obj	源包未摆放的备用模型	F_truckloadercar_coop_17-33-77eb570b3.xml	640	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_truckloadercar_danzas_17.33.obj	源包未摆放的备用模型	F_truckloadercar_danzas_17-33-a81996005.xml	640	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_truckloadercar_dhl_17.33.obj	源包未摆放的备用模型	F_truckloadercar_dhl_17-33-fb016c3d7.xml	640	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_truckloadercar_empty_17.33.obj	源包未摆放的备用模型	F_truckloadercar_empty_17-33-bbc00d756.xml	380	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_truckloadercar_fercam_17.33.obj	源包未摆放的备用模型	F_truckloadercar_fercam_17-33-972f73c06.xml	632	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_truckloadercar_nyk_17.33.obj	源包未摆放的备用模型	F_truckloadercar_nyk_17-33-f3b198a2f.xml	640	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_truckloadercar_tnt_17.33.obj	源包未摆放的备用模型	F_truckloadercar_tnt_17-33-8bceca6d3.xml	640	1	0	0	—
+defaultobj/1000 roads/objects/trains/F_truckloadercar_walmart_17.33.obj	源包未摆放的备用模型	F_truckloadercar_walmart_17-33-01dac0b7a.xml	640	1	0	0	—
+defaultobj/1000 roads/objects/trains/HS_rail_car_27.6.obj	源包未摆放的备用模型	HS_rail_car_27-6-c38480f0f.xml	222	1	0	0	—
+defaultobj/1000 roads/objects/trains/HS_train_head_23.52.obj	源包未摆放的备用模型	HS_train_head_23-52-61c605ae1.xml	1861	1	0	0	—
+defaultobj/1000 roads/objects/trains/HS_train_tail_23.56.obj	源包未摆放的备用模型	HS_train_tail_23-56-192544e0b.xml	1861	1	0	0	—
+defaultobj/1000 roads/objects/trains/IC_rail_car_27.6.obj	源包未摆放的备用模型	IC_rail_car_27-6-7df1f97d8.xml	192	1	0	0	—
+defaultobj/1000 roads/objects/trains/IC_rail_car_c_27.6.obj	源包未摆放的备用模型	IC_rail_car_c_27-6-d3394cd81.xml	296	1	0	0	—
+defaultobj/1000 roads/objects/trains/IC_train_head_27.82.obj	源包未摆放的备用模型	IC_train_head_27-82-62df9df1e.xml	1042	1	0	0	—
+defaultobj/1000 roads/objects/trains/IC_train_tail_27.94.obj	源包未摆放的备用模型	IC_train_tail_27-94-432b354f3.xml	1064	1	0	0	—
+defaultobj/1000 roads/objects/trains/R_rail_car_12.8.obj	源包未摆放的备用模型	R_rail_car_12-8-4da22079c.xml	186	1	0	0	—
+defaultobj/1000 roads/objects/trains/R_train_head_12.97.obj	源包未摆放的备用模型	R_train_head_12-97-4fc79b8f8.xml	1093	1	0	0	—
+defaultobj/1000 roads/objects/trains/R_train_tail_13.04.obj	源包未摆放的备用模型	R_train_tail_13-04-e9a4e3053.xml	1127	1	0	0	—
+dt/an-12-g.obj	已有模型保留		4596	0	0	0	—
+dt/an-2-8-6143.obj	已有模型保留		2683	0	0	0	—
+dt/an-2-8.obj	已有模型保留		2683	0	0	0	—
+dt/an-24-0-1.obj	已有模型保留		2528	0	0	0	—
+dt/an-24-0-2.obj	已有模型保留		2528	0	0	0	—
+dt/an-24-0.obj	已有模型保留		2528	0	0	0	—
+lit_test.obj	源包未摆放的备用模型	lit_test-a53634811.xml	0	0	0	0	—
+obj/ZBNY_Tower_light.obj	已有模型保留		4757	0	0	0	—
+obj/ZBNY_hulang.obj	场景中使用	ZBNY_hulang-90c55ee14.xml	192	0	0	0	—
+obj/ZBNYjiku.obj	已有模型保留		42307	0	0	0	—
+obj/biaozhitong.obj	场景中使用	biaozhitong-f8760396b.xml	960	0	0	0	—
+obj/hulan.obj	场景中使用	hulan-8639e89cb.xml	2534	0	0	0	—
+obj/jianshudai.obj	场景中使用	jianshudai-ed95847d4.xml	1004	0	0	0	—
+obj/jianshudai3m.obj	源包未摆放的备用模型	jianshudai3m-22b6eb430.xml	1308	0	0	0	—
+obj/jianshudai7m.obj	场景中使用	jianshudai7m-3e8476584.xml	3636	0	0	0	—
+obj/langan.obj	场景中使用	langan-c2038dcbc.xml	1076	0	0	0	—
+obj/langan01.obj	源包未摆放的备用模型	langan01-51bb24520.xml	17552	0	0	0	—
+obj/luden.obj	场景中使用	luden-62e29f2a8.xml	1973	0	0	0	—
+obj/luden01.obj	场景中使用	luden01-1f0b0d597.xml	1712	0	0	0	—
+obj/luduen.obj	场景中使用	luduen-69840de6b.xml	86	0	0	0	—
+obj/lupai.obj	场景中使用	lupai-d80394ae2.xml	14590	0	0	1	—
+obj/lupai01.obj	场景中使用	lupai01-c6d823ab7.xml	14970	0	0	1	—
+obj/meta_01.obj	场景中使用	meta_01-1f2abcf42.xml	223	0	0	0	—
+obj/nay~s.obj	已有模型保留		77	0	0	0	—
+obj/shanjiaomao.obj	场景中使用	shanjiaomao-deef7b4a9.xml	1414	0	0	0	—
+obj/terminal/ZBNY_Tower_01.obj	已有模型保留		7939	0	0	1	—
+obj/terminal/ZBNY_Tower_02.obj	已有模型保留		843	1	0	0	—
+obj/terminal/ZBNY_Tower_03.obj	已有模型保留		7257	1	0	0	—
+obj/terminal/ZBNY_Tower_04.obj	已有模型保留		2987	1	0	0	—
+obj/terminal/nayzc.obj	已有模型保留		56	1	0	0	—
+obj/terminal/top01.obj	已有模型保留		4614	0	0	0	—
+obj/terminal/top02.obj	已有模型保留		15625	1	0	0	—
+obj/terminal/wall01.obj	已有模型保留		2141	1	0	0	—
+obj/terminal/wall02.obj	已有模型保留		4794	1	0	0	—
+obj/terminal/wall03.obj	已有模型保留		11537	1	0	0	—
+obj/terminal/wall04.obj	已有模型保留		14707	1	0	0	—
+obj/terminal/wall05.obj	已有模型保留		17131	1	0	0	—
+obj/terminal/wall06.obj	已有模型保留		1414	1	0	0	—
+obj/towern_01.obj	场景中使用	towern_01-aefb8ec91.xml	677	0	0	0	—
+obj/zbny_0101.obj	已有模型保留		931	0	0	0	—
+obj/zbny_ludueng.obj	场景中使用	zbny_ludueng-21f2e9235.xml	538	0	0	0	—
+obj/zbnysign.obj	场景中使用	zbnysign-49d9b0962.xml	5020	0	0	0	—
+obj/zsnydor01.obj	场景中使用	zsnydor01-eb203dde9.xml	178	0	0	0	—
+objsN/Fuel_Truck_Large.obj	场景中使用	Fuel_Truck_Large-ed5c17945.xml	4415	0	0	1	TEXTURE_NORMAL jetway_typical_NML.png
+objsN/Fuel_Truck_Small.obj	场景中使用	Fuel_Truck_Small-c76364916.xml	3778	0	0	1	TEXTURE_NORMAL jetway_typical_NML.png
+objsN/catering_truck.obj	场景中使用	catering_truck-fbd44de0a.xml	4756	0	1	1	—
+objsN/crew_car.obj	场景中使用	crew_car-b4f01d491.xml	4922	0	1	1	TEXTURE_LIT crew_car_LIT.png
+own-design/501/maz1041cqnay.obj	场景中使用	maz1041cqnay-85b5a1813.xml	2820	0	0	0	—
+own-design/501/maz1041naycq.obj	场景中使用	maz1041naycq-ddebb25cb.xml	2820	0	0	0	—
+own-design/733_CRJ/733_4008/B733_GCA.obj	源包未摆放的备用模型	B733_GCA-b5425c2f6.xml	5845	0	0	0	—
+own-design/733_CRJ/733_4017/B733_GCA.obj	源包未摆放的备用模型	B733_GCA-297c1b5f4.xml	5845	0	0	0	—
+own-design/733_CRJ/733_4018/B733_GCA.obj	源包未摆放的备用模型	B733_GCA-86f14745d.xml	5845	0	0	0	—
+own-design/733_CRJ/733_4051N/B733_GCA.obj	源包未摆放的备用模型	B733_GCA-bce07c83b.xml	5845	0	0	0	—
+own-design/733_CRJ/733_4052N/B733_GCA.obj	源包未摆放的备用模型	B733_GCA-fa2eea3e9.xml	5845	0	0	0	—
+own-design/733_CRJ/733_4053N/B733_GCA.obj	源包未摆放的备用模型	B733_GCA-973dce900.xml	5845	0	0	0	—
+own-design/733_CRJ/CRJ2_4005/CRJ2_DAL_static.obj	复用相同资源	CRJ2_DAL_static-82e6b0a17.xml	6210	0	0	0	—
+own-design/733_CRJ/CRJ2_4010/CRJ2_DAL_static.obj	源包未摆放的备用模型	CRJ2_DAL_static-289ad0c8e.xml	6210	0	0	0	—
+own-design/B-4014/tu154M.obj	已有模型保留		2886	0	0	0	TEXTURE_LIT tu-154-0_lit.png
+own-design/B-4015/tu154M.obj	已有模型保留		2886	0	0	0	TEXTURE_LIT tu-154-0_lit.png
+own-design/B-4016/tu154M.obj	已有模型保留		2886	0	0	0	TEXTURE_LIT tu-154-0_lit.png
+own-design/B-4017/tu154M.obj	已有模型保留		2886	0	0	0	TEXTURE_LIT tu-154-0_lit.png
+own-design/B-4022/tu154M.obj	已有模型保留		2886	0	0	0	TEXTURE_LIT tu-154-0_lit.png
+own-design/B-4023/tu154M.obj	已有模型保留		2886	0	0	0	TEXTURE_LIT tu-154-0_lit.png
+own-design/B-4024/tu154M.obj	已有模型保留		2886	0	0	0	TEXTURE_LIT tu-154-0_lit.png
+own-design/B-4025/tu154M.obj	已有模型保留		2886	0	0	0	TEXTURE_LIT tu-154-0_lit.png
+own-design/B-4026/tu154M.obj	已有模型保留		2886	0	0	0	TEXTURE_LIT tu-154-0_lit.png
+own-design/B-4027/tu154M.obj	已有模型保留		2886	0	0	0	TEXTURE_LIT tu-154-0_lit.png
+own-design/B-4028/tu154M.obj	已有模型保留		2886	0	0	0	TEXTURE_LIT tu-154-0_lit.png
+own-design/B-4029/tu154M.obj	已有模型保留		2886	0	0	0	TEXTURE_LIT tu-154-0_lit.png
+own-design/B-4051/tu154M.obj	已有模型保留		2886	0	0	0	TEXTURE_LIT tu-154-0_lit.png
+own-design/Barrier_White.obj	场景中使用	Barrier_White-3ee27ec9e.xml	10959	0	0	0	—
+own-design/NAY_Aerobus6200/Vehicle-Bus.obj	已有模型保留		186	0	0	0	—
+own-design/NAY_Aerobus6200/Vehicle-BusLIT.obj	已有模型保留		232	0	0	0	—
+own-design/NAY_ShuttleBus/bus_01_Static.obj	场景中使用	bus_01_Static-44ae73ffe.xml	2452	0	0	0	TEXTURE_LIT bus_01_LIT.png
+own-design/ZBNY_South_Billboard.obj	场景中使用	ZBNY_South_Billboard-807cfd808.xml	132	0	0	0	—
+own-design/ZBNY_South_Billboard_adv.obj	场景中使用	ZBNY_South_Billboard_adv-c6acc859c.xml	88	0	0	0	—
+own-design/ZBNY_South_Billboard_shadv.obj	场景中使用	ZBNY_South_Billboard_shadv-78fd9d76c.xml	96	0	0	0	—
+own-design/bbh/bbh.obj	场景中使用	bbh-926b6fd05.xml	148	0	0	0	—
+own-design/bbh/bbh2.obj	场景中使用	bbh2-b5c68d01a.xml	148	0	0	0	—
+own-design/bbh/bbh3.obj	场景中使用	bbh3-7d3eae17f.xml	148	0	0	0	—
+own-design/bbh/bbh4.obj	场景中使用	bbh4-6a9191345.xml	148	0	0	0	—
+own-design/bbh/bbh5.obj	场景中使用	bbh5-06df99f53.xml	148	0	0	0	—
+own-design/bbh/bbh6.obj	场景中使用	bbh6-bc8cf02ff.xml	148	0	0	0	—
+own-design/billboardbi.obj	场景中使用	billboardbi-252206d9d.xml	332	0	0	0	—
+own-design/billboardbii.obj	场景中使用	billboardbii-e096003ca.xml	284	0	0	0	—
+own-design/billboardbiiii.obj	场景中使用	billboardbiiii-d2a9ae8e1.xml	284	0	0	0	—
+own-design/billboardbiii~.obj	场景中使用	billboardbiii-a0c3c79c0.xml	284	0	0	0	—
+own-design/billboardbii~.obj	场景中使用	billboardbii-2498886aa.xml	284	0	0	0	—
+own-design/ggp.obj	场景中使用	ggp-27640faa6.xml	264	0	0	0	—
+own-design/ggpds.obj	场景中使用	ggpds-58f0acdf5.xml	264	0	0	0	—
+own-design/ggphh.obj	场景中使用	ggphh-a50788249.xml	264	0	0	0	—
+own-design/ggpwjc.obj	场景中使用	ggpwjc-28351d58d.xml	264	0	0	0	—
+own-design/ggpzj.obj	场景中使用	ggpzj-aebec4ee4.xml	264	0	0	0	—
+own-design/jiba.obj	场景中使用	jiba-60ae06e9d.xml	24	0	0	0	—
+own-design/jp.obj	场景中使用	jp-ef3066d85.xml	128396	0	0	1	—
+own-design/kcd.obj	场景中使用	kcd-3d1e6b562.xml	285	0	0	0	—
+own-design/mobike.obj	场景中使用	mobike-3e45b721f.xml	504	0	0	0	—
+own-design/mobikepole.obj	场景中使用	mobikepole-0f2d4186b.xml	24	0	0	0	—
+own-design/naygl.obj	场景中使用	naygl-cef6c353a.xml	200	0	0	0	—
+own-design/shangchong.obj	场景中使用	shangchong-55b13772f.xml	56	0	0	0	—
+own-design/sidewalk.obj	场景中使用	sidewalk-665c74c76.xml	147	0	0	0	—
+own-design/sidewalkte.obj	场景中使用	sidewalkte-7247778f3.xml	154	0	0	0	—
+own-design/ssc.obj	场景中使用	ssc-c0a70ee2c.xml	56	0	0	0	—
+own-design/stone_wall.obj	场景中使用	stone_wall-40fb046d2.xml	24	0	0	0	—
+own-design/swpk.obj	场景中使用	swpk-62b0db5b8.xml	164	0	0	0	—
+own-design/szzc.obj	场景中使用	szzc-6014c59a5.xml	40	0	0	0	—
+own-design/taxisign.obj	场景中使用	taxisign-ab375ec5e.xml	144	0	0	0	—
+own-design/tpz.obj	场景中使用	tpz-adc7f50fe.xml	240	0	0	0	—
+own-design/trashst.obj	场景中使用	trashst-0413ebbaf.xml	300	0	0	0	—
+y-test/1000 autogen/EU/industrial/gnd_grass_12x44.obj	场景中使用	gnd_grass_12x44-e4cd6afa4.xml	2	0	0	0	—
+y-test/1000 autogen/EU/industrial/gnd_parking_1x16.obj	场景中使用	gnd_parking_1x16-3b52cc227.xml	2	0	0	0	—
+y-test/1000 autogen/EU/industrial/gnd_parking_1x4.obj	场景中使用	gnd_parking_1x4-d3bb2ef8e.xml	2	0	0	0	—
+y-test/1000 autogen/EU/industrial/indClut_cont_11x4_02.obj	场景中使用	indClut_cont_11x4_02-c392348da.xml	218	0	1	0	—
+y-test/1000 autogen/EU/industrial/indClut_goods_11x4_03.obj	场景中使用	indClut_goods_11x4_03-10b712436.xml	140	0	1	0	—
+y-test/1000 autogen/EU/industrial/indClut_mix_11x2_01.obj	场景中使用	indClut_mix_11x2_01-0d058211f.xml	126	0	1	0	—
+y-test/1000 autogen/EU/industrial/indClut_mix_11x4_03.obj	场景中使用	indClut_mix_11x4_03-d9f6033c8.xml	244	0	1	0	—
+y-test/1000 autogen/EU/industrial/uniAdm01_12x30.obj	场景中使用	uniAdm01_12x30-374da852c.xml	36	1	0	0	—
+y-test/1000 autogen/EU/industrial/uniAdm01_12x48.obj	场景中使用	uniAdm01_12x48-45742822f.xml	44	1	0	0	—
+y-test/1000 autogen/EU/industrial/uniAdm01_18x30.obj	场景中使用	uniAdm01_18x30-8524604f7.xml	40	1	0	0	—
+y-test/1000 autogen/EU/industrial/uniAdm01_18x48.obj	场景中使用	uniAdm01_18x48-c696ff989.xml	52	1	0	0	—
+y-test/1000 autogen/EU/industrial/uniAdm01_entr2.obj	场景中使用	uniAdm01_entr2-f9ca8a6fb.xml	24	1	1	0	—
+y-test/1000 autogen/EU/industrial/uniAdm02_joint.obj	场景中使用	uniAdm02_joint-9e25f0d38.xml	22	1	0	0	—
+y-test/1000 autogen/EU/industrial/uniCom-w_18x42_03.obj	场景中使用	uniCom-w_18x42_03-50e6fefca.xml	112	1	1	0	—
+y-test/1000 autogen/EU/industrial/veh_semiTr1_lum.obj	场景中使用	veh_semiTr1_lum-21b0c02b3.xml	310	0	0	0	—
+y-test/1000 autogen/EU/industrial/veh_semiTr1_mc.obj	场景中使用	veh_semiTr1_mc-57b992522.xml	318	0	0	0	—
+y-test/1000 autogen/EU/industrial/veh_truckFB1_01.obj	场景中使用	veh_truckFB1_01-c97b2e9c3.xml	452	0	0	0	—
+y-test/1000 autogen/EU/industrial/veh_truckFB1_02.obj	场景中使用	veh_truckFB1_02-7dfa5388a.xml	482	0	0	0	—
+y-test/1000 autogen/EU/industrial/veh_truckFB1_03.obj	场景中使用	veh_truckFB1_03-5334630c7.xml	452	0	0	0	—
+y-test/1000 autogen/EU/industrial/veh_truckV1_01.obj	场景中使用	veh_truckV1_01-2ec64df75.xml	328	0	0	0	—
+y-test/1000 autogen/EU/industrial/veh_truckV2_01.obj	场景中使用	veh_truckV2_01-14fca9afb.xml	354	0	0	0	—
+y-test/1000 autogen/EU/industrial/veh_truckV2_02.obj	场景中使用	veh_truckV2_02-728f3be13.xml	310	0	0	0	—
+y-test/1000 autogen/EU/industrial/veh_truckV2_03.obj	场景中使用	veh_truckV2_03-d4449d53c.xml	350	0	0	0	—
+y-test/1000 autogen/EU/industrial/whs18-w_18x30_01.obj	场景中使用	whs18-w_18x30_01-0fb67328f.xml	38	1	1	0	—
+y-test/1000 autogen/EU/industrial/whs18-w_18x60_02.obj	场景中使用	whs18-w_18x60_02-2d43c14f5.xml	78	1	1	0	—
+y-test/1000 autogen/EU/industrial/whs18-w_18x60_03.obj	场景中使用	whs18-w_18x60_03-41a7f273b.xml	108	1	1	0	—
+y-test/1000 autogen/EU/industrial/whs24-n_24x36_08.obj	场景中使用	whs24-n_24x36_08-4485b261f.xml	41	1	1	0	—
+y-test/1000 autogen/EU/industrial/whs24-w_24x54_02.obj	场景中使用	whs24-w_24x54_02-e91cfac6b.xml	58	1	1	0	—
+y-test/1000 autogen/EU/industrial/whsBig-nw_30x60_06.obj	场景中使用	whsBig-nw_30x60_06-8ae130fdb.xml	110	1	1	0	—
+y-test/1000 autogen/EU/industrial/whsM01-w_60x120.obj	场景中使用	whsM01-w_60x120-523f21cdc.xml	250	1	1	0	—
+y-test/1000 autogen/EU/industrial/whsSmall-w_12x30_01.obj	场景中使用	whsSmall-w_12x30_01-b4ba2bd87.xml	36	1	1	0	—
+y-test/1000 autogen/EU/industrial/whsSmall-w_12x30_02.obj	场景中使用	whsSmall-w_12x30_02-ef3af2a15.xml	34	1	1	0	—
+y-test/1000 autogen/EU/urban_high/scr_res03_fix17.obj	场景中使用	scr_res03_fix17-7b4a38b9f.xml	98	1	1	0	—
+y-test/1000 autogen/EU/urban_high/scr_res03_twr.obj	场景中使用	scr_res03_twr-0736cf343.xml	70	1	1	0	—
+y-test/1000 autogen/EU/urban_high/scr_res06_fix17.obj	场景中使用	scr_res06_fix17-3b31c0aa3.xml	100	1	1	0	—
+y-test/1000 autogen/EU/urban_mid/apart12c_gar6x18.obj	场景中使用	apart12c_gar6x18-dc30528f1.xml	24	1	1	0	—
+y-test/1000 autogen/EU/urban_mid/outBld1f_6x18_01.obj	场景中使用	outBld1f_6x18_01-e1d20adfc.xml	20	1	1	0	—
+y-test/1000 autogen/US/industrial/light/objects/FactB10x30D.obj	场景中使用	FactB10x30D-3b28c8bac.xml	112	1	0	0	—
+y-test/1000 autogen/US/industrial/light/objects/SiteOfc3x10v1.obj	场景中使用	SiteOfc3x10v1-3950896af.xml	18	1	0	0	—
+y-test/1000 autogen/US/industrial/light/objects/TnShd10x30L_v1.obj	场景中使用	TnShd10x30L_v1-668b39c46.xml	42	1	0	0	—
+y-test/1000 autogen/US/industrial/light/objects/TnShd10x50v2.obj	场景中使用	TnShd10x50v2-d0311415a.xml	14	1	0	0	—
+y-test/1000 autogen/US/industrial/light/objects/WdShd8x20v1.obj	场景中使用	WdShd8x20v1-22fc7ffea.xml	18	1	0	0	—
+y-test/1000 autogen/US/industrial/light/objects/Whs15x30D_v3.obj	场景中使用	Whs15x30D_v3-1db5d3a5c.xml	59	1	0	0	—
+y-test/1000 autogen/US/industrial/light/objects/Whs60x120L_v2.obj	场景中使用	Whs60x120L_v2-04f8974b2.xml	56	0	0	0	—
+y-test/1000 autogen/US/industrial/light/objects/Whs60x60L_v0.obj	场景中使用	Whs60x60L_v0-64d700739.xml	174	0	0	0	—
+y-test/1000 autogen/US/urban_high/objects/uh22_13x45v2.obj	场景中使用	uh22_13x45v2-cdb86db33.xml	28	0	0	0	—
+y-test/1000 autogen/global_objects/objects/Park_RecycleBin_1.obj	场景中使用	Park_RecycleBin_1-95bfeb130.xml	36	0	1	0	—
+y-test/1000 autogen/global_objects/objects/Park_bench_1.obj	场景中使用	Park_bench_1-9d396a545.xml	28	0	1	0	—
+y-test/1000 autogen/global_objects/objects/barrier_8m_01.obj	场景中使用	barrier_8m_01-2446a2f85.xml	82	0	1	0	—
+y-test/1000 autogen/global_objects/objects/gate_10mL_02.obj	场景中使用	gate_10mL_02-a202a65bb.xml	62	0	0	0	—
+y-test/1000 autogen/global_objects/objects/gate_6mLW_01.obj	场景中使用	gate_6mLW_01-56dc4bf5e.xml	28	0	0	0	—
+zscnaddon/BFC6127H-3.obj	场景中使用	BFC6127H-3-eaa4ba85d.xml	1282	0	0	0	—
+zscnaddon/DD6170B12.obj	场景中使用	DD6170B12-2e665fc8e.xml	1604	0	0	0	—
+zscnaddon/TEG6129BEV05.obj	场景中使用	TEG6129BEV05-44ca0d23f.xml	1458	0	0	0	—
+zscnaddon/XML6122J35Z.obj	源包未摆放的备用模型	XML6122J35Z-b206d8993.xml	1452	0	0	0	—
+zscnaddon/XML6129J15S.obj	场景中使用	XML6129J15S-92d61c07a.xml	1188	0	0	0	—
+zscnaddon/XMQ6140FYD4B.obj	场景中使用	XMQ6140FYD4B-61b3f3736.xml	2064	0	0	0	—
+zscnaddon/ZK6122HNQ12Y.obj	场景中使用	ZK6122HNQ12Y-63b853477.xml	2334	0	0	0	—
+zscnaddon/ZK6809DX59.obj	场景中使用	ZK6809DX59-ce465b041.xml	2428	0	0	0	—
+zscnaddon/ZK6845BEVG2.obj	场景中使用	ZK6845BEVG2-b16a08134.xml	1424	0	0	0	—
+zscnaddon/vehicle/CNHTC_340_fire_alive.obj	场景中使用	CNHTC_340_fire_alive-621a379ea.xml	2596	1	0	0	—
+zscnaddon/vehicle/CNHTC_340_fire_died.obj	源包未摆放的备用模型	CNHTC_340_fire_died-4dbcbe135.xml	2596	0	0	0	—
+zscnaddon/vehicle/JMC_fire_alive.obj	场景中使用	JMC_fire_alive-c0a56fe4d.xml	2768	1	0	0	—
+zscnaddon/vehicle/JMC_fire_died.obj	场景中使用	JMC_fire_died-70198e679.xml	2768	0	0	0	—
+zscnaddon/vehicle/Jeep.obj	场景中使用	Jeep-a7bddcfee.xml	6087	0	0	0	—
+zscnaddon/vehicle/ZK5030XJH1.obj	场景中使用	ZK5030XJH1-f0caeecee.xml	2522	0	0	0	—
+zscnaddon/vehicle/ZK5037XYL4_Ambulance.obj	场景中使用	ZK5037XYL4_Ambulance-f5dc34a17.xml	2112	0	0	0	—
+zscnaddon/vehicle/ZK6146HQY5Y.obj	场景中使用	ZK6146HQY5Y-407ba6510.xml	2384	0	0	0	—
+zscnaddon/vehicle/airstair.obj	场景中使用	airstair-630169082.xml	3592	0	0	0	—
+zscnaddon/vehicle/baodian_pickup_alive.obj	场景中使用	baodian_pickup_alive-24767000a.xml	2134	1	0	0	—
+zscnaddon/vehicle/baodian_pickup_died.obj	场景中使用	baodian_pickup_died-a6c45c419.xml	2134	0	0	0	—
+zscnaddon/vehicle/byde6.obj	场景中使用	byde6-2a6dd351a.xml	4392	0	0	0	TEXTURE_NORMAL c2.png
+zscnaddon/vehicle/changan_jnx_alive.obj	场景中使用	changan_jnx_alive-36695e299.xml	4210	1	0	0	—
+zscnaddon/vehicle/changan_jnx_died.obj	场景中使用	changan_jnx_died-4c2ba6d7b.xml	4210	0	0	0	—
+zscnaddon/vehicle/civilian.obj	场景中使用	civilian-211d77a59.xml	2256	0	0	0	TEXTURE_LIT civil_LIT.png
+zscnaddon/vehicle/civilian_died.obj	场景中使用	civilian_died-5add6d539.xml	2256	0	0	0	—
+zscnaddon/vehicle/coasterdied.obj	场景中使用	coasterdied-aab65a911.xml	3158	0	0	0	—
+zscnaddon/vehicle/coastern.obj	场景中使用	coastern-e52775706.xml	3158	1	0	0	—
+zscnaddon/vehicle/deer_pickup_alive.obj	场景中使用	deer_pickup_alive-b0e68f3df.xml	2322	1	0	0	—
+zscnaddon/vehicle/deer_pickup_died.obj	场景中使用	deer_pickup_died-d4424cbc6.xml	2322	0	0	0	—
+zscnaddon/vehicle/dfv22_pickup_alive.obj	场景中使用	dfv22_pickup_alive-f1cb57e9a.xml	2490	1	0	0	—
+zscnaddon/vehicle/dfv22_pickup_died.obj	场景中使用	dfv22_pickup_died-3adb896e9.xml	2490	0	0	0	—
+zscnaddon/vehicle/dfvan_K07_alive.obj	源包未摆放的备用模型	dfvan_K07_alive-18548f70c.xml	4068	1	0	0	—
+zscnaddon/vehicle/dfvan_K07_died.obj	场景中使用	dfvan_K07_died-7d10dc3b9.xml	4068	0	0	0	—
+zscnaddon/vehicle/howo_fire_340.obj	场景中使用	howo_fire_340-5f7a69345.xml	3223	1	0	0	—
+zscnaddon/vehicle/howo_fire_340_died.obj	场景中使用	howo_fire_340_died-1df4dd17d.xml	3223	0	0	0	—
+zscnaddon/vehicle/jbn.obj	场景中使用	jbn-5f40c3024.xml	2452	1	0	0	—
+zscnaddon/vehicle/jbndied.obj	场景中使用	jbndied-04ea48b1c.xml	2452	0	0	0	—
+zscnaddon/vehicle/jd.obj	场景中使用	jd-0e40bcfc8.xml	2300	1	0	0	—
+zscnaddon/vehicle/jdied.obj	场景中使用	jdied-cb8e526e1.xml	2300	0	0	0	—
+zscnaddon/vehicle/jettacivilalive.obj	场景中使用	jettacivilalive-b672f21ad.xml	4162	1	0	0	—
+zscnaddon/vehicle/jettacivildied.obj	场景中使用	jettacivildied-41b652abb.xml	4162	0	0	0	—
+zscnaddon/vehicle/santana_alive.obj	场景中使用	santana_alive-6d174af8e.xml	4212	1	0	0	—
+zscnaddon/vehicle/santana_died.obj	场景中使用	santana_died-df24fcf91.xml	4212	0	0	0	—
+zscnaddon/vehicle/shuttle_alive.obj	场景中使用	shuttle_alive-a5148c391.xml	861	0	0	0	—
+zscnaddon/vehicle/transit.obj	场景中使用	transit-841c0aa14.xml	2838	0	0	0	TEXTURE_LIT transit_LIT.png
+zscnaddon/vehicle/transitdied.obj	场景中使用	transitdied-a52398cd3.xml	2852	0	0	0	—
+zscnaddon/vehicle/water.obj	场景中使用	water-5b4653f03.xml	3194	0	0	0	—
+zscnaddon/vehicle/yongshi.obj	场景中使用	yongshi-2a4e62fc7.xml	3094	0	0	0	TEXTURE_LIT civil_LIT.png, TEXTURE_NORMAL c1.png
+zscnaddon/vehicle/yongshi_died.obj	场景中使用	yongshi_died-4e4be44d3.xml	3094	0	0	0	TEXTURE_NORMAL c1.png

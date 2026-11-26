@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PropertyList>
+  <animation>
+    <type>select</type>
+    <object-name>Lamp13</object-name>
+    <object-name>Lamp14</object-name>
+    <condition>
+      <greater-than>
+        <property>/sim/time/sun-angle-rad</property>
+        <value>1.48</value>
+      </greater-than>
+    </condition>
+  </animation>
+  <path>SecurityCameras-ea48584e3.osgb</path>
+</PropertyList>

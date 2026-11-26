@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PropertyList>
+  <animation>
+    <type>select</type>
+    <object-name>Lamp1</object-name>
+    <object-name>Lamp2</object-name>
+    <condition>
+      <greater-than>
+        <property>/sim/time/sun-angle-rad</property>
+        <value>1.48</value>
+      </greater-than>
+    </condition>
+  </animation>
+  <effect>
+    <inherits-from>Effects/model-combined</inherits-from>
+    <object-name>Mesh0</object-name>
+    <parameters>
+      <lightmap-enabled type="int">1</lightmap-enabled>
+      <lightmap-factor type="float" n="0">
+        <use>/environment/lightmap-factor</use>
+      </lightmap-factor>
+      <texture n="3">
+        <image>Textures/pickup_LIT-c759d4ecd4c6.png</image>
+        <wrap-s>repeat</wrap-s>
+        <wrap-t>repeat</wrap-t>
+      </texture>
+    </parameters>
+  </effect>
+  <path>deer_pickup_alive-b0e68f3df.osgb</path>
+</PropertyList>
