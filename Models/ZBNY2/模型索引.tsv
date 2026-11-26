@@ -14,13 +14,13 @@ X-Plane 源路径	移植状态	FlightGear 模型	网格三角面	夜间贴图	�
 510newpay/Trees/shrub_2.obj	场景中使用	shrub_2-5a20c63c0.xml	24	0	0	0	—
 510newpay/Trees/shrub_3.obj	场景中使用	shrub_3-f8ec0dc2e.xml	24	0	0	0	—
 Copied/Stripes/4_Arrows.obj	源包未摆放的备用模型	4_Arrows-c1f665a95.xml	24	0	0	0	—
-Copied/Stripes/Aiming_Point.obj	场景中使用	Aiming_Point-6d084c121.xml	2	0	0	0	—
+Copied/Stripes/Aiming_Point.obj	沿用同址的旧版模型	Aiming_Point-6d084c121.xml	2	0	0	0	—
 Copied/Stripes/Arrow.obj	源包未摆放的备用模型	Arrow-ce787b642.xml	2	0	0	0	—
-Copied/Stripes/Distance_1.obj	场景中使用	Distance_1-bbf6468b1.xml	2	0	0	0	—
+Copied/Stripes/Distance_1.obj	沿用同址的旧版模型	Distance_1-bbf6468b1.xml	2	0	0	0	—
 Copied/Stripes/Distance_2.obj	源包未摆放的备用模型	Distance_2-0b58c34e2.xml	4	0	0	0	—
 Copied/Stripes/Distance_3.obj	源包未摆放的备用模型	Distance_3-c050e6ece.xml	6	0	0	0	—
 Copied/Stripes/Treshold.obj	源包未摆放的备用模型	Treshold-d79f99530.xml	36	0	0	0	—
-Copied/skidmarks.obj	场景中使用	skidmarks-eef82d1a4.xml	8	0	0	0	—
+Copied/skidmarks.obj	沿用同址的旧版模型	skidmarks-eef82d1a4.xml	8	0	0	0	—
 Correction/B733_GCA.obj	场景中使用	B733_GCA-49c9b9a4d.xml	5845	0	0	0	—
 Correction/CRJ2_DAL_static.obj	场景中使用	CRJ2_DAL_static-05b0753ad.xml	6210	0	0	0	—
 Correction/jiaotongbiaozipai01(1).obj	场景中使用	jiaotongbiaozipai01-1-52df2176f.xml	2110	0	0	0	—

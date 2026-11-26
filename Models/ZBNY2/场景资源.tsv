@@ -12,9 +12,9 @@ DSF 资源	新增独立摆放	沿线摆放	新增围栏段模型	沿用旧模型
 510newpay/Trees/shrub_1.obj	12	0	0	0	0	0	0
 510newpay/Trees/shrub_2.obj	9	0	0	0	0	0	0
 510newpay/Trees/shrub_3.obj	4	0	0	0	0	0	0
-Copied/Stripes/Aiming_Point.obj	4	0	0	0	0	0	0
-Copied/Stripes/Distance_1.obj	20	0	0	0	0	0	0
-Copied/skidmarks.obj	2	0	0	0	0	0	0
+Copied/Stripes/Aiming_Point.obj	0	0	0	4	0	0	0
+Copied/Stripes/Distance_1.obj	0	0	0	20	0	0	0
+Copied/skidmarks.obj	0	0	0	2	0	0	0
 Correction/B733_GCA.obj	2	0	0	0	0	0	0
 Correction/CRJ2_DAL_static.obj	1	0	0	0	0	0	0
 Correction/jiaotongbiaozipai01(1).obj	2	0	0	0	0	0	0

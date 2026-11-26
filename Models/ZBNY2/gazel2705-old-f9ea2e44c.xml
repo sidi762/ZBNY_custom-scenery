@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <PropertyList>
   <animation>
     <type>select</type>
@@ -13,7 +13,6 @@
   </animation>
   <effect>
     <inherits-from>Effects/model-combined</inherits-from>
-    <object-name>Mesh0</object-name>
     <object-name>Mesh1</object-name>
     <object-name>Mesh2</object-name>
     <parameters>
@@ -29,4 +28,29 @@
     </parameters>
   </effect>
   <path>gazel2705-old-f9ea2e44c.osgb</path>
+  <effect>
+    <inherits-from>Models/ZBNY2/ground-decal-lit</inherits-from>
+    <parameters>
+      <lightmap-enabled type="int">1</lightmap-enabled>
+      <lightmap-factor type="float" n="0">
+        <use>/environment/lightmap-factor</use>
+      </lightmap-factor>
+      <texture n="3">
+        <image>Textures/tech2_lit-70879b9e6121.png</image>
+        <wrap-s>repeat</wrap-s>
+        <wrap-t>repeat</wrap-t>
+      </texture>
+      <decal-depth-factor type="float">-2.0</decal-depth-factor>
+      <decal-depth-units type="float">-4.0</decal-depth-units>
+    </parameters>
+    <object-name>Mesh0</object-name>
+  </effect>
+  <animation>
+    <type>translate</type>
+    <object-name>Mesh0</object-name>
+    <starting-position-m>0.035</starting-position-m>
+    <axis>
+      <z>1</z>
+    </axis>
+  </animation>
 </PropertyList>

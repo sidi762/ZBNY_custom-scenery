@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <PropertyList>
   <effect>
     <inherits-from>Effects/model-combined</inherits-from>
@@ -14,4 +14,20 @@
     </parameters>
   </effect>
   <path>barrier_8m_01-2446a2f85.osgb</path>
+  <effect>
+    <inherits-from>Models/ZBNY2/ground-decal</inherits-from>
+    <object-name>Mesh1</object-name>
+    <parameters>
+      <decal-depth-factor type="float">-1.0</decal-depth-factor>
+      <decal-depth-units type="float">-2.0</decal-depth-units>
+    </parameters>
+  </effect>
+  <animation>
+    <type>translate</type>
+    <object-name>Mesh1</object-name>
+    <starting-position-m>0.035</starting-position-m>
+    <axis>
+      <z>1</z>
+    </axis>
+  </animation>
 </PropertyList>
