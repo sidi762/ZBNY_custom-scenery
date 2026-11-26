@@ -2,6 +2,7 @@
 <PropertyList>
   <name>Models/ZBNY2/foliage-cutout</name>
   <inherits-from>Effects/model-default</inherits-from>
+  <!-- Discarded leaf pixels reveal the scene behind them. Surviving pixels write opaque color and depth. -->
   <technique n="5">
     <pass>
       <alpha-test>
@@ -10,9 +11,9 @@
       </alpha-test>
       <blend>
         <active type="bool">true</active>
-        <source>src-alpha</source>
-        <destination>one-minus-src-alpha</destination>
+        <mode type="bool">false</mode>
       </blend>
+      <rendering-hint>opaque</rendering-hint>
     </pass>
   </technique>
   <technique n="11">
@@ -23,9 +24,9 @@
       </alpha-test>
       <blend>
         <active type="bool">true</active>
-        <source>src-alpha</source>
-        <destination>one-minus-src-alpha</destination>
+        <mode type="bool">false</mode>
       </blend>
+      <rendering-hint>opaque</rendering-hint>
     </pass>
   </technique>
   <technique n="13">
@@ -36,9 +37,9 @@
       </alpha-test>
       <blend>
         <active type="bool">true</active>
-        <source>src-alpha</source>
-        <destination>one-minus-src-alpha</destination>
+        <mode type="bool">false</mode>
       </blend>
+      <rendering-hint>opaque</rendering-hint>
     </pass>
   </technique>
 </PropertyList>
