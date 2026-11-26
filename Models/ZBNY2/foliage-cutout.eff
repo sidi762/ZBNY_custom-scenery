@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PropertyList>
+  <name>Models/ZBNY2/foliage-cutout</name>
+  <inherits-from>Effects/model-default</inherits-from>
+  <technique n="5">
+    <pass>
+      <alpha-test>
+        <comparison>greater</comparison>
+        <reference type="float">0.5</reference>
+      </alpha-test>
+      <blend>
+        <active type="bool">true</active>
+        <source>src-alpha</source>
+        <destination>one-minus-src-alpha</destination>
+      </blend>
+    </pass>
+  </technique>
+  <technique n="11">
+    <pass>
+      <alpha-test>
+        <comparison>greater</comparison>
+        <reference type="float">0.5</reference>
+      </alpha-test>
+      <blend>
+        <active type="bool">true</active>
+        <source>src-alpha</source>
+        <destination>one-minus-src-alpha</destination>
+      </blend>
+    </pass>
+  </technique>
+  <technique n="13">
+    <pass>
+      <alpha-test>
+        <comparison>greater</comparison>
+        <reference type="float">0.5</reference>
+      </alpha-test>
+      <blend>
+        <active type="bool">true</active>
+        <source>src-alpha</source>
+        <destination>one-minus-src-alpha</destination>
+      </blend>
+    </pass>
+  </technique>
+</PropertyList>

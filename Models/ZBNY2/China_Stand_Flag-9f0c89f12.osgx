@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene>
+  <Version attribute="162" />
+  <Generator attribute="OpenSceneGraph 3.6.5" />
+  <osg--ProxyNode>
+    <UniqueID attribute="1" />
+    <FileNames attribute="1 &quot;China_Stand_Flag-9f0c89f12.xml&quot;" />
+    <CenterMode attribute="USE_BOUNDING_SPHERE_CENTER" />
+  </osg--ProxyNode>
+</Scene>

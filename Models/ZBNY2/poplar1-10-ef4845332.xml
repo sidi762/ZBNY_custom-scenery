@@ -1,4 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <PropertyList>
   <path>poplar1-10-ef4845332.osgb</path>
+  <effect>
+    <inherits-from>Models/ZBNY2/foliage-cutout</inherits-from>
+    <default type="bool">true</default>
+  </effect>
 </PropertyList>

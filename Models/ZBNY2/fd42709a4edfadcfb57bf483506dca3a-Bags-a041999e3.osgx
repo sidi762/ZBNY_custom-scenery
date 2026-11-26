@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene>
+  <Version attribute="162" />
+  <Generator attribute="OpenSceneGraph 3.6.5" />
+  <osg--ProxyNode>
+    <UniqueID attribute="1" />
+    <FileNames attribute="1 &quot;fd42709a4edfadcfb57bf483506dca3a-Bags-a041999e3.xml&quot;" />
+    <CenterMode attribute="USE_BOUNDING_SPHERE_CENTER" />
+  </osg--ProxyNode>
+</Scene>

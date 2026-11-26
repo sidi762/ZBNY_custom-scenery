@@ -1,4 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <PropertyList>
   <path>oak1-17-db548d2eb.osgb</path>
+  <effect>
+    <inherits-from>Models/ZBNY2/foliage-cutout</inherits-from>
+    <default type="bool">true</default>
+  </effect>
 </PropertyList>
