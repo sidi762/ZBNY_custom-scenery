@@ -13,6 +13,7 @@
         <wrap-s>repeat</wrap-s>
         <wrap-t>repeat</wrap-t>
       </texture>
+      <ambient-correction type="float">0.09</ambient-correction>
     </parameters>
   </effect>
   <path>EETN_ApronDetails_Zestaw1-EETN_LightMast-3dd154184.osgb</path>

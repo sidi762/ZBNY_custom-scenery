@@ -13,6 +13,7 @@
         <wrap-s>repeat</wrap-s>
         <wrap-t>repeat</wrap-t>
       </texture>
+      <ambient-correction type="float">0.14</ambient-correction>
     </parameters>
   </effect>
   <path>F_flatcar_long_y_empty_1_17-33-4edf36b76.osgb</path>

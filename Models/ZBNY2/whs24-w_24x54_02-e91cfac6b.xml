@@ -21,6 +21,7 @@
         <wrap-s>repeat</wrap-s>
         <wrap-t>repeat</wrap-t>
       </texture>
+      <ambient-correction type="float">0.10</ambient-correction>
     </parameters>
   </effect>
   <path>whs24-w_24x54_02-e91cfac6b.osgb</path>

@@ -13,6 +13,7 @@
         <wrap-s>repeat</wrap-s>
         <wrap-t>repeat</wrap-t>
       </texture>
+      <ambient-correction type="float">0.10</ambient-correction>
     </parameters>
   </effect>
   <path>Edificio_Re-Chico-5090fa245.osgb</path>

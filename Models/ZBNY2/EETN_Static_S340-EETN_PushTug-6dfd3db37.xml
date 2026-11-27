@@ -20,6 +20,7 @@
         <wrap-s>repeat</wrap-s>
         <wrap-t>repeat</wrap-t>
       </texture>
+      <ambient-correction type="float">0.14</ambient-correction>
     </parameters>
   </effect>
   <path>EETN_Static_S340-EETN_PushTug-6dfd3db37.osgb</path>

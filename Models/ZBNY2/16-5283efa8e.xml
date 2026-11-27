@@ -13,6 +13,7 @@
         <wrap-s>repeat</wrap-s>
         <wrap-t>repeat</wrap-t>
       </texture>
+      <ambient-correction type="float">0.09</ambient-correction>
     </parameters>
   </effect>
   <path>16-5283efa8e.osgb</path>

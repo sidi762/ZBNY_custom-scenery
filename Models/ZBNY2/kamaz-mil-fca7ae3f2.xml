@@ -14,6 +14,20 @@
   <effect>
     <inherits-from>Effects/model-combined</inherits-from>
     <object-name>Mesh0</object-name>
+    <parameters>
+      <lightmap-enabled type="int">1</lightmap-enabled>
+      <lightmap-factor type="float" n="0">
+        <use>/environment/lightmap-factor</use>
+      </lightmap-factor>
+      <texture n="3">
+        <image>Textures/tech2_lit-70879b9e6121.png</image>
+        <wrap-s>repeat</wrap-s>
+        <wrap-t>repeat</wrap-t>
+      </texture>
+    </parameters>
+  </effect>
+  <effect>
+    <inherits-from>Effects/model-combined</inherits-from>
     <object-name>Mesh1</object-name>
     <object-name>Mesh2</object-name>
     <parameters>
@@ -26,6 +40,7 @@
         <wrap-s>repeat</wrap-s>
         <wrap-t>repeat</wrap-t>
       </texture>
+      <ambient-correction type="float">0.14</ambient-correction>
     </parameters>
   </effect>
   <path>kamaz-mil-fca7ae3f2.osgb</path>

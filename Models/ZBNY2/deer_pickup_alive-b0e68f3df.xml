@@ -24,6 +24,7 @@
         <wrap-s>repeat</wrap-s>
         <wrap-t>repeat</wrap-t>
       </texture>
+      <ambient-correction type="float">0.14</ambient-correction>
     </parameters>
   </effect>
   <path>deer_pickup_alive-b0e68f3df.osgb</path>
