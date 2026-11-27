@@ -9,3 +9,5 @@ FGPRC 1.0：FGPRC-0762、FGPRC-6521。原机坪灯来自 Omega 的新加坡地�
 原有 FGPRC 地景的作者和许可见根目录 AUTHOR、COPYING、THANKS，以及 Models/org.aericaps.ZBNY/LICENSING。
 
 本次修改包括转换网格与贴图、适配材质与灯点、静态化 X-Plane 专用动画和转换历史场景摆放。模型索引.tsv 保留源文件名、对应的 FlightGear XML 入口、夜纹理、法线纹理以及缺失资源。场景资源.tsv 记录原场景已使用的资源及摆放核对结果。
+
+进场道路沿用 Star Atlas – ZBNY Beijing Nanyuan v2 的 obj/road.lin 和 obj/daolu.png，按原场景曲线和贴图比例转换。
