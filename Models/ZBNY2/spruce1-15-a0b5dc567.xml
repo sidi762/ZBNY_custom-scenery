@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PropertyList>
+  <path>spruce1-15-a0b5dc567.osgb</path>
+  <effect>
+    <inherits-from>Models/ZBNY2/foliage-cutout</inherits-from>
+    <default type="bool">true</default>
+  </effect>
+</PropertyList>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PropertyList>
+  <animation>
+    <type>select</type>
+    <object-name>Lamp6</object-name>
+    <object-name>Lamp7</object-name>
+    <condition>
+      <greater-than>
+        <property>/sim/time/sun-angle-rad</property>
+        <value>1.48</value>
+      </greater-than>
+    </condition>
+  </animation>
+  <path>Fuel_Truck_Small-c76364916.osgb</path>
+</PropertyList>

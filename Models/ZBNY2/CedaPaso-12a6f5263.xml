@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PropertyList>
+  <path>CedaPaso-12a6f5263.osgb</path>
+  <effect>
+    <inherits-from>Models/ZBNY2/ground-decal</inherits-from>
+    <object-name>Mesh0</object-name>
+    <parameters>
+      <decal-depth-factor type="float">-1.0</decal-depth-factor>
+      <decal-depth-units type="float">-2.0</decal-depth-units>
+    </parameters>
+  </effect>
+</PropertyList>

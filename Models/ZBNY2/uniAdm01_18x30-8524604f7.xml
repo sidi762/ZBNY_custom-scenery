@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PropertyList>
+  <effect>
+    <inherits-from>Effects/model-combined</inherits-from>
+    <object-name>Mesh0</object-name>
+    <object-name>Mesh1</object-name>
+    <parameters>
+      <lightmap-enabled type="int">1</lightmap-enabled>
+      <lightmap-factor type="float" n="0">
+        <use>/environment/lightmap-factor</use>
+      </lightmap-factor>
+      <texture n="3">
+        <image>Textures/bld_EUhigh1_LIT-dc947b1b8c6e.png</image>
+        <wrap-s>repeat</wrap-s>
+        <wrap-t>repeat</wrap-t>
+      </texture>
+      <ambient-correction type="float">0.10</ambient-correction>
+    </parameters>
+  </effect>
+  <path>uniAdm01_18x30-8524604f7.osgb</path>
+</PropertyList>

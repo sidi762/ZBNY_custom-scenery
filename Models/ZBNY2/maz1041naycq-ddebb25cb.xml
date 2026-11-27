@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PropertyList>
+  <animation>
+    <type>select</type>
+    <object-name>Lamp2</object-name>
+    <object-name>Lamp3</object-name>
+    <condition>
+      <greater-than>
+        <property>/sim/time/sun-angle-rad</property>
+        <value>1.48</value>
+      </greater-than>
+    </condition>
+  </animation>
+  <path>maz1041naycq-ddebb25cb.osgb</path>
+  <effect>
+    <inherits-from>Models/ZBNY2/ground-decal</inherits-from>
+    <object-name>Mesh0</object-name>
+    <parameters>
+      <decal-depth-factor type="float">-2.0</decal-depth-factor>
+      <decal-depth-units type="float">-4.0</decal-depth-units>
+    </parameters>
+  </effect>
+  <animation>
+    <type>translate</type>
+    <object-name>Mesh0</object-name>
+    <starting-position-m>0.035</starting-position-m>
+    <axis>
+      <z>1</z>
+    </axis>
+  </animation>
+</PropertyList>

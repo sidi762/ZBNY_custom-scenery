@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PropertyList>
+  <path>gnd_parking_1x4-d3bb2ef8e.osgb</path>
+  <effect>
+    <inherits-from>Models/ZBNY2/ground-decal</inherits-from>
+    <object-name>Mesh0</object-name>
+    <parameters>
+      <decal-depth-factor type="float">-1.0</decal-depth-factor>
+      <decal-depth-units type="float">-2.0</decal-depth-units>
+    </parameters>
+  </effect>
+</PropertyList>

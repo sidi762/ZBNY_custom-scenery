@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PropertyList>
+  <name>Models/ZBNY2/ground-decal-lit</name>
+  <inherits-from>Effects/model-combined</inherits-from>
+  <parameters>
+    <decal-depth-factor type="float">-1</decal-depth-factor>
+    <decal-depth-units type="float">-2</decal-depth-units>
+  </parameters>
+  <technique n="4">
+    <pass>
+      <polygon-offset>
+        <factor>
+          <use>decal-depth-factor</use>
+        </factor>
+        <units>
+          <use>decal-depth-units</use>
+        </units>
+      </polygon-offset>
+    </pass>
+  </technique>
+  <technique n="5">
+    <pass>
+      <polygon-offset>
+        <factor>
+          <use>decal-depth-factor</use>
+        </factor>
+        <units>
+          <use>decal-depth-units</use>
+        </units>
+      </polygon-offset>
+    </pass>
+  </technique>
+  <technique n="11">
+    <pass>
+      <polygon-offset>
+        <factor>
+          <use>decal-depth-factor</use>
+        </factor>
+        <units>
+          <use>decal-depth-units</use>
+        </units>
+      </polygon-offset>
+    </pass>
+  </technique>
+  <technique n="13">
+    <pass>
+      <polygon-offset>
+        <factor>
+          <use>decal-depth-factor</use>
+        </factor>
+        <units>
+          <use>decal-depth-units</use>
+        </units>
+      </polygon-offset>
+    </pass>
+  </technique>
+</PropertyList>

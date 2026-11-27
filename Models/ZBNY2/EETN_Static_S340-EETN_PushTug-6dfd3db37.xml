@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PropertyList>
+  <effect>
+    <inherits-from>Effects/model-combined</inherits-from>
+    <object-name>Mesh0</object-name>
+    <parameters>
+      <lightmap-enabled type="int">1</lightmap-enabled>
+      <lightmap-factor type="float" n="0">
+        <use>/environment/lightmap-factor</use>
+      </lightmap-factor>
+      <normalmap-enabled type="int">1</normalmap-enabled>
+      <normalmap-tiling type="float">1</normalmap-tiling>
+      <texture n="3">
+        <image>Textures/EETN_PushTug_LIT-332a4ba2df0b.png</image>
+        <wrap-s>repeat</wrap-s>
+        <wrap-t>repeat</wrap-t>
+      </texture>
+      <texture n="2">
+        <image>Textures/EETN_PushTug_NML-cdce07eeaceb.png</image>
+        <wrap-s>repeat</wrap-s>
+        <wrap-t>repeat</wrap-t>
+      </texture>
+      <ambient-correction type="float">0.14</ambient-correction>
+    </parameters>
+  </effect>
+  <path>EETN_Static_S340-EETN_PushTug-6dfd3db37.osgb</path>
+</PropertyList>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyList>
+  <path>road.ac</path>
+  <effect>
+    <object-name>Access road</object-name>
+    <inherits-from>Models/ZBNY2/ground-decal</inherits-from>
+  </effect>
+  <animation>
+    <type>noshadow</type>
+    <object-name>Access road</object-name>
+  </animation>
+  <animation>
+    <object-name>Access road</object-name>
+    <enable-hot type="bool">false</enable-hot>
+  </animation>
+</PropertyList>

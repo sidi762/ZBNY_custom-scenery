@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PropertyList>
+  <animation>
+    <type>select</type>
+    <object-name>Lamp2</object-name>
+    <condition>
+      <greater-than>
+        <property>/sim/time/sun-angle-rad</property>
+        <value>1.48</value>
+      </greater-than>
+    </condition>
+  </animation>
+  <effect>
+    <inherits-from>Effects/model-combined</inherits-from>
+    <object-name>Mesh0</object-name>
+    <object-name>Mesh1</object-name>
+    <parameters>
+      <lightmap-enabled type="int">1</lightmap-enabled>
+      <lightmap-factor type="float" n="0">
+        <use>/environment/lightmap-factor</use>
+      </lightmap-factor>
+      <normalmap-enabled type="int">1</normalmap-enabled>
+      <normalmap-tiling type="float">1</normalmap-tiling>
+      <texture n="3">
+        <image>Textures/bld_EUindustr1_LIT-b9c5901ae507.png</image>
+        <wrap-s>repeat</wrap-s>
+        <wrap-t>repeat</wrap-t>
+      </texture>
+      <texture n="2">
+        <image>Textures/bld_EUindustr1_NML-2b5f2a2e7978.png</image>
+        <wrap-s>repeat</wrap-s>
+        <wrap-t>repeat</wrap-t>
+      </texture>
+      <ambient-correction type="float">0.10</ambient-correction>
+    </parameters>
+  </effect>
+  <path>whs18-w_18x60_03-41a7f273b.osgb</path>
+</PropertyList>

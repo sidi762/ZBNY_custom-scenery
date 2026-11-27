@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PropertyList>
+  <effect>
+    <inherits-from>Effects/model-combined</inherits-from>
+    <object-name>Mesh0</object-name>
+    <parameters>
+      <normalmap-enabled type="int">1</normalmap-enabled>
+      <normalmap-tiling type="float">1</normalmap-tiling>
+      <texture n="2">
+        <image>Textures/clutter_eu1_NML-295d8c2a86c5.png</image>
+        <wrap-s>repeat</wrap-s>
+        <wrap-t>repeat</wrap-t>
+      </texture>
+      <ambient-correction type="float">0.10</ambient-correction>
+    </parameters>
+  </effect>
+  <path>Park_bench_1-9d396a545.osgb</path>
+  <effect>
+    <inherits-from>Models/ZBNY2/ground-decal</inherits-from>
+    <object-name>Mesh1</object-name>
+    <parameters>
+      <decal-depth-factor type="float">-1.0</decal-depth-factor>
+      <decal-depth-units type="float">-2.0</decal-depth-units>
+    </parameters>
+  </effect>
+  <animation>
+    <type>translate</type>
+    <object-name>Mesh1</object-name>
+    <starting-position-m>0.035</starting-position-m>
+    <axis>
+      <z>1</z>
+    </axis>
+  </animation>
+</PropertyList>

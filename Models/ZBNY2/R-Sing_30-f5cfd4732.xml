@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PropertyList>
+  <path>R-Sing_30-f5cfd4732.osgb</path>
+  <effect>
+    <inherits-from>Models/ZBNY2/ground-decal</inherits-from>
+    <object-name>Mesh0</object-name>
+    <parameters>
+      <decal-depth-factor type="float">-2.0</decal-depth-factor>
+      <decal-depth-units type="float">-4.0</decal-depth-units>
+    </parameters>
+  </effect>
+</PropertyList>
